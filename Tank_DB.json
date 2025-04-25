@@ -1,5 +1,13 @@
 [
   {
+    "ID": "EOKA",
+    "name": "120S (USA)",
+    "country": "USA",
+    "weapons_default": "us_m60_120s_default",
+    "ammo_amount": 25,
+    "image": "us_m60_120s.png"
+  },
+  {
     "ID": "us_m60_120s",
     "name": "120S (USA)",
     "country": "USA",
