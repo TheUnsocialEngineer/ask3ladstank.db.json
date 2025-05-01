@@ -2122,7 +2122,7 @@
   },
   {
     "ID": "germ_sturmpanzer_iv_brummbar",
-    "name": "Brummb\u00c3\u00a4r (Germany)",
+    "name": "Brummbar (Germany)",
     "country": "Germany",
     "weapons_default": "germ_sturmpanzer_iv_brummbar_default",
     "ammo_amount": 25,
