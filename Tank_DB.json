@@ -18,9 +18,7 @@
     "role": "Medium tank",
     "ammo": [
       "120mm_NATO_APDS_FS",
-      "120mm_NATO_APDS_FS_ammo_pack",
-      "120mm_M829A_APDS_FS",
-      "120mm_M829A_APDS_FS_ammo_pack"
+      "120mm_M829A_APDS_FS"
     ]
   },
   {
@@ -33,9 +31,7 @@
     "role": "SPAA",
     "ammo": [
       "25mm_M242_HE",
-      "25mm_M242_APDS",
-      "25mm_M242_HE_ammo_pack",
-      "25mm_M242_APDS_ammo_pack"
+      "25mm_M242_APDS"
     ]
   },
   {
@@ -50,11 +46,7 @@
       "105mm_us_M416_Smoke",
       "105mm_usa_HESH",
       "105mm_usa_M774_APDS_FS",
-      "105mm_usa_M833_APDS_FS",
-      "105mm_us_M416_Smoke_ammo_pack",
-      "105mm_usa_HESH_ammo_pack",
-      "105mm_usa_M774_APDS_FS_ammo_pack",
-      "105mm_usa_M833_APDS_FS_ammo_pack"
+      "105mm_usa_M833_APDS_FS"
     ]
   },
   {
@@ -70,9 +62,6 @@
       "105mm_usa_HESH",
       "105mm_NATO_APDS_FS",
       "105mm_usa_M833_APDS_FS",
-      "105mm_us_M416_Smoke_ammo_pack",
-      "105mm_usa_HESH_ammo_pack",
-      "105mm_NATO_APDS_FS_ammo_pack",
       "105mm_usa_M833_APDS_FS_amm"
     ]
   },
@@ -87,9 +76,7 @@
     "ammo": [
       "75mm_usa_HE",
       "75mm_usa_APCBC",
-      "75mm_usa_APCBC_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -112,13 +99,10 @@
     "ammo": [
       "37mm_usa_m3_AP",
       "37mm_usa_m3_APC",
-      "37mm_usa_m3_APC_ammo_pack",
       "75mm_usa_HE",
       "75mm_usa_AP",
       "75mm_usa_APCBC",
-      "75mm_usa_APCBC_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -143,13 +127,9 @@
     "role": "Medium tank",
     "ammo": [
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
       "105mm_NATO_APDS_FS",
-      "105mm_NATO_APDS_FS_ammo_pack",
       "105mm_us_M416_Smoke",
-      "105mm_us_M416_Smoke_ammo_pack",
-      "105mm_usa_M774_APDS_FS",
-      "105mm_usa_M774_APDS_FS_ammo_pack"
+      "105mm_usa_M774_APDS_FS"
     ]
   },
   {
@@ -162,8 +142,7 @@
     "role": "SPAA",
     "ammo": [
       "127mm_MIM72A_aam",
-      "127mm_MIM72C_aam",
-      "127mm_MIM72C_aam_ammo_pack"
+      "127mm_MIM72C_aam"
     ]
   },
   {
@@ -177,11 +156,8 @@
     "ammo": [
       "25mm_PGU_HE",
       "25mm_PGU_AP",
-      "25mm_PGU_HE_ammo_pack",
-      "25mm_PGU_AP_ammo_pack",
       "70mm_stinger_block1_sam",
-      "70mm_stinger_block2_aam",
-      "70mm_stinger_block2_aam_ammo_pack"
+      "70mm_stinger_block2_aam"
     ]
   },
   {
@@ -226,13 +202,9 @@
     "role": "Medium tank",
     "ammo": [
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
       "105mm_NATO_APDS_FS",
-      "105mm_NATO_APDS_FS_ammo_pack",
       "105mm_us_M416_Smoke",
-      "105mm_us_M416_Smoke_ammo_pack",
-      "105mm_usa_M774_APDS_FS",
-      "105mm_usa_M774_APDS_FS_ammo_pack"
+      "105mm_usa_M774_APDS_FS"
     ]
   },
   {
@@ -245,13 +217,9 @@
     "role": "Medium tank",
     "ammo": [
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
       "105mm_NATO_APDS_FS",
-      "105mm_NATO_APDS_FS_ammo_pack",
       "105mm_us_M416_Smoke",
-      "105mm_us_M416_Smoke_ammo_pack",
-      "105mm_usa_M774_APDS_FS",
-      "105mm_usa_M774_APDS_FS_ammo_pack"
+      "105mm_usa_M774_APDS_FS"
     ]
   },
   {
@@ -264,8 +232,7 @@
     "role": "Tank destroyer",
     "ammo": [
       "76mm_usa_M42A1_HE",
-      "76mm_usa_APCBC",
-      "76mm_usa_APCBC_ammo_pack"
+      "76mm_usa_APCBC"
     ]
   },
   {
@@ -279,9 +246,7 @@
     "ammo": [
       "120mm_usa_M356_HE",
       "120mm_usa_M469_HEAT",
-      "120mm_usa_M469_HEAT_ammo_pack",
-      "120mm_us_M357_Smoke",
-      "120mm_us_M357_Smoke_ammo_pack"
+      "120mm_us_M357_Smoke"
     ]
   },
   {
@@ -294,9 +259,7 @@
     "role": "Light tank",
     "ammo": [
       "105mm_NATO_APDS_FS",
-      "105mm_NATO_APDS_FS_ammo_pack",
-      "105mm_usa_M500_APDS_FS",
-      "105mm_usa_M900_APDS_FS_ammo_pack"
+      "105mm_usa_M500_APDS_FS"
     ]
   },
   {
@@ -309,9 +272,7 @@
     "role": "Light tank",
     "ammo": [
       "105mm_NATO_APDS_FS",
-      "105mm_NATO_APDS_FS_ammo_pack",
-      "105mm_usa_M500_APDS_FS",
-      "105mm_usa_M900_APDS_FS_ammo_pack"
+      "105mm_usa_M500_APDS_FS"
     ]
   },
   {
@@ -325,11 +286,8 @@
     "ammo": [
       "12mm_usa_M2HB_common",
       "12mm_usa_M2HB_APT",
-      "12mm_usa_M2HB_APLammo_pack",
       "12mm_usa_M2HB_AP",
-      "12mm_usa_M2HB_AP_ammo_pack",
-      "12mm_usa_M2HB_APIT",
-      "12mm_usa_M2HB_APIT_ammo_pack"
+      "12mm_usa_M2HB_APIT"
     ]
   },
   {
@@ -343,16 +301,11 @@
     "ammo": [
       "12mm_usa_M2HB_common",
       "12mm_usa_M2HB_APT",
-      "12mm_usa_M2HB_APT_ammo_pack",
       "12mm_usa_M2HB_AP",
-      "12mm_usa_M2HB_AP_ammo_pack",
       "12mm_usa_M2HB_APIT",
-      "12mm_usa_M2HB_APIT_ammo_pack",
       "37mm_usa_universal",
       "37mm_usa_m54_HE",
-      "37mm_usa_m54_HE_ammo_pack",
-      "37mm_usa_m59a1_AP",
-      "37mm_usa_m59a1_AP_ammo_pack"
+      "37mm_usa_m59a1_AP"
     ]
   },
   {
@@ -366,10 +319,8 @@
     "ammo": [
       "12mm_usa_M2HB_common",
       "12mm_usa_M2HB_APT",
-      "12mm_usa_M2HB_APT_ammo_pack",
       "12mm_usa_M2HB_AP",
-      "12mm_usa_M2HB_APIT",
-      "12mm_usa_M2HB_APIT_ammo_pack"
+      "12mm_usa_M2HB_APIT"
     ]
   },
   {
@@ -382,9 +333,7 @@
     "role": "SPAA",
     "ammo": [
       "20mm_Vulcan_HEI",
-      "20mm_Vulcan_API",
-      "20mm_Vulcan_HE_ammo_pack",
-      "20mm_Vulcan_API_ammo_pack"
+      "20mm_Vulcan_API"
     ]
   },
   {
@@ -397,11 +346,8 @@
     "ammo": [
       "76mm_usa_M42A1_HE",
       "76mm_usa_APCBC",
-      "76mm_usa_APCBC_ammo_pack",
       "76mm_usa_M93_APCR",
-      "76mm_usa_M93_APCR_ammo_pack",
-      "76mm_us_M88_Smoke",
-      "76mm_us_M88_Smoke_ammo_pack"
+      "76mm_us_M88_Smoke"
     ]
   },
   {
@@ -415,11 +361,8 @@
     "ammo": [
       "76mm_usa_M42A1_HE",
       "76mm_usa_APCBC",
-      "76mm_usa_APCBC_ammo_pack",
       "7mm_usa_M93_APCR",
-      "76mm_usa_M93_APCR_ammo_pack",
-      "76mm_us_M88_Smoke",
-      "76mm_us_M88_Smoke_ammo_pack"
+      "76mm_us_M88_Smoke"
     ]
   },
   {
@@ -432,9 +375,7 @@
     "role": "SPAA",
     "ammo": [
       "40mm_usa_M2_HE",
-      "40mm_usa_M2_AP",
-      "40mm_usa_M2_HE_ammo_pack",
-      "40mm_usa_M2_AP_ammo_pack"
+      "40mm_usa_M2_AP"
     ]
   },
   {
@@ -447,9 +388,7 @@
     "role": "Medium tank",
     "ammo": [
       "120mm_NATO_APDS_FS",
-      "120mm_NATO_APDS_FS_ammo_pack",
-      "120mm_M829A_APDS_FS",
-      "120mm_M829A_APDS_FS_ammo_pack"
+      "120mm_M829A_APDS_FS"
     ]
   },
   {
@@ -462,9 +401,7 @@
     "role": "Medium tank",
     "ammo": [
       "120mm_DM_HEAT_FS",
-      "120mm_DM_HEAT_FS_ammo_pack",
-      "120mm_NATO_APDS_FS",
-      "120mm_NATO_APDS_FS_ammo_pack"
+      "120mm_NATO_APDS_FS"
     ]
   },
   {
@@ -475,11 +412,8 @@
     "ammo_amount": 25,
     "image": "us_m1a1_hc_usmc.png",
     "ammo": [
-      "120mm_DM_HEAT_FS_ammo_pack",
       "120mm_NATO_APDS_FS",
-      "120mm_NATO_APDS_FS_ammo_pack",
-      "120mm_M829A_APDS_FS",
-      "120mm_M829A_APDS_FS_ammo_pack"
+      "120mm_M829A_APDS_FS"
     ]
   },
   {
@@ -492,11 +426,8 @@
     "role": "Medium tank",
     "ammo": [
       "120mm_DM_HEAT_FS",
-      "120mm_DM_HEAT_FS_ammo_pack",
       "120mm_NATO_APDS_FS",
-      "120mm_NATO_APDS_FS_ammo_pack",
-      "120mm_M829A_APDS_FS",
-      "120mm_M829A_APDS_FS_ammo_pack"
+      "120mm_M829A_APDS_FS"
     ]
   },
   {
@@ -510,9 +441,7 @@
     "ammo": [
       "NATO_APDS_FS",
       "120mm_DM_HEAT_FS",
-      "120mm_DM_HEAT_FS_ammo_pack",
-      "120mm_M829A_APDS_FS",
-      "120mm_M829A_APDS_FS_ammo_pack"
+      "120mm_M829A_APDS_FS"
     ]
   },
   {
@@ -526,9 +455,7 @@
     "ammo": [
       "NATO_APDS_FS",
       "120mm_DM_HEAT_FS",
-      "120mm_DM_HEAT_FS_ammo_pack",
-      "120mm_M829A_APDS_FS",
-      "120mm_M829A_APDS_FS_ammo_pack"
+      "120mm_M829A_APDS_FS"
     ]
   },
   {
@@ -542,9 +469,7 @@
     "ammo": [
       "NATO_APDS_FS",
       "120mm_DM_HEAT_FS",
-      "120mm_DM_HEAT_FS_ammo_pack",
-      "120mm_M829A_APDS_FS",
-      "120mm_M829A_APDS_FS_ammo_pack"
+      "120mm_M829A_APDS_FS"
     ]
   },
   {
@@ -556,8 +481,7 @@
     "image": "us_m2_medium.png",
     "role": "Medium tank",
     "ammo": [
-      "37mm_usa_m3_APC",
-      "37mm_usa_m3_APC_ammo_pack"
+      "37mm_usa_m3_APC"
     ]
   },
   {
@@ -570,8 +494,7 @@
     "role": "Light tank",
     "ammo": [
       "37mm_usa_m3_HE",
-      "37mm_usa_m3_APC",
-      "37mm_usa_m3_APC_ammo_pack"
+      "37mm_usa_m3_APC"
     ]
   },
   {
@@ -585,9 +508,7 @@
     "ammo": [
       "75mm_us_HE",
       "75mm_usa_APCBC",
-      "75mm_usa_APCBC_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -600,11 +521,8 @@
     "ammo": [
       "75mm_us_HE",
       "75mm_usa_APCBC",
-      "75mm_usa_APCBC_ammo_pack",
       "75mm_usa_APCR",
-      "75mm_usa_APCR_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -618,10 +536,7 @@
     "ammo": [
       "40mm_SGT_YORK_AP",
       "40mm_SGT_YORK_HE",
-      "40mm_SGT_YORK_HE_prox",
-      "40mm_SGT_YORK_HE_prox_ammo_pack",
-      "40mm_SGT_YORK_HE_ammo_pack",
-      "40mm_SGT_YORK_AP_ammo_pack"
+      "40mm_SGT_YORK_HE_prox"
     ]
   },
   {
@@ -633,13 +548,10 @@
     "image": "us_m26_pershing.png",
     "role": "Medium tank",
     "ammo": [
-      "90mm_us_M82_APCBC_ammo_pack",
       "90mm_us_M82_APCBC",
-      "90mm_us_M304_APCR_ammo_pack",
       "90mm_us_M304_APCR",
       "90mm_us_M71_HE",
-      "90mm_us_M313_Smoke",
-      "90mm_us_M313_Smoke_ammo_pack"
+      "90mm_us_M313_Smoke"
     ]
   },
   {
@@ -651,13 +563,10 @@
     "image": "us_m26_t99.png",
     "role": "Medium tank",
     "ammo": [
-      "90mm_us_M82_APCBC_ammo_pack",
       "90mm_us_M82_APCBC",
-      "90mm_us_M304_APCR_ammo_pack",
       "90mm_us_M304_APCR",
       "90mm_us_M71_HE",
-      "90mm_us_M313_Smoke",
-      "90mm_us_M313_Smoke_ammo_pack"
+      "90mm_us_M313_Smoke"
     ]
   },
   {
@@ -670,10 +579,8 @@
     "role": "Medium tank",
     "ammo": [
       "90mm_us_T42_HE",
-      "90mm_us_M82_APCBC_ammo_pack",
       "90mm_us_M82_APCBC",
-      "90mm_us_T44_APCR",
-      "90mm_us_144_APCR_ammo_pack"
+      "90mm_us_T44_APCR"
     ]
   },
   {
@@ -687,11 +594,8 @@
     "ammo": [
       "12mm_usa_M2HB_common",
       "12mm_usa_M2HB_APT",
-      "12mm_usa_M2HB_APLammo_pack",
       "12mm_usa_M2HB_AP",
-      "12mm_usa_M2HB_AP_ammo_pack",
-      "12mm_usa_M2HB_APIT",
-      "12mm_usa_M2HB_APIT_ammo_pack"
+      "12mm_usa_M2HB_APIT"
     ]
   },
   {
@@ -703,8 +607,7 @@
     "image": "us_m2a4.png",
     "role": "Light tank",
     "ammo": [
-      "37mm_usa_m3_APC",
-      "37mm_usa_m3_APC_ammo_pack"
+      "37mm_usa_m3_APC"
     ]
   },
   {
@@ -715,8 +618,7 @@
     "ammo_amount": 25,
     "image": "us_m2a4_1st_armor_div.png",
     "ammo": [
-      "37mm_usa_m3_APC",
-      "37mm_usa_m3_APC_ammo_pack"
+      "37mm_usa_m3_APC"
     ]
   },
   {
@@ -729,9 +631,7 @@
     "role": "Light tank",
     "ammo": [
       "25mm_M242_HE",
-      "25mm_M242_APDS",
-      "25mm_M242_HE_ammo_pack",
-      "25mm_M242_APDS_ammo_pack"
+      "25mm_M242_APDS"
     ]
   },
   {
@@ -745,9 +645,7 @@
     "ammo": [
       "75mm_usa_HE",
       "75mm_usa_APCBC",
-      "75mm_usa_APCBC_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -761,13 +659,10 @@
     "ammo": [
       "37mm_usa_m3_AP",
       "37mm_usa_m3_APC",
-      "37mm_usa_m3_APC_ammo_pack",
       "75mm_usa_HE",
       "75mm_usa_AP",
       "75mm_usa_APCBC",
-      "75mm_usa_APCBC_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -779,8 +674,7 @@
     "image": "us_m3_stuart.png",
     "role": "Light tank",
     "ammo": [
-      "37mm_usa_m3_ABC",
-      "37mm_usa_m3_APC_ammo_pack"
+      "37mm_usa_m3_ABC"
     ]
   },
   {
@@ -792,13 +686,10 @@
     "image": "us_m36.png",
     "role": "Tank destroyer",
     "ammo": [
-      "90mm_us_M82_APCBC_ammo_pack",
       "90mm_us_M82_APCBC",
-      "90mm_us_M304_APCR_ammo_pack",
       "90mm_us_M304_APCR",
       "90mm_us_M71_HE",
-      "90mm_us_M313_Smoke",
-      "90mm_us_M313_Smoke_ammo_pack"
+      "90mm_us_M313_Smoke"
     ]
   },
   {
@@ -814,11 +705,7 @@
       "90mm_us_M313_Smoke",
       "90mm_us_M304_APCR",
       "90mm_us_M82_APCBC",
-      "90mm_us_M313_Smoke_ammo_pack",
-      "90mm_us_M304_APCR_ammo_pack",
-      "90mm_us_M82_APCBC_ammo_pack",
-      "90mm_us_T108_HEAT",
-      "90mm_us_1108_HEAT_ammo_pack"
+      "90mm_us_T108_HEAT"
     ]
   },
   {
@@ -830,8 +717,7 @@
     "image": "us_m3a1_stuart.png",
     "role": "Light tank",
     "ammo": [
-      "37mm_usa_m3_APC",
-      "37mm_usa_m3_APC_ammo_pack"
+      "37mm_usa_m3_APC"
     ]
   },
   {
@@ -842,8 +728,7 @@
     "ammo_amount": 25,
     "image": "us_m3a1_stuart_usmc.png",
     "ammo": [
-      "37mm_usa_m3_APC",
-      "37mm_usa_m3_APC_ammo_pack"
+      "37mm_usa_m3_APC"
     ]
   },
   {
@@ -857,13 +742,9 @@
     "ammo": [
       "25mm_M242_APDS",
       "25mm_M242_APDS_FS",
-      "25mm_M242_APDS_ammo_pack",
-      "25mm_M242_APDS_FS_ammo_pack",
       "127mm_us_tow",
       "152mm_us_tow_2",
-      "152mm_us_tow_2",
-      "152mm_us_tow_2a_ammo_pack",
-      "152mm_us_tow_2_ammo_pack"
+      "152mm_us_tow_2"
     ]
   },
   {
@@ -877,9 +758,7 @@
     "ammo": [
       "75mm_usa_HE",
       "75mm_usa_APCBC",
-      "75mm_usa_APCBC_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -893,11 +772,8 @@
     "ammo": [
       "76mm_usa_M32_HE",
       "76mm_usa_M32_APCR",
-      "76mm_usa_M32_APCR_ammo_pack",
       "76mm_usa_M32_APDS",
-      "76mm_usa_M32_APDS_ammo_pack",
-      "76mm_us_M361_Smoke",
-      "76mm_us_M361_Smoke_ammo_pack"
+      "76mm_us_M361_Smoke"
     ]
   },
   {
@@ -910,9 +786,7 @@
     "role": "SPAA",
     "ammo": [
       "40mm_usa_M2_HE",
-      "40mm_usa_M2_AP",
-      "40mm_usa_M2_HE_ammo_pack",
-      "40mm_usa_M2_AP_ammo_pack"
+      "40mm_usa_M2_AP"
     ]
   },
   {
@@ -934,17 +808,12 @@
     "image": "us_m46_patton.png",
     "role": "Medium tank",
     "ammo": [
-      "90mm_us_M82_APCBC_ammo_pack",
       "90mm_us_M82_APCBC",
-      "90mm_us_M304_APCR_ammo_pack",
       "90mm_us_M304_APCR",
-      "90mm_us_M332_APCR_ammo_pack",
       "90mm_us_M332_APCR",
       "90mm_us_T108_HEAT",
-      "90mm_us_T108_HEAT_ammo_pack",
       "90mm_us_M71_HE",
-      "90mm_us_M313_Smoke",
-      "90mm_us_M313_Smoke_ammo_pack"
+      "90mm_us_M313_Smoke"
     ]
   },
   {
@@ -955,17 +824,12 @@
     "ammo_amount": 25,
     "image": "us_m46_patton_73_armor_bat.png",
     "ammo": [
-      "90mm_us_M82_APCBC_ammo_pack",
       "90mm_us_M82_APCBC",
-      "90mm_us_M304_APCR_ammo_pack",
       "90mm_us_M304_APCR",
-      "90mm_us_M332_APCR_ammo_pack",
       "90mm_us_M332_APCR",
       "90mm_us_T108_HEAT",
-      "90mm_us_T108_HEAT_ammo_pack",
       "90mm_us_M71_HE",
-      "90mm_us_M313_Smoke",
-      "90mm_us_M313_Smoke_ammo_pack"
+      "90mm_us_M313_Smoke"
     ]
   },
   {
@@ -999,9 +863,7 @@
     "ammo": [
       "75mm_usa_HE",
       "75mm_usa_APCBC",
-      "75mm_usa_APCBC_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -1014,9 +876,7 @@
     "ammo": [
       "76mm_usa_M42A1_HE",
       "76mm_usa_APCBC",
-      "76mm_usa_APCBC_ammo_pack",
-      "76mm_us_M88_Smoke",
-      "76mm_us_M88_Smoke_ammo_pack"
+      "76mm_us_M88_Smoke"
     ]
   },
   {
@@ -1030,11 +890,8 @@
     "ammo": [
       "75mm_usa_HE",
       "75mm_usa_APCBC",
-      "75mm_usa_APCBC_ammo_pack",
       "75mm_usa_APCR",
-      "75mm_usa_APCR_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -1046,8 +903,7 @@
     "image": "default.png",
     "ammo": [
       "75mm_usa_HE",
-      "75mm_usa_APCBC",
-      "75mm_usa_APCBC_ammo_pack"
+      "75mm_usa_APCBC"
     ]
   },
   {
@@ -1060,9 +916,7 @@
     "ammo": [
       "76mm_usa_M42A1_HE",
       "76mm_usa_APCBC",
-      "76mm_usa_APCBC_ammo_pack",
-      "76mm_us_M88_Smoke",
-      "76mm_us_M88_Smoke_ammo_pack"
+      "76mm_us_M88_Smoke"
     ]
   },
   {
@@ -1076,11 +930,8 @@
     "ammo": [
       "76mm_usa_M42A1_HE",
       "76mm_usa_APCBC",
-      "76mm_usa_APCBC_ammo_pack",
       "7mm_usa_M93_APCR",
-      "76mm_usa_M93_APCR_ammo_pack",
-      "76mm_us_M88_Smoke",
-      "76mm_us_M88_Smoke_ammo_pack"
+      "76mm_us_M88_Smoke"
     ]
   },
   {
@@ -1093,9 +944,7 @@
     "role": "Medium tank",
     "ammo": [
       "105mm_usa_HEAT",
-      "105mm_usa_HEAT_ammo_pack",
-      "105mm_us_M84_Smoke",
-      "105mm_us_M84_Smoke_ammo_pack"
+      "105mm_us_M84_Smoke"
     ]
   },
   {
@@ -1109,11 +958,8 @@
     "ammo": [
       "75mm_usa_HE",
       "75mm_usa_APCBC",
-      "75mm_usa_APCBC_ammo_pack",
       "75mm_usa_APCR",
-      "75mm_usa_APCR_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -1126,11 +972,8 @@
     "ammo": [
       "76mm_usa_M42A1_HE",
       "76mm_usa_APCBC",
-      "76mm_usa_APCBC_ammo_pack",
       "7mm_usa_M93_APCR",
-      "76mm_usa_M93_APCR_ammo_pack",
-      "76mm_us_M88_Smoke",
-      "76mm_us_M88_Smoke_ammo_pack"
+      "76mm_us_M88_Smoke"
     ]
   },
   {
@@ -1145,9 +988,7 @@
       "57mm_britain_6pdr_AP_HV",
       "57mm_britain_6pdr_AP_HV_ammo",
       "57mm_britain_6pdr_APC",
-      "57mm_britain_6pdr_APC_ammo_pack",
       "57mm_britain_6pdr_APCBC",
-      "57mm_britain_6pdr_APCBC_ammo_pack",
       "57mm_britain_6pdr_HE"
     ]
   },
@@ -1161,8 +1002,6 @@
     "ammo": [
       "90mm_us_M71_HE",
       "90mm_us_M313_Smoke",
-      "90mm_us_M313_Smoke_ammo_pack",
-      "90mm_us_M82_APCBC_ammo_pack",
       "90mm_us_M82_APCBC"
     ]
   },
@@ -1188,9 +1027,7 @@
     "ammo": [
       "76mm_usa_M32_HE",
       "76mm_us_M361_Smoke",
-      "76mm_usa_M32~APDS",
-      "76mm_us_M361_Smoke_ammo_pack",
-      "76mm_usa_M32_APDS_ammo_pack"
+      "76mm_usa_M32~APDS"
     ]
   },
   {
@@ -1203,8 +1040,7 @@
     "role": "Light tank",
     "ammo": [
       "152mm_sa_M657A2_HE",
-      "152mm_usa_MGM618_HEAT",
-      "152mm_usa_MGM61B_HEAT_ammo_pack"
+      "152mm_usa_MGM618_HEAT"
     ]
   },
   {
@@ -1216,15 +1052,11 @@
     "image": "us_m56_scorpion.png",
     "role": "Tank destroyer",
     "ammo": [
-      "90mm_us_T142E3_HESH_ammo_pack",
       "90mm_us_T142E3_HESH",
-      "90mm_us_M82_m48_ammo_pack",
       "90mm_us_M82_m48",
       "90mm_us_M431_HEAT",
-      "90mm_us_M431_HEAT_ammo_pack",
       "90mm_us_M71_HE",
-      "90mm_us_M313_Smoke",
-      "90mm_us_M313_Smoke_ammo_pack"
+      "90mm_us_M313_Smoke"
     ]
   },
   {
@@ -1237,8 +1069,7 @@
     "role": "Light tank",
     "ammo": [
       "37mm_usa_m3_HE",
-      "37mm_usa_m3_APC",
-      "37mm_usa_m3_APC_ammo_pack"
+      "37mm_usa_m3_APC"
     ]
   },
   {
@@ -1251,8 +1082,7 @@
     "role": "Light tank",
     "ammo": [
       "37mm_usa_m3_HE",
-      "37mm_usa_m3_APC",
-      "37mm_usa_m3_APC_ammo_pack"
+      "37mm_usa_m3_APC"
     ]
   },
   {
@@ -1265,11 +1095,8 @@
     "role": "Medium tank",
     "ammo": [
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
       "105mm_usa_HEAT_FS",
-      "105mm_usa_HEAT_FS_ammo_pack",
-      "105mm_us_M416_Smoke",
-      "105mm_us_M416_Smoke_ammo_pack"
+      "105mm_us_M416_Smoke"
     ]
   },
   {
@@ -1281,8 +1108,7 @@
     "image": "us_m60a3_slep.png",
     "role": "Medium tank",
     "ammo": [
-      "120mm_NATO_APDS_FS",
-      "120mm_NATO_APDS_FS_ammo_pack"
+      "120mm_NATO_APDS_FS"
     ]
   },
   {
@@ -1294,11 +1120,8 @@
     "image": "us_m60a1.png",
     "ammo": [
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
       "105mm_usa_HEAT_FS",
-      "105mm_usa_HEAT_FS_ammo_pack",
-      "105mm_us_M416_Smoke",
-      "105mm_us_M416_Smoke_ammo_pack"
+      "105mm_us_M416_Smoke"
     ]
   },
   {
@@ -1311,11 +1134,8 @@
     "ammo": [
       "105mm_usa_M456A2_HEAT_MP_FS",
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
       "105mm_us_M416_Smoke",
-      "105mm_us_M416_Smoke_ammo_pack",
-      "105mm_usa_M735_APDS_FS",
-      "105mm_usa_M735_APDS_FS_ammo_pack"
+      "105mm_usa_M735_APDS_FS"
     ]
   },
   {
@@ -1328,8 +1148,7 @@
     "role": "Medium tank",
     "ammo": [
       "152mm_usa_M657A2_HE",
-      "152mm_usa_MGM618_HEAT",
-      "152mm_usa_MGM61B_HEAT_ammo_pack"
+      "152mm_usa_MGM618_HEAT"
     ]
   },
   {
@@ -1342,11 +1161,8 @@
     "role": "Medium tank",
     "ammo": [
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
       "105mm_NATO_APDS_FS",
-      "105mm_NATO_APDS_FS_ammo_pack",
       "105mm_us_M416_Smoke",
-      "105mm_us_M416_Smoke_ammo_pack",
       "105mm_usa_M774_APDS_FS",
       "105mm_usa_M774_APDS_FS_amm"
     ]
@@ -1363,11 +1179,9 @@
       "37mm_usa_m3_AP",
       "37mm_usa_m3_HE",
       "37mm_usa_m3_APC",
-      "37mm_usa_m3_APC_ammo_pack",
       "76mm_usa_M62_APCBC",
       "76mm_usa_M42A1_HE",
-      "76mm_usa_M79_AP",
-      "76mm_usa_M79_AP_ammo_pack"
+      "76mm_usa_M79_AP"
     ]
   },
   {
@@ -1380,9 +1194,7 @@
     "role": "Heavy tank",
     "ammo": [
       "105mm_us_T13_APCBC",
-      "105mm_us_T13_APCBC_ammo_pack",
       "105mm_us_T29E3_APCR",
-      "105mm_us_T29E3_APCR_ammo_pack",
       "105mm_us_T30E1_HE"
     ]
   },
@@ -1409,8 +1221,7 @@
     "ammo": [
       "75mm_usa_HE",
       "75mm_usa_M66_HEAT",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -1422,8 +1233,7 @@
     "image": "us_m8_greyhound.png",
     "role": "Light tank",
     "ammo": [
-      "37mm_usa_m3_APC",
-      "37mm_usa_m3_APC_ammo_pack"
+      "37mm_usa_m3_APC"
     ]
   },
   {
@@ -1437,9 +1247,7 @@
     "ammo": [
       "75mm_usa_HE",
       "75mm_usa_APCBC",
-      "75mm_usa_APCBC_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -1463,7 +1271,6 @@
     "image": "us_mbt_70.png",
     "ammo": [
       "152mm_usa_XM578E1_APDS_FS_a",
-      "152mm_XM4L0E1_Smoke_ammo_pack",
       "152mm_usa_XMS78E1_APDS_FS",
       "152mm_M409A1_HEAT",
       "152mm_XM410ET_Smoke",
@@ -1479,11 +1286,8 @@
     "image": "us_magach_3.png",
     "ammo": [
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
       "105mm_usa_HEAT_FS",
-      "105mm_usa_HEAT_FS_ammo_pack",
-      "105mm_us_M416_Smoke",
-      "105mm_us_M416_Smoke_ammo_pack"
+      "105mm_us_M416_Smoke"
     ]
   },
   {
@@ -1498,9 +1302,7 @@
       "105mm_usa_M735_APDS_FS",
       "105mm_usa_M735_APDS_FS_amm",
       "105mm_us_M416_Smoke",
-      "105mm_us_M416_Smoke_ammo_pack",
-      "105mm_DM33_APDS_FS",
-      "105mm_DM33_APDS_FS_ammo_pack"
+      "105mm_DM33_APDS_FS"
     ]
   },
   {
@@ -1512,11 +1314,9 @@
     "image": "us_merkava_mk_1.png",
     "ammo": [
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
       "105mm_usa_M735_APDS_FS",
       "105mm_usa_M735_APDS_FS_amm",
-      "105mm_us_M416_Smoke",
-      "105mm_us_M416_Smoke_ammo_pack"
+      "105mm_us_M416_Smoke"
     ]
   },
   {
@@ -1528,8 +1328,7 @@
     "image": "us_merkava_mk_3d.png",
     "ammo": [
       "120mm_NATO_HE_FS",
-      "120mm_NATO_APDS_FS",
-      "120mm_NATO_APDS_FS_ammo_pack"
+      "120mm_NATO_APDS_FS"
     ]
   },
   {
@@ -1569,9 +1368,7 @@
     "image": "us_m18_super_hellcat.png",
     "role": "Light tank",
     "ammo": [
-      "90mm_us_M82_APCBC_ammo_pack",
       "90mm_us_M82_APCBC",
-      "90mm_us_M304_APCR_ammo_pack",
       "90mm_us_M304_APCR",
       "90mm_us_M71_HE"
     ]
@@ -1599,11 +1396,8 @@
     "ammo": [
       "75mm_usa_HE",
       "75mm_usa_APCBC",
-      "75mm_usa_APCBC_ammo_pack",
       "75mm_usa_APCR",
-      "75mm_usa_APCR_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -1615,8 +1409,7 @@
     "image": "us_t18_e2.png",
     "role": "Light tank",
     "ammo": [
-      "57mm_us_APCBC",
-      "57mm_us_APCBC_ammo_pack"
+      "57mm_us_APCBC"
     ]
   },
   {
@@ -1631,11 +1424,9 @@
       "37mm_usa_m3_AP",
       "37mm_usa_m3_HE",
       "37mm_usa_m3_APC",
-      "37mm_usa_m3_APC_ammo_pack",
       "76mm_usa_M62_APCBC",
       "76mm_usa_M42A1_HE",
-      "76mm_usa_M79_AP",
-      "76mm_usa_M79_AP_ammo_pack"
+      "76mm_usa_M79_AP"
     ]
   },
   {
@@ -1658,9 +1449,7 @@
     "ammo": [
       "76mm_usa_M42A1_HE",
       "76mm_usa_APCBC",
-      "76mm_usa_APCBC_ammo_pack",
-      "7mm_usa_M93_APCR",
-      "76mm_usa_M93_APCR_ammo_pack"
+      "7mm_usa_M93_APCR"
     ]
   },
   {
@@ -1672,9 +1461,7 @@
     "image": "us_t25.png",
     "role": "Medium tank",
     "ammo": [
-      "90mm_us_M82_APCBC_ammo_pack",
       "90mm_us_M82_APCBC",
-      "90mm_us_M304_APCR_ammo_pack",
       "90mm_us_M304_APCR",
       "90mm_us_M71_HE"
     ]
@@ -1688,10 +1475,8 @@
     "image": "us_t26e4_superpershing.png",
     "ammo": [
       "90mm_us_T42_HE",
-      "90mm_us_M82_APCBC_ammo_pack",
       "90mm_us_M82_APCBC",
-      "90mm_us_T44_APCR",
-      "90mm_us_144_APCR_ammo_pack"
+      "90mm_us_T44_APCR"
     ]
   },
   {
@@ -1703,13 +1488,10 @@
     "image": "us_t26e5.png",
     "role": "Heavy tank",
     "ammo": [
-      "90mm_us_M82_APCBC_ammo_pack",
       "90mm_us_M82_APCBC",
-      "90mm_us_M304_APCR_ammo_pack",
       "90mm_us_M304_APCR",
       "90mm_us_M71_HE",
-      "90mm_us_M313_Smoke",
-      "90mm_us_M313_Smoke_ammo_pack"
+      "90mm_us_M313_Smoke"
     ]
   },
   {
@@ -1722,9 +1504,7 @@
     "role": "Tank destroyer",
     "ammo": [
       "105mm_us_T13_APCBC",
-      "105mm_us_T13_APCBC_ammo_pack",
       "105mm_us_T29E3_APCR",
-      "105mm_us_T29E3_APCR_ammo_pack",
       "105mm_us_T30E1_HE"
     ]
   },
@@ -1738,9 +1518,7 @@
     "role": "Heavy tank",
     "ammo": [
       "105mm_us_T13_APCBC",
-      "105mm_us_T13_APCBC_ammo_pack",
       "105mm_us_T29E3_APCR",
-      "105mm_us_T29E3_APCR_ammo_pack",
       "105mm_us_T30E1_HE"
     ]
   },
@@ -1755,9 +1533,7 @@
     "ammo": [
       "155mm_T7_HE",
       "155mm_T7_Smoke",
-      "155mm_T7_Smoke_ammo_pack",
-      "155mm_T7_APCBC",
-      "155mm_T7APCBC_ammo_pack"
+      "155mm_T7_APCBC"
     ]
   },
   {
@@ -1770,10 +1546,8 @@
     "role": "Heavy tank",
     "ammo": [
       "90mm_us_T42_HE",
-      "90mm_us_M82_APCBC_ammo_pack",
       "90mm_us_M82_APCBC",
-      "90mm_us_T44_APCR",
-      "90mm_us_144_APCR_ammo_pack"
+      "90mm_us_T44_APCR"
     ]
   },
   {
@@ -1786,10 +1560,8 @@
     "role": "Heavy tank",
     "ammo": [
       "90mm_us_T42_HE",
-      "90mm_us_M82_APCBC_ammo_pack",
       "90mm_us_M82_APCBC",
-      "90mm_us_T44_APCR",
-      "90mm_us_144_APCR_ammo_pack"
+      "90mm_us_T44_APCR"
     ]
   },
   {
@@ -1802,8 +1574,7 @@
     "role": "Heavy tank",
     "ammo": [
       "120mm_usa_T17E1_HVAP",
-      "120mm_usa_M73_HE",
-      "120mm_usa_T17E1_HVAP_ammo_pack"
+      "120mm_usa_M73_HE"
     ]
   },
   {
@@ -1816,9 +1587,7 @@
     "role": "Medium tank",
     "ammo": [
       "105mm_us_T279_APDS",
-      "105mm_us_7298E1_HEAT",
-      "105mm_us_T279_APDS_ammo_pack",
-      "105mm_us_7298E1_HEAT_ammo_pack"
+      "105mm_us_7298E1_HEAT"
     ]
   },
   {
@@ -1831,9 +1600,7 @@
     "role": "Medium tank",
     "ammo": [
       "105mm_us_T279_APDS",
-      "105mm_us_7298E1_HEAT",
-      "105mm_us_T279_APDS_ammo_pack",
-      "105mm_us_7298E1_HEAT_ammo_pack"
+      "105mm_us_7298E1_HEAT"
     ]
   },
   {
@@ -1846,8 +1613,7 @@
     "role": "Tank destroyer",
     "ammo": [
       "76mm_usa_M42A1_HE",
-      "76mm_usa_APCBC",
-      "76mm_usa_APCBC_ammo_pack"
+      "76mm_usa_APCBC"
     ]
   },
   {
@@ -1871,9 +1637,7 @@
     "ammo": [
       "76mm_usa_M32_HE",
       "76mm_usa_M32_APDS",
-      "76mm_usa_M32_APDS_ammo_pack",
-      "76mm_usa_M32_HEAT",
-      "76mm_usa_M32_HEAT_ammo_pack"
+      "76mm_usa_M32_HEAT"
     ]
   },
   {
@@ -1886,9 +1650,7 @@
     "role": "Tank destroyer",
     "ammo": [
       "105mm_us_T13_APCBC",
-      "105mm_us_T13_APCBC_ammo_pack",
       "105mm_us_T29E3_APCR",
-      "105mm_us_T29E3_APCR_ammo_pack",
       "105mm_us_T30E1_HE"
     ]
   },
@@ -1901,7 +1663,6 @@
     "image": "us_t95e1.png",
     "role": "Medium tank",
     "ammo": [
-      "90mm_us_T339E14_WP_ammo_pack",
       "90mm_us_1320_APDS_FS",
       "90mm_us_T340E14H_HE",
       "90mm_us_T339E14"
@@ -1916,8 +1677,6 @@
     "image": "us_m109a1.png",
     "role": "Tank destroyer",
     "ammo": [
-      "155mm_M110_Smoke_ammo_pack",
-      "155mm_M107_HE_PF_ammo_pack",
       "155mm_M107_HE",
       "155mm_M107_HE_PF",
       "155mm_M110_Smoke"
@@ -1933,11 +1692,8 @@
     "ammo": [
       "105mm_usa_M456A2_HEAT_MP_F",
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
       "105mm_us_M416_Smoke",
-      "105mm_us_M416_Smoke_ammo_pack",
-      "105mm_usa_M735_APDS_FS",
-      "105mm_usa_M735_APDS_FS_ammo_pack"
+      "105mm_usa_M735_APDS_FS"
     ]
   },
   {
@@ -1972,9 +1728,6 @@
       "105mm_usa_HESH",
       "105mm_usa_M735_APDS_FS",
       "105mm_NATO_APDS_FS",
-      "105mm_us_M416_Smoke_ammo_pack",
-      "105mm_usa_HESH_ammo_pack",
-      "105mm_NATO_APDS_FS_ammo_pack",
       "105mm_usa_M735_APDS_FS_amm"
     ]
   },
@@ -1997,8 +1750,6 @@
     "image": "us_xm_803.png",
     "role": "Medium tank",
     "ammo": [
-      "152mm_usa_XM578E1_APDS_FS_ammo_pack",
-      "152mm_XM4L0E1_Smoke_ammo_pack",
       "152mm_usa_XMS78E1_APDS_FS",
       "152mm_M409A1_HEAT",
       "152mm_XM410ET_Smoke",
@@ -2016,7 +1767,6 @@
     "ammo": [
       "163mm_roland_1_aam",
       "163mm_roland_3_aam",
-      "163mm_roland_3_aam_ammo_pack",
       "USSR (OUR tanks)"
     ]
   },
@@ -2085,10 +1835,8 @@
     "ammo": [
       "57mm_germ_Bofors_AP",
       "57mm_germ_Bofors_SAP",
-      "57mm_germ_Bofors_SAP_ammo_pack",
       "57mm_germ_Bofors_HE",
       "57mm_germ_Bofors_HE_VT",
-      "57mm_germ_Bofors_HE_VT_ammo_pack",
       "127mm_us_tow"
     ]
   },
@@ -2139,11 +1887,8 @@
     "role": "Medium tank",
     "ammo": [
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
       "105mm_NATO_APDS_FS",
-      "105mm_NATO_APDS_FS_ammo_pack",
-      "105mm_DM33_APDS_FS",
-      "105mm_DM33_APDS_FS_ammo_pack"
+      "105mm_DM33_APDS_FS"
     ]
   },
   {
@@ -2166,11 +1911,8 @@
     "role": "Light tank",
     "ammo": [
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
       "105mm_NATO_APDS_FS",
-      "105mm_NATO_APDS_FS_ammo_pack",
-      "105mm_DM33_APDS_FS",
-      "105mm_DM33_APDS_FS_ammo_pack"
+      "105mm_DM33_APDS_FS"
     ]
   },
   {
@@ -2193,8 +1935,7 @@
     "ammo": [
       "105mm_fr_CN105_HEAT",
       "105mm_fr_CN105_HE",
-      "105mm_fr_CN105_Smoke",
-      "105mm_fr_CN105_Smoke_ammo_pack"
+      "105mm_fr_CN105_Smoke"
     ]
   },
   {
@@ -2217,15 +1958,11 @@
       "128mm_ger_HE",
       "128mm_ger_APC",
       "128mm_ger_APCBC",
-      "128mm_ger_APCBC_ammo_pack",
       "128mm_ger_TS",
-      "128mm_ger_TS_ammo_pack",
       "75mm_ger_kwk44_HE",
       "75mm_ger_kwk44_HEAT",
       "75mm_ger_Smoke",
-      "75mm_ger_Smoke_ammo_pack",
-      "75mm_ger_kwk40_Hl_C_HEAT",
-      "75mm_ger_kwk40_Hl_C_HEAT_ammo_pack"
+      "75mm_ger_kwk40_Hl_C_HEAT"
     ]
   },
   {
@@ -2268,8 +2005,7 @@
     "role": "SPAA",
     "ammo": [
       "163mm_roland_1_aam",
-      "163mm_roland_3_aam",
-      "163mm_roland_3_aam_ammo_pack"
+      "163mm_roland_3_aam"
     ]
   },
   {
@@ -2282,8 +2018,7 @@
     "role": "SPAA",
     "ammo": [
       "163mm_roland_1_aam",
-      "163mm_vt_1_aam",
-      "163mm_vt_1_aam_ammo_pack"
+      "163mm_vt_1_aam"
     ]
   },
   {
@@ -2355,8 +2090,7 @@
     "image": "germ_kanonenjagdpanzer.png",
     "ammo": [
       "90mm_us_M71_HE",
-      "90mm_us_M431_HEAT",
-      "90mm_us_M431_HEAT_ammo_pack"
+      "90mm_us_M431_HEAT"
     ]
   },
   {
@@ -2371,9 +2105,7 @@
       "105mm_fr_CN105_HEAT",
       "105mm_fr_CN105_HE",
       "105mm_fr_CN105_Smoke",
-      "105mm_fr_CN105_Smoke_ammo_pack",
-      "105mm_fr_CN105_APDSFS",
-      "105mm_fr_CN105_APDSFS_ammo_pack"
+      "105mm_fr_CN105_APDSFS"
     ]
   },
   {
@@ -2387,8 +2119,6 @@
     "ammo": [
       "88mm_ger_kwk43_APCR",
       "88mm_ger_kwk43_HEAT",
-      "88mm_kwk_36_43_HEAT_ammo_pack",
-      "88mm_kwk_36_43_APCR_ammo_pack",
       "88mm_ger_kwk43_default_HE"
     ]
   },
@@ -2403,9 +2133,6 @@
       "75mm_ger_kwk40_HEAT",
       "75mm_ger_kwk40_APCR",
       "75mm_ger_Smoke",
-      "75mm_ger_Smoke_ammo_pack",
-      "75mm_kwk_37_40_HEAT_ammo_pack",
-      "75mm_kwk_40_APCR_ammo_pack",
       "7mm_ger_kwk40_37_HE"
     ]
   },
@@ -2429,8 +2156,7 @@
     "role": "Tank destroyer",
     "ammo": [
       "128mm_ger_HE",
-      "128mm_ger_APCBC",
-      "128mm_ger_APCBC_ammo_pack"
+      "128mm_ger_APCBC"
     ]
   },
   {
@@ -2441,8 +2167,6 @@
     "ammo_amount": 25,
     "image": "germ_kpz_70.png",
     "ammo": [
-      "152mm_usa_XM578E1_APDS_FS_ammo_pack",
-      "152mm_XM410E1_Smoke_ammo_pack",
       "152mm_use_XMS78E1_APDS_FS",
       "152mm_M409A1_HEAT",
       "152mm_XM410ET_Smoke",
@@ -2468,8 +2192,6 @@
     "ammo": [
       "75mm_ger_kwk40_HEAT",
       "75mm_ger_kwk40_APCR",
-      "75mm_kwk_37_40_HEAT_ammo_pack",
-      "75mm_kwk_40_APCR_ammo_pack",
       "75mm_ger_kwk40_47_HE"
     ]
   },
@@ -2482,8 +2204,7 @@
     "image": "germ_kv_2_754r.png",
     "ammo": [
       "152mm_ussr_HE",
-      "152mm_ussr_APCBC",
-      "152mm_ussr_APCBC_ammo_pack"
+      "152mm_ussr_APCBC"
     ]
   },
   {
@@ -2506,11 +2227,8 @@
     "role": "Medium tank",
     "ammo": [
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
       "105mm_NATO_APDS_FS",
-      "105mm_NATO_APDS_FS_ammo_pack",
-      "105mm_DM33_APDS_FS",
-      "105mm_DM33_APDS_FS_ammo_pack"
+      "105mm_DM33_APDS_FS"
     ]
   },
   {
@@ -2524,9 +2242,7 @@
     "ammo": [
       "NATO_APDS_FS",
       "120mm_DM_HE_FS",
-      "120mm_DM_HE_FS_ammo_pack",
-      "120mm_DM_AFDS_FS",
-      "120mm_DM_APDS_FS_ammo_pack"
+      "120mm_DM_AFDS_FS"
     ]
   },
   {
@@ -2540,9 +2256,7 @@
     "ammo": [
       "120mm_NATO_APDS_FS",
       "120mm_DM_HE_FS",
-      "120mm_DM_APDS_FS",
-      "120mm_DM_HE_FS_ammo_pack",
-      "120mm_DM_APDS_FS_ammo_pack"
+      "120mm_DM_APDS_FS"
     ]
   },
   {
@@ -2554,9 +2268,7 @@
     "image": "germ_leopard_2a4_pzbtl_123.png",
     "ammo": [
       "120mm_NATO_APDS_FS",
-      "120mm_NATO_APDS_FS_ammo_pack",
-      "120mm_DM_APDS_FS",
-      "120mm_DM_APDS_FS_ammo_pack"
+      "120mm_DM_APDS_FS"
     ]
   },
   {
@@ -2570,9 +2282,7 @@
     "ammo": [
       "120mm_NATO_HEAT_FS",
       "120mm_NATO_APDS_FS",
-      "120mm_NATO_APDS_FS_ammo_pack",
-      "120mm_DM_APDS_FS",
-      "120mm_DM_APDS_FS_ammo_pack"
+      "120mm_DM_APDS_FS"
     ]
   },
   {
@@ -2595,8 +2305,7 @@
     "role": "Medium tank",
     "ammo": [
       "120mm_NATO_APDS_FS",
-      "120mm_DM_APDS_FS",
-      "120mm_DM_APDS_FS_ammo_pack"
+      "120mm_DM_APDS_FS"
     ]
   },
   {
@@ -2609,8 +2318,7 @@
     "role": "Medium tank",
     "ammo": [
       "NATO_APDS_FS",
-      "120mm_DM_APDS_FS",
-      "120mm_DM_APDS_FS_ammo_pack"
+      "120mm_DM_APDS_FS"
     ]
   },
   {
@@ -2624,9 +2332,7 @@
     "ammo": [
       "NATO_APDS_FS",
       "120mm_DM_HE_FS",
-      "120mm_DM_APDS_FS",
-      "120mm_DM_HE_FS_ammo_pack",
-      "120mm_DM_APDS_FS_ammo_pack"
+      "120mm_DM_APDS_FS"
     ]
   },
   {
@@ -2639,11 +2345,8 @@
     "role": "Medium tank",
     "ammo": [
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
       "105mm_NATO_APDS_FS",
-      "105mm_NATO_APDS_FS_ammo_pack",
-      "105mm_DM33_APDS_FS",
-      "105mm_DM33_APDS_FS_ammo_pack"
+      "105mm_DM33_APDS_FS"
     ]
   },
   {
@@ -2657,9 +2360,7 @@
     "ammo": [
       "120mm_NATO_HEAT_FS",
       "120mm_NATO_APDS_FS",
-      "120mm_NATO_APDS_FS_ammo_pack",
-      "120mm_DM_APDS_FS",
-      "120mm_DM_APDS_FS_ammo_pack"
+      "120mm_DM_APDS_FS"
     ]
   },
   {
@@ -2682,7 +2383,6 @@
     "role": "Medium tank",
     "ammo": [
       "120mm_NATO_APDS_FS",
-      "120mm_NATO_APDS_FS_ammo_pack",
       "120mm_NATO_HEAT_FS"
     ]
   },
@@ -2715,8 +2415,6 @@
     "image": "germ_m109g.png",
     "role": "Tank destroyer",
     "ammo": [
-      "155mm_M110_Smoke_ammo_pack",
-      "155mm_M107_HE_PF_ammo_pack",
       "155mm_M107_HE",
       "155mm_M107_HE_PF",
       "155mm_M110_Smoke"
@@ -2732,11 +2430,8 @@
     "ammo": [
       "75mm_usa_HE",
       "75mm_usa_APCBC",
-      "75mm_usa_APCBC_ammo_pack",
       "75mm_usa_APCR",
-      "75mm_usa_APCR_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -2759,11 +2454,8 @@
     "role": "Medium tank",
     "ammo": [
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
       "105mm_NATO_APDS_FS",
-      "105mm_NATO_APDS_FS_ammo_pack",
-      "105mm_DM33_APDS_FS",
-      "105mm_DM33_APDS_FS_ammo_pack"
+      "105mm_DM33_APDS_FS"
     ]
   },
   {
@@ -2775,15 +2467,11 @@
     "image": "germ_mkpz_m48a2c.png",
     "role": "Medium tank",
     "ammo": [
-      "90mm_us_M82_m48_ammo_pack",
       "90mm_us_M82_m48",
       "90mm_us_M431_HEAT",
-      "90mm_us_M431_HEAT_ammo_pack",
       "90mm_ger_DM502_JPz_HESH",
-      "90mm_ger_DM502_JPz_HESH_ammo_pack",
       "90mm_us_M71_HE",
-      "90mm_us_M313_Smoke",
-      "90mm_us_M313_Smoke_ammo_pack"
+      "90mm_us_M313_Smoke"
     ]
   },
   {
@@ -2796,10 +2484,8 @@
     "role": "Medium tank",
     "ammo": [
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
       "105mm_usa_M456A2_HEAT_MP_FS",
-      "105mm_usa_M735_APDS_FS",
-      "105mm_usa_M735_APDS_FS_ammo_pack"
+      "105mm_usa_M735_APDS_FS"
     ]
   },
   {
@@ -2813,9 +2499,7 @@
     "ammo": [
       "20mm_rh202_HE",
       "20mm_rh202_AP",
-      "20mm_rh202_AP_ammo_pack",
       "20mm_rh202_APDS",
-      "20mm_rh202_APDS_ammo_pack",
       "103mm_milan_atgm"
     ]
   },
@@ -2829,7 +2513,6 @@
     "ammo": [
       "20mm_rh202_HE",
       "20mm_rh202_AP",
-      "20mm_rh202_AP_ammo_pack",
       "103mm_milan_atgm"
     ]
   },
@@ -2874,8 +2557,6 @@
     "ammo": [
       "88mm_ger_kwk43_APCR",
       "88mm_ger_kwk43_HEAT",
-      "88mm_kwk_36_43_HEAT_ammo_pack",
-      "88mm_kwk_36_43_APCR_ammo_pack",
       "88mm_ger_kwk43_default_HE"
     ]
   },
@@ -2939,53 +2620,37 @@
     "ammo": [
       "70mm_stinger_blocki_aam",
       "70mm_stinger_block2_aam",
-      "70mm_stinger_block2_aam_ammo_pack",
       "ISRAEL (Took so long to get here)",
       "il_aml_90",
       "90mm_CN90_HEAT",
       "90mm_CN90_HE",
       "90mm_CN90_Smoke",
-      "90mm_CN90_Smoke_ammo_pack",
       "il_amx_13_75",
       "75mm_SA50_APC",
       "75mm_SA50_HE",
       "75mm_SA50_APCBC",
-      "75mm_SA50_APCBC_ammo_pack",
       "il_centurion_mk_5_shot",
       "84mm_britain_20pdr_APDS",
-      "84mm_britain_20pdr_APDS_ammo_pack",
       "84mm_britain_20pdr_default_HE",
       "84mm_britain_Smoke",
-      "84mm_britain_Smoke_ammo_pack",
       "il_centurion_shot_kal_alef",
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
       "105mm_usa_HEAT_FS",
-      "105mm_usa_HEAT_FS_ammo_pack",
       "105mm_us_M416_Smoke",
-      "105mm_us_M416_Smoke_ammo_pack",
       "il_centurion_shot_kal_d",
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
       "105mm_usa_M735_APDS_FS",
       "105mm_usa_M735_APDS_FS_amm",
       "105mm_us_M416_Smoke",
-      "105mm_us_M416_Smoke_ammo_pack",
       "il_centurion_shot_kal_gimel",
-      "105mm_usa_HESH_ammo_pack",
       "105mm_usa_M735_APDS_FS",
       "105mm_usa_M735_APDS_FS_amm",
       "105mm_us_M416_Smoke",
-      "105mm_us_M416_Smoke_ammo_pack",
       "il_mi109",
-      "155mm_M110_Smoke_ammo_pack",
-      "155mm_M107_HE_PF_ammo_pack",
       "155mm_M107_HE",
       "155mm_M107_HE_PF",
       "155mm_M110_Smoke",
       "il_m109a1",
-      "155mm_M110_Smoke_ammo_pack",
-      "155mm_M107_HE_PF_ammo_pack",
       "155mm_M107_HE",
       "155mm_M107_HE_PF",
       "155mm_M110_Smoke",
@@ -2994,18 +2659,12 @@
       "il_m163_vulcan",
       "20mm_Vulcan_HEI",
       "20mm_Vulcan_API",
-      "20mm_Vulcan_HEI_ammo_pack",
-      "20mm_Vulcan_API_ammo_pack",
       "il_m48a1_patton_III",
-      "90mm_us_T142E3_HESH_ammo_pack",
       "90mm_us_T142E3_HESH",
-      "90mm_us_M82_m48_ammo_pack",
       "90mm_us_M82_m48",
       "90mm_us_M431_HEAT",
-      "90mm_us_M431_HEAT_ammo_pack",
       "90mm_us_M71_HE",
       "90mm_us_M313_Smoke",
-      "90mm_us_M313_Smoke_ammo_pack",
       "il_m_51"
     ]
   },
@@ -3020,9 +2679,7 @@
     "ammo": [
       "120mm_NATO_HEAT_FS",
       "120mm_NATO_APDS_FS",
-      "120mm_NATO_APDS_FS_ammo_pack",
-      "120mm_DM_APDS_FS",
-      "120mm_DM_APDS_FS_ammo_pack"
+      "120mm_DM_APDS_FS"
     ]
   },
   {
@@ -3035,11 +2692,8 @@
     "role": "Light tank",
     "ammo": [
       "30mm_173_HEI",
-      "30mm_173_HEI_ammo_pack",
       "30mm_173_AHEAD",
-      "30mm_173_AHEAD_ammo_pack",
-      "30mm_173_APDS_FS",
-      "30mm_173_APDS_FS_ammo_pack"
+      "30mm_173_APDS_FS"
     ]
   },
   {
@@ -3150,8 +2804,7 @@
     "ammo_amount": 25,
     "image": "germ_panzerjager_1.png",
     "ammo": [
-      "47mm_ger_pak_t_st_APCR",
-      "47mm_ger_pak_t_st_APCR_ammo_pack"
+      "47mm_ger_pak_t_st_APCR"
     ]
   },
   {
@@ -3322,8 +2975,6 @@
     "ammo": [
       "50mm_ger_kwk39_APCR1",
       "50mm_ger_kwk39_APCR2",
-      "50mm_kwk_38_39_APCR1_ammo_pack",
-      "50mm_kwk_38_39_APCR2_ammo_pack",
       "50mm_ger_kwk39_HE"
     ]
   },
@@ -3456,9 +3107,7 @@
     "image": "germ_pzkpfw_35t.png",
     "ammo": [
       "37mm_ger_kwk36_APCR",
-      "37mm_ger_kwk38_t_APCBC",
-      "37mm_kwk_38_t_APCBC_ammo_pack",
-      "37mm_kwk_36_APCR_ammo_pack"
+      "37mm_ger_kwk38_t_APCBC"
     ]
   },
   {
@@ -3470,9 +3119,7 @@
     "image": "germ_pzkpfw_35t_romania_mare.png",
     "ammo": [
       "37mm_ger_kwk36_APCR",
-      "37mm_ger_kwk38_t_APCBC",
-      "37mm_kwk_38_t_APCBC_ammo_pack",
-      "37mm_kwk_36_APCR_ammo_pack"
+      "37mm_ger_kwk38_t_APCBC"
     ]
   },
   {
@@ -3484,9 +3131,7 @@
     "image": "germ_pzkpfw_38t_na.png",
     "ammo": [
       "37mm_ger_kwk36_APCR",
-      "37mm_ger_kwk38_t_APCBC",
-      "37mm_kwk_38_t_APCBC_ammo_pack",
-      "37mm_kwk_36_APCR_ammo_pack"
+      "37mm_ger_kwk38_t_APCBC"
     ]
   },
   {
@@ -3509,11 +3154,8 @@
     "role": "Light tank",
     "ammo": [
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
       "105mm_NATO_APDS_FS",
-      "105mm_NATO_APDS_FS_ammo_pack",
-      "105mm_DM33_APDS_FS",
-      "105mm_DM33_APDS_FS_ammo_pack"
+      "105mm_DM33_APDS_FS"
     ]
   },
   {
@@ -3526,8 +3168,7 @@
     "role": "Tank destroyer",
     "ammo": [
       "164mm_ss11_atom",
-      "164mm_ss11_bi_atgm",
-      "164mm_ss11_b1_atam_ammo_pack"
+      "164mm_ss11_bi_atgm"
     ]
   },
   {
@@ -3566,7 +3207,6 @@
     "ammo": [
       "90mm_ger_DM502_HESH",
       "90mm_us_M431_HEAT",
-      "90mm_us_M431_HEAT_ammo_pack",
       "90mm_us_M71_HE"
     ]
   },
@@ -3605,8 +3245,7 @@
     "ammo_amount": 25,
     "image": "germ_sdkfz_251_10.png",
     "ammo": [
-      "37mm_ger_kwk36_APCR",
-      "37mm_kwk_36_APCR_ammo_pack"
+      "37mm_ger_kwk36_APCR"
     ]
   },
   {
@@ -3628,9 +3267,6 @@
     "image": "germ_sdkfz_6_2_flak36.png",
     "role": "SPAA",
     "ammo": [
-      "37mm_ger_flak36_HE_ammo_pack",
-      "37mm_ger_flak36_AP_ammo_pack",
-      "37mm_ger_mgr_HE_ammo_pack",
       "37mm_ger_flak36_HE",
       "37mm_ger_flak36_AP",
       "37mm_ger_mgr_HE"
@@ -3657,9 +3293,6 @@
     "image": "germ_sdkfz_222.png",
     "role": "SPAA",
     "ammo": [
-      "20mm_kwk_30_HE_ammo_pack",
-      "20mm_kwk_30_AP_ammo_pack",
-      "20mm_kwk_30_APCR_ammo_pack",
       "20mm_ger_kwk30_HE",
       "20mm_ger_kwk30_AP",
       "20mm_ger_kwk30_APCR"
@@ -3674,9 +3307,6 @@
     "image": "germ_sdkfz_234_1.png",
     "role": "Light tank",
     "ammo": [
-      "20mm_kwk_30_HE_ammo_pack",
-      "20mm_kwk_30_AP_ammo_pack",
-      "20mm_kwk_30_APCR_ammo_pack",
       "20mm_ger_kwk30_HE",
       "20mm_ger_kwk30_AP",
       "20mm_ger_kwk30_APCR"
@@ -3693,8 +3323,6 @@
     "ammo": [
       "50mm_ger_kwk39_APCR1",
       "50mm_ger_kwk39_APCR2",
-      "50mm_kwk_38_39_APCR1_ammo_pack",
-      "50mm_kwk_38_39_APCR2_ammo_pack",
       "50mm_ger_HE"
     ]
   },
@@ -3717,13 +3345,10 @@
     "image": "germ_sdkfz_234_3.png",
     "role": "Tank destroyer",
     "ammo": [
-      "75mm_kwk_37_40_HEAT_ammo_pack",
       "75mm_ger_kwk37_HEAT",
-      "75mm_ger_kwk37_HI_C_HEAT_ammo_pack",
       "75mm_ger_kwk37_HI_C_HEAT",
       "75mm_ger_kwk40_37_HE",
-      "75mm_ger_Smoke",
-      "75mm_ger_Smoke_ammo_pack"
+      "75mm_ger_Smoke"
     ]
   },
   {
@@ -3738,9 +3363,6 @@
       "75mm_ger_kwk40_HEAT",
       "75mm_ger_kwk40_APCR",
       "75mm_ger_Smoke",
-      "75mm_ger_Smoke_ammo_pack",
-      "75mm_kwk_37_40_HEAT_ammo_pack",
-      "75mm_kwk_40_APCR_ammo_pack",
       "75mm_ger_kwk40_37_HE"
     ]
   },
@@ -3755,11 +3377,8 @@
     "ammo": [
       "15mm_ger_universal",
       "15mm_ger_he",
-      "15mm_ger_he_ammo_pack",
       "15mm_ger_ap",
-      "15mm_ger_ap_ammo_pack",
-      "15mm_ger_apcr",
-      "15mm_ger_apcr_ammo_pack"
+      "15mm_ger_apcr"
     ]
   },
   {
@@ -3774,9 +3393,6 @@
       "75mm_ger_kwk40_HEAT",
       "75mm_ger_kwk40_APCR",
       "75mm_ger_Smoke",
-      "75mm_ger_Smoke_ammo_pack",
-      "75mm_kwk_37_40_HEAT_ammo_pack",
-      "75mm_kwk_40_APCR_ammo_pack",
       "75mm_ger_kwk40_37_HE"
     ]
   },
@@ -3789,13 +3405,10 @@
     "image": "germ_sdkfz_251_9.png",
     "role": "Tank destroyer",
     "ammo": [
-      "75mm_kwk_37_40_HEAT_ammo_pack",
       "75mm_ger_kwk37_HEAT",
-      "75mm_ger_kwk37_HI_C_HEAT_ammo_pack",
       "75mm_ger_kwk37_HI_C_HEAT",
       "75mm_ger_kwk40_37_HE",
-      "75mm_ger_Smoke",
-      "7mm_ger_Smoke_ammo_pack"
+      "75mm_ger_Smoke"
     ]
   },
   {
@@ -3858,8 +3471,7 @@
     "role": "Tank destroyer",
     "ammo": [
       "128mm_ger_HE",
-      "128mm_ger_APCBC",
-      "128mm_ger_APCBC_ammo_pack"
+      "128mm_ger_APCBC"
     ]
   },
   {
@@ -3874,10 +3486,6 @@
       "76mm_AP_1942",
       "76mm_APCR_1943",
       "76mm_HEAT_1944",
-      "76mm_AP_1941_ammo_pack",
-      "76mm_AP_1942_ammo_pack",
-      "76mm_APCR_1943_ammo_pack",
-      "76mm_HEAT_1944_ammo_pack",
       "76mm_ussr_HE",
       "76mm_ussr_Shrapnel"
     ]
@@ -3893,10 +3501,7 @@
       "125mm_ussr_HE",
       "125mm_ussr_APDS_FS",
       "125mm_ussr_38M12_APDS_FS",
-      "125mm_ussr_38M15_APDS_FS",
-      "125mm_ussr_APDS_FS_ammo_pack",
-      "125mm_ussr_38M12_APDS_FS_ammo_pack",
-      "125mm_ussr_38M15_APDS_FS_ammo_pack"
+      "125mm_ussr_38M15_APDS_FS"
     ]
   },
   {
@@ -3909,12 +3514,10 @@
     "role": "Light tank",
     "ammo": [
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
       "105mm_usa_M456A2_HEAT_MP_F",
       "105mm_usa_M735_APDS_FS",
       "105mm_usa_M735_APDS_FS_amm",
-      "105mm_us_M416_Smoke",
-      "105mm_us_M416_Smoke_ammo_pack"
+      "105mm_us_M416_Smoke"
     ]
   },
   {
@@ -3928,9 +3531,7 @@
     "ammo": [
       "105mm_usa_HESH",
       "105mm_NATO_APDS_FS",
-      "105mm_NATO_APDS_FS_ammo_pack",
-      "105mm_DM33_APDS_FS",
-      "105mm_DM33_APDS_FS_ammo_pack"
+      "105mm_DM33_APDS_FS"
     ]
   },
   {
@@ -3944,9 +3545,7 @@
     "ammo": [
       "105mm_usa_HESH",
       "105mm_NATO_APDS_FS",
-      "105mm_NATO_APDS_FS_ammo_pack",
-      "105mm_DM33_APDS_FS",
-      "105mm_DM33_APDS_FS_ammo_pack"
+      "105mm_DM33_APDS_FS"
     ]
   },
   {
@@ -4067,8 +3666,7 @@
     "role": "Tank destroyer",
     "ammo": [
       "88mm_ger_kwk43_default_HE",
-      "88mm_ger_kwk43_APCR",
-      "88mm_kwk_36_43_APCR_ammo_pack"
+      "88mm_ger_kwk43_APCR"
     ]
   },
   {
@@ -4112,9 +3710,7 @@
     "role": "Light tank",
     "ammo": [
       "30mm_173_HEI",
-      "30mm_173_HEI_ammo_pack",
       "30mm_173_APDS_FS",
-      "30mm_173_APDS_FS_ammo_pack",
       "110mm_spike_ir"
     ]
   },
@@ -4128,8 +3724,6 @@
     "ammo": [
       "88mm_ger_kwk43_APCR",
       "88mm_ger_kwk43_HEAT",
-      "88mm_kwk_36_43_HEAT_ammo_pack",
-      "88mm_kwk_36_43_APCR_ammo_pack",
       "88mm_ger_kwk43_default_HE"
     ]
   },
@@ -4144,9 +3738,7 @@
     "ammo": [
       "127mm_us_tow",
       "152mm_us_tow_2a",
-      "152mm_us_tow_2a_ammo_pack",
-      "152mm_us_tow_2",
-      "152mm_us_tow_2_ammo_pack"
+      "152mm_us_tow_2"
     ]
   },
   {
@@ -4160,9 +3752,7 @@
     "ammo": [
       "20mm_rh202_HE",
       "20mm_rh202_AP",
-      "20mm_rh202_AP_ammo_pack",
-      "20mm_rh202_APDS",
-      "20mm_rh202_APDS_ammo_pack"
+      "20mm_rh202_APDS"
     ]
   },
   {
@@ -4185,10 +3775,7 @@
     "ammo": [
       "30mm_mk_103_38_HE",
       "30mm_mk_103_38_AP",
-      "30mm_mk_103_38_APCR",
-      "30mm_mk_103_38_HE_ammo_pack",
-      "30mm_mk_103_38_AP_ammo_pack",
-      "30mm_mk_103_38_APCR_ammo_pack"
+      "30mm_mk_103_38_APCR"
     ]
   },
   {
@@ -4202,9 +3789,7 @@
     "ammo": [
       "76mm_usa_M32_HE",
       "76mm_usa_M32_APDS",
-      "76mm_usa_M32_APDS_ammo_pack",
-      "76mm_usa_M32_HEAT",
-      "76mm_usa_M32_HEAT_ammo_pack"
+      "76mm_usa_M32_HEAT"
     ]
   },
   {
@@ -4216,15 +3801,11 @@
     "image": "germ_mkpz_m47.png",
     "role": "Medium tank",
     "ammo": [
-      "90mm_us_M304_APCR_ammo_pack",
       "90mm_us_M304_APCR",
-      "90mm_us_M332_APCR_ammo_pack",
       "90mm_us_M332_APCR",
       "90mm_us_T108_HEAT",
-      "90mm_us_T108_HEAT_ammo_pack",
       "90mm_us_M71_HE",
-      "90mm_us_M313_Smoke",
-      "90mm_us_M313_Smoke_ammo_pack"
+      "90mm_us_M313_Smoke"
     ]
   },
   {
@@ -4238,11 +3819,8 @@
     "ammo": [
       "122mm_ussr_HE",
       "122mm_ussr_HEAT_ZBK",
-      "122mm_HEAT_ZBK_ammo_pack",
       "122mm_ussr_HE_VT",
-      "122mm_ussr_HE_VT_ammo_pack",
-      "122mm_ussr_30F_56_HE",
-      "122mm_ussr_30F_56_HE_ammo_pack"
+      "122mm_ussr_30F_56_HE"
     ]
   },
   {
@@ -4275,10 +3853,7 @@
       "125mm_ussr_HE",
       "125mm_ussr_APDS_FS",
       "125mm_ussr_ATGM",
-      "125mm_ussr_38M42_APDS_FS",
-      "125mm_ussr_APDS_FS_ammo_pack",
-      "125mm_ussr_ATGM_ammo_pack",
-      "125mm_ussr_38M42_APDS_FS_ammo_pack"
+      "125mm_ussr_38M42_APDS_FS"
     ]
   },
   {
@@ -4293,10 +3868,7 @@
       "125mm_ussr_HE",
       "125mm_ussr_APDS_FS",
       "125mm_ussr_ATGM",
-      "125mm_ussr_38M42_APDS_FS",
-      "125mm_ussr_APDS_FS_ammo_pack",
-      "125mm_ussr_ATGM_ammo_pack",
-      "125mm_ussr_38M42_APDS_FS_ammo_pack"
+      "125mm_ussr_38M42_APDS_FS"
     ]
   },
   {
@@ -4310,9 +3882,7 @@
     "ammo": [
       "57mim_ussr_HE",
       "57mm_APFSDS",
-      "57mm_APFSDS_ammo_pack",
-      "57mm_HE_VT",
-      "57mm_HE_VT_ammo_pack"
+      "57mm_HE_VT"
     ]
   },
   {
@@ -4325,13 +3895,9 @@
     "role": "Tank destroyer",
     "ammo": [
       "152mm_ussr_HEAT",
-      "152mm_ussr_HEAT_ammo_pack",
       "152mm_ussr_APHEBC",
-      "152mm_ussr_APHEBC_ammo_pack",
       "152mm_ussr_HE_30F25",
-      "152mm_ussr_HE_30F25_ammo_pack",
-      "152mm_ussr_HE_VT_30F25",
-      "152mm_ussr_HE_VT_30F25_ammo_pack"
+      "152mm_ussr_HE_VT_30F25"
     ]
   },
   {
@@ -4344,9 +3910,7 @@
     "role": "SPAA",
     "ammo": [
       "30mm_2a38_HE",
-      "30mm_2a42_AP",
-      "30mm_2a42_AP_ammo_pack_",
-      "30mm_2a38_HE_ammo_pack"
+      "30mm_2a42_AP"
     ]
   },
   {
@@ -4358,8 +3922,6 @@
     "image": "ussr_asu_57.png",
     "role": "Tank destroyer",
     "ammo": [
-      "57mm_AP_ammo_pack",
-      "57mm_APCR_ammo_pack",
       "57mm_ussr_AP",
       "57mm_ussr_HE",
       "57mm_ussr_APCR"
@@ -4375,7 +3937,6 @@
     "role": "Tank destroyer",
     "ammo": [
       "85mm_ussr_HEAT_FS",
-      "85mm_HEAT_FS_ammo_pack",
       "85mm_ussr_HE"
     ]
   },
@@ -4388,7 +3949,6 @@
     "image": "ussr_ba_11.png",
     "role": "Light tank",
     "ammo": [
-      "45mm_AP_1942_ammo_pack",
       "45mm_ussr_AP_1942"
     ]
   },
@@ -4413,6 +3973,7 @@
     "image": "ussr_bm_31_12.png",
     "role": "Tank destroyer",
     "ammo": [
+      "380mm_RW61_HE",
       "built-in Ig"
     ]
   },
@@ -4440,7 +4001,6 @@
       "30mm_2a42_HE",
       "30mm_2a72_AP",
       "30mm_2a42_APDS",
-      "30mm_2a42_APDS_ammo_pack",
       "100mm_30f_32",
       "100mm_30f70",
       "100mm_9m117"
@@ -4480,9 +4040,7 @@
     "ammo": [
       "30mm_2342_HE",
       "30mm_2a42_AP",
-      "30mm_2a42_APDS",
-      "30mm_2a42_AP_ammo_pack",
-      "30mm_224_ammo_pack"
+      "30mm_2a42_APDS"
     ]
   },
   {
@@ -4498,9 +4056,6 @@
       "30mm_2a42_AP",
       "30mm_2a42_APDS",
       "30mm_2a42_APDS_FS",
-      "30mm_2a42_AP_ammo_pack",
-      "30mm_2a42_APDS_ammo_pack",
-      "30mm_2a42_APDS_FS_ammo_pack",
       "152mm_9Mi33_ATGM",
       "152mm_9M133FM_3_ATGM",
       "152mm_9M133FM_3_ATGM_ammo"
@@ -4517,8 +4072,7 @@
     "ammo": [
       "30mm_2a42_HE",
       "30mm_2a72_AP",
-      "30mm_2a42_APDS",
-      "30mm_2a42_APDS_ammo_pack"
+      "30mm_2a42_APDS"
     ]
   },
   {
@@ -4530,7 +4084,6 @@
     "image": "ussr_bt_5.png",
     "role": "Light tank",
     "ammo": [
-      "45mm_AP_1942_ammo_pack",
       "45mm_ussr_AP_1942"
     ]
   },
@@ -4543,7 +4096,6 @@
     "image": "ussr_bt_7_1937.png",
     "role": "Light tank",
     "ammo": [
-      "45mm_AP_1942_ammo_pack",
       "45mm_ussr_AP_1942"
     ]
   },
@@ -4556,7 +4108,6 @@
     "image": "ussr_bt_7_1937_td.png",
     "role": "Light tank",
     "ammo": [
-      "45mm_AP_1942_ammo_pack",
       "45mm_ussr_AP_1942"
     ]
   },
@@ -4569,12 +4120,10 @@
     "image": "ussr_bt_7a_f32.png",
     "role": "Light tank",
     "ammo": [
-      "76mm_AP_1942_ammo_pack",
       "76mm_AP_1942",
       "76mm_ussr_HE",
       "76mm_ussr_Shrapnel",
-      "76mm_ussr_Smoke",
-      "76mm_ussr_Smoke_ammo_pack"
+      "76mm_ussr_Smoke"
     ]
   },
   {
@@ -4586,7 +4135,6 @@
     "image": "ussr_bt_7_m.png",
     "role": "Light tank",
     "ammo": [
-      "45mm_AP_1942_ammo_pack",
       "45mm_ussr_AP_1942"
     ]
   },
@@ -4601,9 +4149,7 @@
     "ammo": [
       "14mm_ussr_KPVT_universal",
       "14mm_ussr_KPVT_API",
-      "14mm_ussr_KPVT_HEI",
-      "14mm_ussr_KPVT_HEI_ammo_pack",
-      "14mm_ussr_KPVT_API_ammo_pack"
+      "14mm_ussr_KPVT_HEI"
     ]
   },
   {
@@ -4617,9 +4163,7 @@
     "ammo": [
       "14mm_ussr_KPVT_universal",
       "14mm_ussr_KPVT_API",
-      "14mm_ussr_KPVT_HEI",
-      "14mm_ussr_KPVT_HEI_ammo_pack",
-      "14mm_ussr_KPVT_API_ammo_pack"
+      "14mm_ussr_KPVT_HEI"
     ]
   },
   {
@@ -4633,10 +4177,7 @@
     "ammo": [
       "30mm_2a72_BTR_HE",
       "30mm_2a72_BTR_AP",
-      "30mm_2a42_APDS",
-      "30mm_2a72_BTR_HE_ammo_pack",
-      "30mm_2a72_BTR_AP_ammo_pack",
-      "30mm_2a42_APDS_ammo_pack"
+      "30mm_2a42_APDS"
     ]
   },
   {
@@ -4649,9 +4190,7 @@
     "role": "SPAA",
     "ammo": [
       "23mm_ussr_HEIT",
-      "23mm_ussr_HEIT_ammo_pack",
-      "23mm_ussr_APIT",
-      "23mm_ussr_APIT_ammo_pack"
+      "23mm_ussr_APIT"
     ]
   },
   {
@@ -4664,11 +4203,8 @@
     "role": "SPAA",
     "ammo": [
       "7_62mm_DT_universal",
-      "7_62mm_DT_universal_ammo_pack",
       "7_62mm_DT_API",
-      "7_62mm_DT_API_ammo_pack",
-      "7_62mm_DT_APIT",
-      "762mm_DT_APIT_ammo_pack"
+      "7_62mm_DT_APIT"
     ]
   },
   {
@@ -4681,10 +4217,7 @@
     "ammo": [
       "12mm_ussr_dshk_API",
       "12mm_ussr_dshk_AP",
-      "12mm_ussr_dshk_APIT",
-      "12mm_ussr_dshk_API_ammo_pack",
-      "12mm_ussr_dshk_AP_ammo_pack",
-      "12mm_ussr_dshk_APIT_ammo_pack"
+      "12mm_ussr_dshk_APIT"
     ]
   },
   {
@@ -4696,8 +4229,6 @@
     "image": "ussr_gaz_mm_72k.png",
     "role": "SPAA",
     "ammo": [
-      "25mm_ussr_72K_HE_ammo_pack",
-      "25mm_ussr_72K_AP_ammo_pack",
       "25mm_ussr_72K_HE",
       "25mm_ussr_72K_AP"
     ]
@@ -4722,8 +4253,6 @@
     "ammo": [
       "85mm_ussr_APHE",
       "85mm_ussr_APCR",
-      "85mm_APHE_ammo_pack",
-      "85mm_APCR_ammo_pack",
       "85mm_ussr_HE"
     ]
   },
@@ -4737,7 +4266,6 @@
     "role": "Heavy tank",
     "ammo": [
       "122mm_ussr_APHE",
-      "122mm_APHE_ammo_pack",
       "122mm_ussr_HE"
     ]
   },
@@ -4751,9 +4279,7 @@
     "ammo": [
       "122mm_ussr_HE",
       "122mm_ussr_APHE",
-      "122mm_APHE_ammo_pack",
-      "122mm_ussr_APCBC",
-      "122mm_APCBC_ammo_pack"
+      "122mm_ussr_APCBC"
     ]
   },
   {
@@ -4767,9 +4293,7 @@
     "ammo": [
       "122mm_ussr_HE",
       "122mm_ussr_APHE",
-      "122mm_APHE_ammo_pack",
-      "122mm_ussr_APCBC",
-      "122mm_APCBC_ammo_pack"
+      "122mm_ussr_APCBC"
     ]
   },
   {
@@ -4782,9 +4306,7 @@
     "ammo": [
       "122mm_ussr_HE",
       "122mm_ussr_APHE",
-      "122mm_APHE_ammo_pack",
-      "122mm_ussr_APCBC",
-      "122mm_APCBC_ammo_pack"
+      "122mm_ussr_APCBC"
     ]
   },
   {
@@ -4796,8 +4318,6 @@
     "image": "ussr_is_3.png",
     "role": "Heavy tank",
     "ammo": [
-      "122mm_APHE_ammo_pack",
-      "122mm_APCBC_ammo_pack",
       "122mm_ussr_APHE",
       "122mm_ussr_APCBC",
       "122mm_ussr_HE"
@@ -4812,8 +4332,6 @@
     "image": "ussr_is_4m.png",
     "role": "Heavy tank",
     "ammo": [
-      "122mm_APHE_ammo_pack",
-      "122mm_APCBC_ammo_pack",
       "122mm_ussr_APHE",
       "122mm_ussr_APCBC",
       "122mm_ussr_HE"
@@ -4830,9 +4348,7 @@
     "ammo": [
       "122mm_ussr_HE",
       "122mm_ussr_APHE",
-      "122mm_APHE_ammo_pack",
-      "122mm_ussr_APCBC",
-      "122mm_APCBC_ammo_pack"
+      "122mm_ussr_APCBC"
     ]
   },
   {
@@ -4857,7 +4373,6 @@
     "role": "Tank destroyer",
     "ammo": [
       "122mm_ussr_APHE",
-      "122mm_APHE_ammo_pack",
       "122mm_ussr_HE"
     ]
   },
@@ -4871,7 +4386,6 @@
     "role": "Tank destroyer",
     "ammo": [
       "122mm_ussr_APHE",
-      "122mm_APHE_ammo_pack",
       "122mm_ussr_HE"
     ]
   },
@@ -4886,9 +4400,7 @@
     "ammo": [
       "152mm_ussr_HE",
       "152mm_ussr_APHEBC",
-      "152mm_ussr_APHEBC_ammo_pack",
-      "152mm_ussr_HEAT",
-      "152mm_ussr_HEAT_ammo_pack"
+      "152mm_ussr_HEAT"
     ]
   },
   {
@@ -4914,9 +4426,7 @@
       "57mm_britain_6pdr_AP_HV",
       "57mm_britain_6pdr_AP_HV_ammo",
       "57mm_britain_6pdr_APC",
-      "57mm_britain_6pdr_APC_ammo_pack",
       "57mm_britain_6pdr_APCBC",
-      "57mm_britain_6pdr_APCBC_ammo_pack",
       "57mm_britain_6pdr_HE"
     ]
   },
@@ -4939,15 +4449,11 @@
     "image": "ussr_kv_1_zis_5.png",
     "ammo": [
       "76mm_APCR_1943",
-      "76mm_APCR_1943_ammo_pack",
       "76mm_AP_1942",
-      "76mm_AP_1942_ammo_pack",
       "76mm_AP_1941",
-      "76mm_AP_1941_ammo_pack",
       "76mm_ussr_HE",
       "76mm_ussr_Shrapnel",
-      "76mm_ussr_Smoke",
-      "76mm_ussr_Smoke_ammo_pack"
+      "76mm_ussr_Smoke"
     ]
   },
   {
@@ -4960,7 +4466,6 @@
     "role": "Heavy tank",
     "ammo": [
       "122mm_ussr_APHE",
-      "122mm_APHE_ammo_pack",
       "122mm_ussr_HE"
     ]
   },
@@ -4974,11 +4479,9 @@
     "role": "Heavy tank",
     "ammo": [
       "76mm_AP_1942",
-      "76mm_AP_1942_ammo_pack",
       "76mm_ussr_HE",
       "76mm_ussr_Shrapnel",
-      "76mm_ussr_Smoke",
-      "76mm_ussr_Smoke_ammo_pack"
+      "76mm_ussr_Smoke"
     ]
   },
   {
@@ -4991,15 +4494,11 @@
     "role": "Heavy tank",
     "ammo": [
       "76mm_APCR_1943",
-      "76mm_APCR_1943_ammo_pack",
       "76mm_AP_1942",
-      "76mm_AP_1942_ammo_pack",
       "76mm_AP_1941",
-      "76mm_AP_1941_ammo_pack",
       "76mm_ussr_HE",
       "76mm_ussr_Shrapnel",
-      "76mm_ussr_Smoke",
-      "76mm_ussr_Smoke_ammo_pack"
+      "76mm_ussr_Smoke"
     ]
   },
   {
@@ -5011,8 +4510,7 @@
     "image": "ussr_kv_2_1939.png",
     "ammo": [
       "152mm_ussr_HE",
-      "152mm_ussr_APCBC",
-      "152mm_ussr_APCBC_ammo_pack"
+      "152mm_ussr_APCBC"
     ]
   },
   {
@@ -5024,8 +4522,7 @@
     "image": "ussr_kv_2_1940.png",
     "ammo": [
       "152mm_ussr_HE",
-      "152mm_ussr_APCBC",
-      "152mm_ussr_APCBC_ammo_pack"
+      "152mm_ussr_APCBC"
     ]
   },
   {
@@ -5071,7 +4568,6 @@
     "role": "Heavy tank",
     "ammo": [
       "85mm_ussr_APHE",
-      "85mm_APHE_ammo_pack",
       "85mm_ussr_HE"
     ]
   },
@@ -5085,8 +4581,7 @@
     "role": "Tank destroyer",
     "ammo": [
       "152mm_9M123_ATGM",
-      "152mm_9M123F_ATGM",
-      "152mm_9M123F_ATGM_ammo_pack"
+      "152mm_9M123F_ATGM"
     ]
   },
   {
@@ -5099,13 +4594,10 @@
     "ammo": [
       "37mm_usa_m3_AP",
       "37mm_usa_m3_APC",
-      "37mm_usa_m3_APC_ammo_pack",
       "75mm_usa_HE",
       "75mm_usa_AP",
       "75mm_usa_APCBC",
-      "75mm_usa_APCBC_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -5117,8 +4609,7 @@
     "image": "ussr_m4a2_76w_sherman.png",
     "ammo": [
       "76mm_usa_M42A1_HE",
-      "76mm_usa_APCBC",
-      "76mm_usa_APCBC_ammo_pack"
+      "76mm_usa_APCBC"
     ]
   },
   {
@@ -5131,9 +4622,7 @@
     "role": "SPAA",
     "ammo": [
       "30mm_ussr_HE",
-      "30mm_ussr_AP",
-      "30mm_ussr_HE_ammo_pack",
-      "30mm_ussr_AP_ammo_pack"
+      "30mm_ussr_AP"
     ]
   },
   {
@@ -5155,8 +4644,7 @@
     "role": "Tank destroyer",
     "ammo": [
       "152mm_M69_HE",
-      "152mm_M69_APDS_FS",
-      "152mm_M69_APDS_FS_ammo_pack"
+      "152mm_M69_APDS_FS"
     ]
   },
   {
@@ -5179,8 +4667,7 @@
     "role": "Heavy tank",
     "ammo": [
       "100mm_ussr_HE",
-      "100mm_ussr_Smoke",
-      "100mm_ussr_Smoke_ammo_pack"
+      "100mm_ussr_Smoke"
     ]
   },
   {
@@ -5194,8 +4681,7 @@
     "ammo": [
       "152mm_ussr_HE",
       "152mm_ussr_M64_APBC",
-      "152mm_ussr_M64_HEAT",
-      "152mm_ussr_M64_HEAT_ammo_pack"
+      "152mm_ussr_M64_HEAT"
     ]
   },
   {
@@ -5231,8 +4717,6 @@
     "image": "ussr_object_435.png",
     "role": "Medium tank",
     "ammo": [
-      "115mm_APDS_FS_ammo_pack",
-      "115mm_HEAT_FS_ammo_pack",
       "115mm_ussr_APDS_FS",
       "115mm_ussr_HEAT_FS",
       "115mm_ussr_HE"
@@ -5247,9 +4731,6 @@
     "image": "ussr_object_685.png",
     "role": "Light tank",
     "ammo": [
-      "100mm_3BK25_ammo_pack",
-      "100mm_BR412D_ammo_pack",
-      "100mm_ussr_Smoke_ammo_pack",
       "100mm_ussr_Smoke",
       "100rmm_ussr_BR412D",
       "100mm_ussr_3BK25",
@@ -5278,7 +4759,6 @@
     "role": "Light tank",
     "ammo": [
       "85mm_ussr_HEAT_FS",
-      "85mm_HEAT_FS_ammo_pack",
       "85mm_ussr_HE"
     ]
   },
@@ -5315,8 +4795,6 @@
     "ammo": [
       "76mm_ussr_AP_53",
       "76mm_ussr_HEAT_53",
-      "76mm_ussr_HEAT_53_ammo_pack",
-      "76mm_ussr_AP_53_ammo_pack",
       "76mm_ussr_HE"
     ]
   },
@@ -5330,9 +4808,7 @@
     "role": "SPAA",
     "ammo": [
       "30mm_2a38_HE",
-      "30mm_2a42_AP",
-      "30mm_2a42_AP_ammo_pack",
-      "30mm_2a38_HE_ammo_pack"
+      "30mm_2a42_AP"
     ]
   },
   {
@@ -5345,10 +4821,7 @@
     "ammo": [
       "37mm_ussr_61K_HE",
       "37mm_ussr_61K_AP",
-      "37mm_ussr_61K_APCR",
-      "37mm_ussr_61K_HE_ammo_pack",
-      "37mm_ussr_61K_AP_ammo_pack",
-      "37mm_ussr_61K_APCR_ammo_pack"
+      "37mm_ussr_61K_APCR"
     ]
   },
   {
@@ -5360,7 +4833,6 @@
     "image": "ussr_rbt_5.png",
     "role": "Light tank",
     "ammo": [
-      "45mm_AP_1942_ammo_pack",
       "45mm_ussr_AP_1942"
     ]
   },
@@ -5373,13 +4845,10 @@
     "image": "ussr_smk.png",
     "role": "Heavy tank",
     "ammo": [
-      "76mm_AP_1942_ammo_pack",
       "76mm_AP_1942",
       "76mm_ussr_HE",
       "76mm_ussr_Shrapnel",
       "76mm_ussr_AP",
-      "45mm_AP_1942_ammo_pack",
-      "45mm_APCR_ammo_pack",
       "45mm_ussr_HE",
       "45mm_ussr_AP_1942",
       "45mm_ussr_APCR",
@@ -5395,9 +4864,6 @@
     "image": "ussr_su_100_1945.png",
     "role": "Tank destroyer",
     "ammo": [
-      "100mm_APHE_ammo_pack",
-      "100mm_ussr_Smoke_ammo_pack",
-      "100mm_APCBC_ammo_pack",
       "100mm_ussr_APHE",
       "100mm_ussr_APCBC",
       "100mm_ussr_Smoke",
@@ -5413,9 +4879,6 @@
     "image": "ussr_su_100p.png",
     "role": "Tank destroyer",
     "ammo": [
-      "100mm_APHE_ammo_pack",
-      "100mm_ussr_Smoke_ammo_pack",
-      "100mm_APCBC_ammo_pack",
       "100mm_ussr_APHE",
       "100mm_ussr_APCBC",
       "100mm_ussr_Smoke",
@@ -5441,10 +4904,8 @@
     "image": "ussr_su_122.png",
     "role": "Tank destroyer",
     "ammo": [
-      "122mm_HEAT_ammo_pack",
       "122mm_ussr_HEAT",
-      "122mm_ussr_Smoke",
-      "122mm_ussr_Smoke_ammo_pack"
+      "122mm_ussr_Smoke"
     ]
   },
   {
@@ -5456,10 +4917,7 @@
     "image": "ussr_su_122_54.png",
     "role": "Tank destroyer",
     "ammo": [
-      "122mm_APHE_ammo_pack",
       "122mm_APCBC_ammd_pack",
-      "122mm_APDS_ammo_pack",
-      "122mm_HEAT_ZBK_ammo_pack",
       "122mm_ussr_APHE",
       "122mm_ussr_APCBC",
       "122mm_ussr_APDS",
@@ -5487,8 +4945,7 @@
     "role": "Tank destroyer",
     "ammo": [
       "152mm_ussr_HE",
-      "152mm_ussr_APHEBC",
-      "152mm_ussr_APHEBC_ammo_pack"
+      "152mm_ussr_APHEBC"
     ]
   },
   {
@@ -5500,7 +4957,6 @@
     "image": "ussr_su_5_1.png",
     "ammo": [
       "76mm_AP_1942",
-      "76mm_AP_1942_ammo_pack",
       "76mm_ussr_HE"
     ]
   },
@@ -5513,8 +4969,7 @@
     "image": "ussr_su_57.png",
     "role": "Tank destroyer",
     "ammo": [
-      "57mm_us_APCBC",
-      "57mm_us_APCBC_ammo_pack"
+      "57mm_us_APCBC"
     ]
   },
   {
@@ -5526,7 +4981,6 @@
     "image": "ussr_su_57b.png",
     "role": "Tank destroyer",
     "ammo": [
-      "57mm_AP_ammo_pack",
       "57mm_ussr_AP",
       "57mm_ussr_HE"
     ]
@@ -5544,14 +4998,9 @@
       "76mm_AP_1942",
       "76mm_APCR_1943",
       "76mm_HEAT_1944",
-      "76mm_AP_1941_ammo_pack",
-      "76mm_AP_1942_ammo_pack",
-      "76mm_APCR_1943_ammo_pack",
-      "76mm_HEAT_1944_ammo_pack",
       "76mm_ussr_HE",
       "76mm_ussr_Shrapnel",
-      "76mm_ussr_Smoke",
-      "76mm_ussr_Smoke_ammo_pack"
+      "76mm_ussr_Smoke"
     ]
   },
   {
@@ -5567,13 +5016,9 @@
       "76mm_APCR_1943",
       "76mm_HEAT_1944",
       "76mm_AP_1941",
-      "76mm_APCR_1943_ammo_pack",
-      "76mm_HEAT_1944_ammo_pack",
-      "76mm_AP_1941_ammo_pack",
       "76mm_ussr_HE",
       "76mm_ussr_Shrapnel",
-      "76mm_ussr_Smoke",
-      "76mm_ussr_Smoke_ammo_pack"
+      "76mm_ussr_Smoke"
     ]
   },
   {
@@ -5589,14 +5034,9 @@
       "76mm_APCR_1943",
       "76mm_HEAT_1944",
       "76mm_AP_1941",
-      "76mm_AP_1942_ammo_pack",
-      "76mm_APCR_1943_ammo_pack",
-      "76mm_HEAT_1944_ammo_pack",
-      "76mm_AP_1941_ammo_pack",
       "76mm_ussr_HE",
       "76mm_ussr_Shrapnel",
-      "76mm_ussr_Smoke",
-      "76mm_ussr_Smoke_ammo_pack"
+      "76mm_ussr_Smoke"
     ]
   },
   {
@@ -5608,7 +5048,6 @@
     "image": "ussr_su_85_1943.png",
     "role": "Tank destroyer",
     "ammo": [
-      "85mm_APHE_ammo_pack",
       "85mm_ussr_APHE",
       "85mm_ussr_HE"
     ]
@@ -5622,8 +5061,6 @@
     "image": "ussr_su_85a.png",
     "role": "Tank destroyer",
     "ammo": [
-      "85mm_APHE_ammo_pack",
-      "85mm_ussr_APCR_ammo_pack",
       "85mm_ussr_APHE",
       "85mm_ussr_APCR",
       "85mm_ussr_HE"
@@ -5638,8 +5075,6 @@
     "image": "ussr_su_85m.png",
     "role": "Tank destroyer",
     "ammo": [
-      "85mm_APHE_ammo_pack",
-      "85mm_APCR_ammo_pack",
       "85mm_ussr_APHE",
       "85mm_ussr_APCR",
       "85rmm_ussr_HE"
@@ -5657,10 +5092,7 @@
       "130mm_9m114_ATGM",
       "130mm_9m120_ATGM",
       "130mm_9m120f_1_ATGM",
-      "130mm_9m120_ATGM_ammo_pack",
-      "130mm_9m120f_1_ATGM_ammo_pack",
-      "130mm_9m2200_ATGM",
-      "130mm_9m2200_ATGM_ammo_pack"
+      "130mm_9m2200_ATGM"
     ]
   },
   {
@@ -5684,8 +5116,6 @@
     "image": "ussr_t_10a.png",
     "role": "Heavy tank",
     "ammo": [
-      "122mm_APHE_ammo_pack",
-      "122mm_APCBC_ammo_pack",
       "122mm_ussr_APHE",
       "122mm_ussr_APCBC",
       "122mm_ussr_HE"
@@ -5700,8 +5130,6 @@
     "image": "ussr_t_10m.png",
     "role": "Heavy tank",
     "ammo": [
-      "122mm_APDS_ammo_pack",
-      "122mm_HEAT_ZBK_ammo_pack",
       "122mm_ussr_APDS",
       "122mm_ussr_HEAT_ZBK",
       "122mm_ussr_HE"
@@ -5716,8 +5144,6 @@
     "image": "ussr_t_126sp.png",
     "role": "Light tank",
     "ammo": [
-      "45mm_AP_1942_ammo_pack",
-      "45mm_APCR_ammo_pack",
       "45mm_ussr_AP_1942",
       "45mm_ussr_APCR"
     ]
@@ -5763,7 +5189,6 @@
     "image": "ussr_t_28.png",
     "role": "Medium tank",
     "ammo": [
-      "76mm_AP_1941_ammo_pack",
       "76mm_AP_1941",
       "76mm_ussr_HE"
     ]
@@ -5799,13 +5224,10 @@
     "role": "Medium tank",
     "ammo": [
       "76mm_AP_1942",
-      "76mm_AP_1942_ammo_pack",
       "76mm_AP_1941",
-      "76mm_AP_1941_ammo_pack",
       "76mm_ussr_HE",
       "76mm_ussr_Shrapnel",
-      "76mm_ussr_Smoke",
-      "76mm_ussr_Smoke_ammo_pack"
+      "76mm_ussr_Smoke"
     ]
   },
   {
@@ -5836,13 +5258,10 @@
     "image": "ussr_t_34_1941.png",
     "ammo": [
       "76mm_AP_1942",
-      "76mm_AP_1942_ammo_pack",
       "76mm_AP_1941",
-      "76mm_AP_1941_ammo_pack",
       "76mm_ussr_HE",
       "76mm_ussr_Shrapnel",
-      "76mm_ussr_Smoke",
-      "76mm_ussr_Smoke_ammo_pack"
+      "76mm_ussr_Smoke"
     ]
   },
   {
@@ -5857,14 +5276,9 @@
       "76mm_AP_1942",
       "76mm_APCR_1943",
       "76mm_HEAT_1944",
-      "76mm_AP_1941_ammo_pack",
-      "76mm_AP_1942_ammo_pack",
-      "76mm_APCR_1943_ammo_pack",
-      "76mm_HEAT_1944_ammo_pack",
       "76mm_ussr_HE",
       "76mm_ussr_Shrapnel",
-      "76mm_ussr_Smoke",
-      "76mm_ussr_Smoke_ammo_pack"
+      "76mm_ussr_Smoke"
     ]
   },
   {
@@ -5877,8 +5291,6 @@
     "role": "Medium tank",
     "ammo": [
       "100mm_APHE_amrio_pack",
-      "100mm_ussr_Smoke_ammo_pack",
-      "100mm_APCBC_ammo_pack",
       "100mm_ussr_APHE",
       "100mm_ussr_APCBC",
       "100mm_ussr_Smoke",
@@ -5894,7 +5306,6 @@
     "image": "ussr_t_34_1941_57.png",
     "role": "Medium tank",
     "ammo": [
-      "57mm_AP_ammo_pack",
       "57mm_ussr_AP",
       "57mm_ussr_HE"
     ]
@@ -5907,8 +5318,6 @@
     "ammo_amount": 25,
     "image": "ussr_t_34_57_1943.png",
     "ammo": [
-      "57mm_AP_ammo_pack",
-      "57mm_APCR_ammo_pack",
       "57mm_ussr_AP",
       "57mm_ussr_HE",
       "57mm_ussr_APCR"
@@ -5924,7 +5333,6 @@
     "role": "Medium tank",
     "ammo": [
       "85mm_ussr_APHE",
-      "85mm_APHE_ammo_pack",
       "85mm_ussr_HE"
     ]
   },
@@ -5939,8 +5347,6 @@
     "ammo": [
       "85mm_ussr_APHE",
       "85mm_ussr_APCR",
-      "85mm_APHE_ammo_pack",
-      "85mm_APCR_ammo_pack",
       "85mm_ussr_HE"
     ]
   },
@@ -5983,11 +5389,9 @@
     "image": "ussr_t_35.png",
     "role": "Heavy tank",
     "ammo": [
-      "76mm_ussr_KT28_AP_ammo_pack",
       "76mm_ussr_KT28_AP",
       "76mm_ussr_KT28_HE",
       "76mm_ussr_KT28_Shrapnel",
-      "45mm_AP_1942_ammo_pack",
       "45mm_ussr_AP_1942",
       "45mm_ussr_APHE"
     ]
@@ -6005,10 +5409,6 @@
       "85mm_ussr_APCR",
       "85mm_ussr_APCBC",
       "85mm_ussr_HVAP",
-      "85mm_APHE_ammo_pack",
-      "85mm_APCBC_ammo_pack",
-      "85mm_APCR_ammo_pack",
-      "85mm_HVAP_ammo_pack",
       "85mm_ussr_HE"
     ]
   },
@@ -6021,10 +5421,6 @@
     "image": "ussr_t_44_100.png",
     "role": "Medium tank",
     "ammo": [
-      "100mm_APHE_ammo_pack",
-      "100mm_ussr_Smoke_ammo_pack",
-      "100mm_APCBC_ammo_pack",
-      "100mm_APCR_ammo_pack",
       "100mm_ussr_APHE",
       "100mm_ussr_Smoke",
       "100mm_ussr_APCBC",
@@ -6042,7 +5438,6 @@
     "role": "Medium tank",
     "ammo": [
       "122mm_ussr_APHE",
-      "122mm_APHE_ammo_pack",
       "122mm_ussr_HE"
     ]
   },
@@ -6055,8 +5450,6 @@
     "image": "ussr_t_50.png",
     "role": "Light tank",
     "ammo": [
-      "45mm_AP_1942_ammo_pack",
-      "45mm_APCR_ammo_pack",
       "45mm_ussr_AP_1942",
       "45mm_ussr_APCR"
     ]
@@ -6069,10 +5462,6 @@
     "ammo_amount": 25,
     "image": "ussr_t_54_1947.png",
     "ammo": [
-      "100mm_APHE_ammo_pack",
-      "100mm_APCBC_ammo_pack",
-      "100mm_APCR_ammo_pack",
-      "100mm_ussr_Smoke_ammo_pack",
       "100mm_ussr_APHE",
       "100mm_ussr_Smoke",
       "100mm_ussr_APCBC",
@@ -6088,9 +5477,6 @@
     "ammo_amount": 25,
     "image": "ussr_t_54_1949.png",
     "ammo": [
-      "100mm_APDS_ammo_pack",
-      "100mm_ussr_Smoke_ammo_pack",
-      "100mm_HEAT_ammo_pack",
       "100mm_ussr_APHE",
       "100mm_ussr_Smoke",
       "100mm_ussr_APCBC",
@@ -6108,10 +5494,6 @@
     "ammo_amount": 25,
     "image": "ussr_t_54_1951.png",
     "ammo": [
-      "100mm_APCR_ammo_pack",
-      "100mm_APDS_ammo_pack",
-      "100mm_HEAT_ammo_pack",
-      "100mm_ussr_Smoke_ammo_pack",
       "100mm_ussr_APCBC",
       "100mm_ussr_APCR",
       "100mm_ussr_APDS",
@@ -6129,10 +5511,6 @@
     "image": "ussr_t_55a.png",
     "role": "Medium tank",
     "ammo": [
-      "100mm_3BK25_ammo_pack",
-      "100mm_BR412D_ammo_pack",
-      "100mm_ussr_Smoke_ammo_pack",
-      "100mm_38K17M_ammo_pack",
       "100mm_ussr_Smoke",
       "100rmm_ussr_BR412D",
       "100mm_ussr_3BK25",
@@ -6148,10 +5526,6 @@
     "image": "ussr_t_55_am.png",
     "role": "Medium tank",
     "ammo": [
-      "100mm_3BK25_ammo_pack",
-      "100mm_BR412D_ammo_pack",
-      "100mm_ussr_Smoke_ammo_pack",
-      "100mm_38K17M_ammo_pack",
       "100mm_ussr_Smoke",
       "100rmm_ussr_BR412D",
       "100mm_ussr_3BK25",
@@ -6169,14 +5543,12 @@
     "image": "ussr_t_55_amd_1.png",
     "role": "Medium tank",
     "ammo": [
-      "100mm_3BK17M_ammo_pack",
       "100mm_ussr_Smoke",
       "100rmm_ussr_BR412D",
       "100mm_ussr_3BK25",
       "100mm_ussr_3BK17M",
       "100mm_ussr_HE",
-      "100mm_ussr_ATGM",
-      "100mm_ussr_ATGM_ammo_pack"
+      "100mm_ussr_ATGM"
     ]
   },
   {
@@ -6188,8 +5560,6 @@
     "image": "ussr_t_60_1941.png",
     "role": "Light tank",
     "ammo": [
-      "20mm_ussr_TNSh_AP_ammo_pack",
-      "20mm_ussr_TNSh_APCR_ammo_pack",
       "20mm_ussr_TNSh_AP",
       "20mm_ussr_TNSh_APCR"
     ]
@@ -6203,8 +5573,6 @@
     "image": "ussr_t_62.png",
     "role": "Medium tank",
     "ammo": [
-      "115mm_APDS_FS_ammo_pack",
-      "115mm_HEAT_FS_ammo_pack",
       "115mm_ussr_APDS_FS",
       "115mm_ussr_HEAT_FS",
       "115mm_ussr_HE"
@@ -6221,10 +5589,7 @@
       "115mm_ussr_HE",
       "115mm_ussr_ATGM",
       "115mm_ussr_38M_21_APDS_FS",
-      "115mm_ussr_APDS_FS",
-      "115mm_ussr_ATGM_ammo_pack",
-      "115mm_ussr_38M_21_APDS_FS_ammo_pack",
-      "115mm_APDR_FS_ammo_pack"
+      "115mm_ussr_APDS_FS"
     ]
   },
   {
@@ -6240,8 +5605,6 @@
       "125mm_ussr_APDS_FS",
       "125mm_ussr_38M12_APDS_FS",
       "125mm_ussr_3BM15_APDS_FS",
-      "125mm_ussr_30F26_HE_ammo_pack",
-      "125mm_ussr_APDS_FS_ammo_pack",
       "125mm_ussr_3BM12_APDS_FS_am",
       "125mm_ussr_3BM15_APDS_FS_am"
     ]
@@ -6259,8 +5622,6 @@
       "125mm_ussr_APDS_FS",
       "125mm_ussr_ATGM",
       "125mm_ussr_38M42_APDS_FS",
-      "125mm_ussr_APDS_FS_ammo_pack",
-      "125mm_ussr_ATGM_ammo_pack",
       "125mm_ussr_3BM42_APDS_FS_am"
     ]
   },
@@ -6273,8 +5634,6 @@
     "image": "ussr_t_70_1942.png",
     "role": "Light tank",
     "ammo": [
-      "45mm_AP_1942_ammo_pack",
-      "45mm_APCR_ammo_pack",
       "45mm_ussr_AP_1942",
       "45mm_ussr_APCR"
     ]
@@ -6291,10 +5650,7 @@
       "125mm_ussr_HE",
       "125mm_ussr_APDS_FS",
       "125mm_ussr_38M12_APDS_FS",
-      "125mm_ussr_38M15_APDS_FS",
-      "125mm_ussr_APDS_FS_ammo_pack",
-      "125mm_ussr_38M12_APDS_FS_ammo_pack",
-      "125mm_ussr_38M15_APDS_FS_ammo_pack"
+      "125mm_ussr_38M15_APDS_FS"
     ]
   },
   {
@@ -6308,9 +5664,7 @@
     "ammo": [
       "125mm_ussr_HE",
       "125mm_ussr_38M22_APDS_FS",
-      "125mm_ussr_38M42_APDS_FS",
-      "125mm_ussr_38M22_APDS_FS_ammo_pack",
-      "125mm_ussr_38M42_APDS_FS_ammo_pack"
+      "125mm_ussr_38M42_APDS_FS"
     ]
   },
   {
@@ -6325,10 +5679,7 @@
       "125mm_ussr_HE",
       "125mm_ussr_APDS_FS",
       "125mm_ussr_ATGM",
-      "125mm_ussr_38M42_APDS_FS",
-      "125mm_ussr_APDS_FS_ammo_pack",
-      "125mm_ussr_ATGM_ammo_pack",
-      "125mm_ussr_3BM42_APDS_FS_ammo_pack"
+      "125mm_ussr_38M42_APDS_FS"
     ]
   },
   {
@@ -6342,10 +5693,7 @@
       "125mm_ussr_HE",
       "125mm_ussr_APDS_FS",
       "125mm_ussr_ATGM",
-      "125mm_ussr_38M42_APDS_FS",
-      "125mm_ussr_APDS_FS_ammo_pack",
-      "125mm_ussr_ATGM_ammo_pack",
-      "125mm_ussr_3BM42_APDS_FS_ammo_pack"
+      "125mm_ussr_38M42_APDS_FS"
     ]
   },
   {
@@ -6360,10 +5708,7 @@
       "125mm_ussr_HE",
       "125mm_ussr_APDS_FS",
       "125mm_ussr_ATGM",
-      "125mm_ussr_38M42_APDS_FS",
-      "125mm_ussr_APDS_FS_ammo_pack",
-      "125mm_ussr_ATGM_ammo_pack",
-      "125mm_ussr_3BM42_APDS_FS_ammo_pack"
+      "125mm_ussr_38M42_APDS_FS"
     ]
   },
   {
@@ -6391,8 +5736,6 @@
     "image": "ussr_t_80.png",
     "role": "Light tank",
     "ammo": [
-      "45mm_AP_1942_ammo_pack",
-      "45mm_APCR_ammo_pack",
       "45mm_ussr_AP_1942",
       "45mm_ussr_APCR",
       "45mm_ussr_HE"
@@ -6410,10 +5753,7 @@
       "125mm_ussr_HE",
       "125mm_ussr_APDS_FS",
       "125mm_ussr_ATGM",
-      "125mm_ussr_38M42_APDS_FS",
-      "125mm_ussr_APDS_FS_ammo_pack",
-      "125mm_ussr_ATGM_ammo_pack",
-      "125mm_ussr_38M42_APDS_FS_ammo_pack"
+      "125mm_ussr_38M42_APDS_FS"
     ]
   },
   {
@@ -6438,10 +5778,7 @@
       "125mm_ussr_HE",
       "125mm_ussr_APDS_FS",
       "125mm_ussr_ATGM",
-      "125mm_ussr_38M42_APDS_FS",
-      "125mm_ussr_APDS_FS_ammo_pack",
-      "125mm_ussr_ATGM_ammo_pack",
-      "125mm_ussr_3BM42_APDS_FS_ammo_pack"
+      "125mm_ussr_38M42_APDS_FS"
     ]
   },
   {
@@ -6464,10 +5801,7 @@
     "ammo": [
       "125mm_ussr_HE",
       "125mm_ussr_APDS_FS",
-      "125mm_ussr_ATGM",
-      "125mm_ussr_APDS_FS_ammo_pack",
-      "125mm_ussr_ATGM_ammo_pack",
-      "125mm_ussr_3BM42_APDS_FS_ammo_pack"
+      "125mm_ussr_ATGM"
     ]
   },
   {
@@ -6482,9 +5816,7 @@
       "125mm_ussr_HE_VT",
       "125mm_ussr_APDS_FS",
       "125mm_ussr_ATGM",
-      "125mm_ussr_3BM42_APDS_FS",
-      "125mm_ussr_ATGM_ammo_pack",
-      "125mm_ussr_38M42_APDS_FS_ammo_pack"
+      "125mm_ussr_3BM42_APDS_FS"
     ]
   },
   {
@@ -6498,10 +5830,7 @@
     "ammo": [
       "125mm_ussr_HE",
       "125mm_ussr_ATGM",
-      "125mm_ussr_38M42_APDS_FS",
-      "125mm_ussr_APDS_FS_ammo_pack",
-      "125mm_ussr_ATGM_ammo_pack",
-      "125mm_ussr_38M42_APDS_FS_ammo_pack"
+      "125mm_ussr_38M42_APDS_FS"
     ]
   },
   {
@@ -6516,8 +5845,6 @@
       "125mm_ussr_APDS_FS",
       "125mm_ussr_ATGM",
       "125mm_ussr_38M42_APDS_FS",
-      "125mm_ussr_APDS_FS_ammo_pack",
-      "125mm_ussr_ATGM_ammo_pack",
       "125mm_ussr_38M42_APDS_FS_am"
     ]
   },
@@ -6533,7 +5860,6 @@
       "USSR_APDS_FS",
       "125mm_ussr_HE",
       "125mm_ussr_38M42_APDS_FS",
-      "125mm_ussr_ATGM_ammo_pack",
       "125mm_ussr_38M42_APDS_FS_am"
     ]
   },
@@ -6564,7 +5890,6 @@
     "image": "ussr_t_26_1940.png",
     "role": "Light tank",
     "ammo": [
-      "45mm_AP_1942_ammo_pack",
       "45mm_ussr_AP_1942"
     ]
   },
@@ -6577,9 +5902,6 @@
     "image": "ussr_to_55.png",
     "role": "Medium tank",
     "ammo": [
-      "100mm_APDS_ammo_pack",
-      "100mm_HEAT_ammo_pack",
-      "100mm_ussr_Smoke_ammo_pack",
       "100mm_ussr_HE",
       "100mm_ussr_Smoke",
       "100mm_ussr_APDS",
@@ -6597,9 +5919,6 @@
       "85mm_ussr_APCBC",
       "85mm_ussr_HVAP",
       "85mm_ussr_HEAT_FS",
-      "85mm_APCBC_ammo_pack",
-      "85mm_HVAP_ammo_pack",
-      "85mm_HEAT_FS_ammo_pack",
       "85mm_ussr_HE"
     ]
   },
@@ -6625,9 +5944,7 @@
     "image": "ussr_zsu_23_4.png",
     "ammo": [
       "23mm_ussr_HEIT",
-      "23mm_ussr_HEIT_ammo_pack",
-      "23mm_ussr_APIT",
-      "23mm_ussr_APIT_ammo_pack"
+      "23mm_ussr_APIT"
     ]
   },
   {
@@ -6650,9 +5967,7 @@
     "role": "SPAA",
     "ammo": [
       "23mm_ussr_HEIT",
-      "23mm_ussr_HEIT_ammo_pack",
-      "23mm_ussr_APIT",
-      "23mm_ussr_APIT_ammo_pack"
+      "23mm_ussr_APIT"
     ]
   },
   {
@@ -6666,10 +5981,7 @@
     "ammo": [
       "37mm_ussr_61K_HE",
       "37mm_ussr_61K_AP",
-      "37mm_ussr_61K_APCR",
-      "37mm_ussr_61K_HE_ammo_pack",
-      "37mm_ussr_61K_AP_ammo_pack",
-      "37mm_ussr_61K_APCR_ammo_pack"
+      "37mm_ussr_61K_APCR"
     ]
   },
   {
@@ -6682,9 +5994,7 @@
     "role": "SPAA",
     "ammo": [
       "37mm_ussr_61K_HE",
-      "37mm_ussr_61K_HE_ammo_pack",
-      "37mm_ussr_61K_AP",
-      "37mm_ussr_61K_AP_ammo_pack"
+      "37mm_ussr_61K_AP"
     ]
   },
   {
@@ -6696,8 +6006,6 @@
     "image": "ussr_zsu_57_2.png",
     "role": "SPAA",
     "ammo": [
-      "57mm_AP_ammo_pack",
-      "57mm_APCBC_ammo_pack",
       "57mm_ussr_AP",
       "57mm_ussr_HE",
       "57mm_ussr_APCBC"
@@ -6713,9 +6021,7 @@
     "role": "SPAA",
     "ammo": [
       "37mm_ussr_Sh37_HE",
-      "37mm_ussr_Sh37_AP",
-      "37mm_ussr_Sh37_HE_ammo_pack",
-      "37mm_ussr_Sh37_AP_ammo_pack"
+      "37mm_ussr_Sh37_AP"
     ]
   },
   {
@@ -6737,7 +6043,6 @@
     "image": "ussr_zis_30.png",
     "role": "Tank destroyer",
     "ammo": [
-      "57mm_AP_ammo_pack",
       "57mm_ussr_AP",
       "57mm_ussr_HE"
     ]
@@ -6752,9 +6057,7 @@
     "role": "SPAA",
     "ammo": [
       "37mm_ussr_61K_HE",
-      "37mm_ussr_61K_AP",
-      "37mm_ussr_61K_HE_ammo_pack",
-      "37mm_ussr_61K_AP_ammo_pack"
+      "37mm_ussr_61K_AP"
     ]
   },
   {
@@ -6767,13 +6070,10 @@
     "ammo": [
       "37mm_usa_m3_AP",
       "37mm_usa_m3_APC",
-      "37mm_usa_m3_APC_ammo_pack",
       "75mm_usa_HE",
       "75mm_usa_AP",
       "75mm_usa_APCBC",
-      "75mm_usa_APCBC_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -6795,11 +6095,8 @@
     "ammo": [
       "76mm_britain_17pdr_HE",
       "76mm_britain_17pdr_APC",
-      "76mm_britain_17pdr_APC_ammo_pack",
       "76mm_britain_17pdr_APCBC",
-      "76mm_britain_17pdr_APCBC_ammo_pack",
-      "76mm_britain_Smoke",
-      "76mm_britain_Smoke_ammo_pack"
+      "76mm_britain_Smoke"
     ]
   },
   {
@@ -6812,10 +6109,7 @@
     "ammo": [
       "40mm_uk_2pdr_APCBC",
       "40mm_uk_2pdr_APHV",
-      "40mm_uk_2pdr_APHE",
-      "40mm_uk_2pdr_APHE_ammo_pack",
-      "40mm_uk_2pdr_APHV_ammo_pack",
-      "40mm_uk_2pdr_APCBC_ammo_pack"
+      "40mm_uk_2pdr_APHE"
     ]
   },
   {
@@ -6828,10 +6122,7 @@
     "ammo": [
       "40mm_uk_2pdr_APCBC",
       "40mm_uk_2pdr_APHV",
-      "40mm_uk_2pdr_APHE",
-      "40mm_uk_2pdr_APHE_ammo_pack",
-      "40mm_uk_2pdr_APHV_ammo_pack",
-      "40mm_uk_2pdr_APCBC_ammo_pack"
+      "40mm_uk_2pdr_APHE"
     ]
   },
   {
@@ -6844,10 +6135,7 @@
     "ammo": [
       "40mm_uk_2pdr_APCBC",
       "40mm_uk_2pdr_APHV",
-      "40mm_uk_2pdr_APHE",
-      "40mm_uk_2pdr_APHE_ammo_pack",
-      "40mm_uk_2pdr_APHV_ammo_pack",
-      "40mm_uk_2pdr_APCBC_ammo_pack"
+      "40mm_uk_2pdr_APHE"
     ]
   },
   {
@@ -6860,10 +6148,7 @@
     "ammo": [
       "40mm_uk_2pdr_APCBC",
       "40mm_uk_2pdr_APHV",
-      "40mm_uk_2pdr_APHE",
-      "40mm_uk_2pdr_APHE_ammo_pack",
-      "40mm_uk_2pdr_APHV_ammo_pack",
-      "40mm_uk_2pdr_APCBC_ammo_pack"
+      "40mm_uk_2pdr_APHE"
     ]
   },
   {
@@ -6886,9 +6171,7 @@
     "image": "uk_armored_car_mk_2_aa.png",
     "ammo": [
       "20mm_Oerikon_HE",
-      "20mm_Oerikon_AP",
-      "20mm_Oerikon_HE_ammo_pack",
-      "20mm_Oerikon_AP_ammo_pack"
+      "20mm_Oerikon_AP"
     ]
   },
   {
@@ -6900,9 +6183,7 @@
     "image": "uk_armored_car_aec_mk_2.png",
     "ammo": [
       "57mm_britain_6pdr_APC",
-      "57mm_britain_6pdr_APC_ammo_pack",
       "57mm_britain_6pdr_APCBC",
-      "57mm_britain_6pdr_APCBC_ammo_pack",
       "57mm_britain_6pdr_HE"
     ]
   },
@@ -6916,11 +6197,8 @@
     "ammo": [
       "76mm_britain_17pdr_HE",
       "76mm_britain_17pdr_APC",
-      "76mm_britain_17pdr_APC_ammo_pack",
       "76mm_britain_17pdr_APCBC",
-      "76mm_britain_17pdr_APCBC_ammo_pack",
-      "76mm_britain_Smoke",
-      "76mm_britain_Smoke_ammo_pack"
+      "76mm_britain_Smoke"
     ]
   },
   {
@@ -6941,8 +6219,7 @@
     "image": "uk_alecto_mk_1.png",
     "ammo": [
       "95mm_howitzer_HE",
-      "95mm_howitzer_Smoke",
-      "95mm_howitzer_Smoke_ammo_pack"
+      "95mm_howitzer_Smoke"
     ]
   },
   {
@@ -6955,11 +6232,8 @@
     "ammo": [
       "76mm_britain_17pdr_HE",
       "76mm_britain_17pdr_APC",
-      "76mm_britain_17pdr_APC_ammo_pack",
       "76mm_britain_17pdr_APCBC",
-      "76mm_britain_17pdr_APCBC_ammo_pack",
-      "76mm_britain_Smoke",
-      "76mm_britain_Smoke_ammo_pack"
+      "76mm_britain_Smoke"
     ]
   },
   {
@@ -6973,11 +6247,8 @@
       "76mm_britain_17pdr_HE",
       "76mm_britain_17pdr_HE",
       "76mm_britain_17pdr_APC",
-      "76mm_britain_17pdr_APC_ammo_pack",
       "76mm_britain_17pdr_APCBC",
-      "76mm_britain_17pdr_APCBC_ammo_pack",
-      "76mm_britain_Smoke",
-      "76mm_britain_Smoke_ammo_pack"
+      "76mm_britain_Smoke"
     ]
   },
   {
@@ -6990,9 +6261,7 @@
     "ammo": [
       "125mm_ussr_HE_VT",
       "125mm_ussr_APDS_FS",
-      "125mm_ussr_ATGM",
-      "125mm_ussr_APDS_FS_ammo_pack",
-      "125mm_ussr_ATGM_ammo_pack"
+      "125mm_ussr_ATGM"
     ]
   },
   {
@@ -7013,13 +6282,10 @@
     "image": "uk_a_43_black_prince.png",
     "ammo": [
       "76mm_britain_17pdr_APC",
-      "76mm_britain_17pdr_APC_ammo_pack",
       "76mm_britain_17pdr_APCBC",
       "76mm_britain_17pdr_APCBC_ammc",
       "76mm_britain_17pdr_APDS",
-      "76mm_britain_17pdr_APDS_ammo_pack",
-      "76mm_britain_Smoke",
-      "76mm_britain_Smoke_ammo_pack"
+      "76mm_britain_Smoke"
     ]
   },
   {
@@ -7031,9 +6297,7 @@
     "image": "uk_bosvark.png",
     "ammo": [
       "23mm_ussr_HEIT",
-      "23mm_ussr_HEIT_ammo_pack",
-      "23mm_ussr_APIT",
-      "23mm_uss_APIT_ammo_pack"
+      "23mm_ussr_APIT"
     ]
   },
   {
@@ -7045,10 +6309,8 @@
     "image": "uk_fv221_caernarvon.png",
     "ammo": [
       "84mm_britain_20pdr_APDS",
-      "84mm_britain_20pdr_APDS_ammo_pack",
       "84mm_britain_20pdr_default_HE",
-      "84mm_britain_Smoke",
-      "84mm_britain_Smoke_ammo_pack"
+      "84mm_britain_Smoke"
     ]
   },
   {
@@ -7060,10 +6322,8 @@
     "image": "uk_centurion_action_x.png",
     "ammo": [
       "84mm_britain_20pdr_APDS",
-      "84mm_britain_20pdr_APDS_ammo_pack",
       "84mm_britain_20pdr_default_HE",
-      "84mm_britain_Smoke",
-      "84mm_britain_Smoke_ammo_pack"
+      "84mm_britain_Smoke"
     ]
   },
   {
@@ -7076,13 +6336,9 @@
     "ammo": [
       "76mm_britain_17pdr_HE",
       "76mm_britain_17pdr_APC",
-      "76mm_britain_17pdr_APC_ammo_pack",
       "76mm_britain_17pdr_APCBC",
-      "76mm_britain_17pdr_APCBC_ammo_pack",
       "76mm_britain_17pdr_APDS",
-      "76mm_britain_17pdr_APDS_ammo_pack",
-      "76mm_britain_Smoke",
-      "76mm_britain_Smoke_ammo_pack"
+      "76mm_britain_Smoke"
     ]
   },
   {
@@ -7105,10 +6361,8 @@
     "image": "uk_centurion_mk_3.png",
     "ammo": [
       "84mm_britain_20pdr_APDS",
-      "84mm_britain_20pdr_APDS_ammo_pack",
       "84mm_britain_20pdr_default_HE",
-      "84mm_britain_Smoke",
-      "84mm_britain_Smoke_ammo_pack"
+      "84mm_britain_Smoke"
     ]
   },
   {
@@ -7121,13 +6375,9 @@
     "ammo": [
       "76mm_britain_17pdr_HE",
       "76mm_britain_17pdr_APC",
-      "76mm_britain_17pdr_APC_ammo_pack",
       "76mm_britain_17pdr_APCBC",
-      "76mm_britain_17pdr_APCBC_ammo_pack",
       "76mm_britain_17pdr_APDS",
-      "76mm_britain_17pdr_APDS_ammo_pack",
-      "76mm_britain_Smoke",
-      "76mm_britain_Smoke_ammo_pack"
+      "76mm_britain_Smoke"
     ]
   },
   {
@@ -7151,9 +6401,7 @@
     "ammo": [
       "84mm_britain_20pdr_default_HE",
       "84mm_britain_Smoke",
-      "84mm_britain_Smoke_ammo_pack",
-      "84mm_britain_20pdr_APDS",
-      "84mm_britain_20pdr_APDS_ammo_pack"
+      "84mm_britain_20pdr_APDS"
     ]
   },
   {
@@ -7166,13 +6414,9 @@
     "ammo": [
       "76mm_britain_17pdr_HE",
       "76mm_britain_17pdr_APC",
-      "76mm_britain_17pdr_APC_ammo_pack",
       "76mm_britain_17pdr_APCBC",
-      "76mm_britain_17pdr_APCBC_ammo_pack",
       "76mm_britain_17pdr_APDS",
-      "76mm_britain_17pdr_APDS_ammo_pack",
-      "76mm_britain_Smoke",
-      "76mm_britain_Smoke_ammo_pack"
+      "76mm_britain_Smoke"
     ]
   },
   {
@@ -7193,11 +6437,9 @@
     "image": "uk_challenger_2_dorchester.png",
     "ammo": [
       "120mm_britain_Smoke",
-      "120mm_britain_Smoke_ammo_pack",
       "120mm_britain_L377_HESH",
       "120mm_britain_L26_APDSFS_amm",
-      "120mm_britain_L27_APDSFS",
-      "120mm_britain_L27_APDSFS_ammo_pack"
+      "120mm_britain_L27_APDSFS"
     ]
   },
   {
@@ -7209,12 +6451,9 @@
     "image": "uk_challenger_2_megatron.png",
     "ammo": [
       "120mm_britain_Smoke",
-      "120mm_britain_Smoke_ammo_pack",
       "120mm_britain_L37A7_HESH",
       "120mm_britain_L26_APDSFS",
-      "120mm_britain_L26_APDSFS_ammo_pack",
-      "120mm_britain_L27_APDSFS",
-      "120mm_britain_127_APDSES_ammo_pack"
+      "120mm_britain_L27_APDSFS"
     ]
   },
   {
@@ -7226,11 +6465,8 @@
     "image": "uk_challenger_2_tes.png",
     "ammo": [
       "120mm_britain_Smoke",
-      "120mm_britain_Smoke_ammo_pack",
       "120mm_britain_L26_APDSFS",
-      "120mm_britain_L26_APDSFS_ammo_pack",
-      "120mm_britain_L27_APDSFS",
-      "120mm_britain_L27_APDSFS_ammo_pack"
+      "120mm_britain_L27_APDSFS"
     ]
   },
   {
@@ -7251,11 +6487,8 @@
     "image": "uk_challenger_2e.png",
     "ammo": [
       "120mm_britain_Smoke",
-      "120mm_britain_Smoke_ammo_pack",
       "120mm_britain_L26_APDSFS",
-      "120mm_britain_L26_APDSFS_ammo_pack",
-      "120mm_britain_L27_APDSFS",
-      "120mm_britain_L27_APDSFS_ammo_pack"
+      "120mm_britain_L27_APDSFS"
     ]
   },
   {
@@ -7268,9 +6501,7 @@
     "ammo": [
       "NATO_APDS_FS",
       "120mm_DM_HE_FS",
-      "120mm_DM_APDS_FS",
-      "120mm_DM_HE_FS_ammo_pack",
-      "120mm_DM_APDS_FS_ammo_pack"
+      "120mm_DM_APDS_FS"
     ]
   },
   {
@@ -7291,9 +6522,7 @@
     "image": "uk_challenger_1.png",
     "ammo": [
       "120mm_britain_L23A1_APDSFS",
-      "120mm_britain_L23A1_APDSFS_ammo_pack",
-      "120mm_britain_Smoke",
-      "120mm_britain_Smoke_ammo_pack"
+      "120mm_britain_Smoke"
     ]
   },
   {
@@ -7306,9 +6535,7 @@
     "ammo": [
       "120mm_britain_L37A7_HESH",
       "120mm_britain_L23A1_APDSFS",
-      "120mm_britain_L23A1_APDSFS_ammo_pack",
-      "120mm_britain_Smoke",
-      "120mm_britain_Smoke_ammo_pack"
+      "120mm_britain_Smoke"
     ]
   },
   {
@@ -7320,9 +6547,7 @@
     "image": "uk_charioteer_mk_7.png",
     "ammo": [
       "84mm_britain_20pdr_APDS",
-      "84mm_britain_20pdr_APDS_ammo_pack",
-      "84mm_britain_Smoke",
-      "84mm_britain_Smoke_ammo_pack"
+      "84mm_britain_Smoke"
     ]
   },
   {
@@ -7335,10 +6560,7 @@
     "ammo": [
       "35mm_kda_HE",
       "35mm_kda_APHEI",
-      "35mm_kda_APDS",
-      "35mm_kda_HE_ammo_pack",
-      "35mm_kda_APHEI_ammo_pack",
-      "35mm_kda_APDS_ammo_pack"
+      "35mm_kda_APDS"
     ]
   },
   {
@@ -7351,9 +6573,7 @@
     "ammo": [
       "120mm_britain_L37A7_HESH",
       "120mm_britain_L23_APDSFS",
-      "120mm_britain_L23_APDSFS_ammo_pack",
-      "120mm_britain_Smoke",
-      "120mm_britain_Smoke_ammo_pack"
+      "120mm_britain_Smoke"
     ]
   },
   {
@@ -7365,8 +6585,7 @@
     "image": "uk_chieftain_mk_3.png",
     "ammo": [
       "120mm_britain_L37A7_HESH",
-      "120mm_britain_Smoke",
-      "120mm_britain_Smoke_ammo_pack"
+      "120mm_britain_Smoke"
     ]
   },
   {
@@ -7378,8 +6597,7 @@
     "image": "uk_chieftain_mk_5.png",
     "ammo": [
       "120mm_britain_L37A7_HESH",
-      "120mm_britain_Smoke",
-      "120mm_britain_Smoke_ammo_pack"
+      "120mm_britain_Smoke"
     ]
   },
   {
@@ -7401,9 +6619,7 @@
     "ammo": [
       "75mm_britain_APCBC",
       "75mm_britain_HE",
-      "75mm_britain_APCBC_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -7418,9 +6634,6 @@
       "40mm_uk_2pdr_APCBC",
       "40mm_uk_2pdr_APHV",
       "40mm_uk_2pdr_APHE",
-      "40mm_uk_2pdr_APHE_ammo_pack",
-      "40mm_uk_2pdr_APHV_ammo_pack",
-      "40mm_uk_2pdr_APCBC_ammo_pack",
       "76mm_britain_howitzer_HE",
       "76mm_britain_howitzer_Smoke",
       "76mm_britain_howitzer_Smoke_amr"
@@ -7435,9 +6648,7 @@
     "image": "uk_a_22b_mk_3_churchill_1942.png",
     "ammo": [
       "57mm_britain_6pdr_APC",
-      "57mm_britain_6pdr_APC_ammo_pack",
       "57mm_britain_6pdr_APCBC",
-      "57mm_britain_6pdr_APCBC_ammo_pack",
       "57mm_britain_6pdr_HE"
     ]
   },
@@ -7451,9 +6662,7 @@
     "ammo": [
       "75mm_britain_APCBC",
       "75mm_britain_HE",
-      "75mm_britain_APCBC_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -7466,9 +6675,7 @@
     "ammo": [
       "75mm_britain_APCBC",
       "75mm_britain_HE",
-      "75mm_britain_APCBC_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -7481,11 +6688,8 @@
     "ammo": [
       "76mm_britain_17pdr_HE",
       "76mm_britain_17pdr_APC",
-      "76mm_britain_17pdr_APC_ammo_pack",
       "76mm_britain_17pdr_APCBC",
-      "76mm_britain_17pdr_APCBC_ammo_pack",
-      "76mm_britain_17pdr_APDS",
-      "76mm_britain_17pdr_APDS_ammo_pack"
+      "76mm_britain_17pdr_APDS"
     ]
   },
   {
@@ -7497,11 +6701,9 @@
     "image": "uk_a_34_comet_iron_duke.png",
     "ammo": [
       "76mm_britain_17pdr_APC",
-      "76mm_britain_17pdr_APC_ammo_pack",
       "76mm_britain_17pdr_APCBC",
       "76mm_britain_17pdr_APCBC_ammc",
-      "76mm_britain_17pdr_APDS",
-      "76mm_britain_17pdr_APDS_ammo_pack"
+      "76mm_britain_17pdr_APDS"
     ]
   },
   {
@@ -7514,9 +6716,7 @@
     "ammo": [
       "76mm_britain_17pdr_HE",
       "76mm_britain_17pdr_APC",
-      "76mm_britain_17pdr_APC_ammo_pack",
-      "76mm_britain_17pdr_APCBC",
-      "76mm_britain_17pdr_APCBC_ammo_pack"
+      "76mm_britain_17pdr_APCBC"
     ]
   },
   {
@@ -7552,9 +6752,7 @@
       "57mm_britain_6pdr_AP_HV",
       "57mm_britain_6pdr_AP_HV_ammo",
       "57mm_britain_6pdr_APC",
-      "57mm_britain_6pdr_APC_ammo_pack",
       "57mm_britain_6pdr_APCBC",
-      "57mm_britain_6pdr_APCBC_ammo_pack",
       "57mm_britain_6pdr_HE"
     ]
   },
@@ -7568,9 +6766,7 @@
     "ammo": [
       "75mm_britain_APCBC",
       "75mm_britain_HE",
-      "75mm_britain_APCBC_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -7583,9 +6779,7 @@
     "ammo": [
       "75mm_britain_APCBC",
       "75mm_britain_HE",
-      "75mm_britain_APCBC_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -7598,9 +6792,7 @@
     "ammo": [
       "40mm_uk_2pdr_APCBC",
       "40mm_uk_2pdr_APHV",
-      "40mm_uk_2pdr_APHE",
-      "40mm_uk_2pdr_APHE_ammo_pack",
-      "40mm_uk_2pdr_APHV_ammo_pack"
+      "40mm_uk_2pdr_APHE"
     ]
   },
   {
@@ -7622,8 +6814,7 @@
     "ammo": [
       "90mm_CN90_HEAT",
       "90mm_CN90_HE",
-      "90mm_CN90_Smoke",
-      "90mm_CN90_Smoke_ammo_pack"
+      "90mm_CN90_Smoke"
     ]
   },
   {
@@ -7636,9 +6827,7 @@
     "ammo": [
       "75mm_britain_APCBC",
       "75mm_britain_HE",
-      "75mm_britain_APCBC_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -7670,10 +6859,8 @@
     "image": "uk_fv4202.png",
     "ammo": [
       "84mm_britain_20pdr_APDS",
-      "84mm_britain_20pdr_APDS_ammo_pack",
       "84mm_britain_20pdr_default_HE",
-      "84mm_britain_Smoke",
-      "84mm_britain_Smoke_ammo_pack"
+      "84mm_britain_Smoke"
     ]
   },
   {
@@ -7686,10 +6873,7 @@
     "ammo": [
       "30mm_hs_831_HE",
       "30mm_hs_831_APHEI",
-      "30mm_hs_831_APDS",
-      "30mm_hs_831_HE_ammo_pack",
-      "30mm_hs_831_APHEI_ammo_pack",
-      "30mm_hs_831_APDS_ammo_pack"
+      "30mm_hs_831_APDS"
     ]
   },
   {
@@ -7702,8 +6886,7 @@
     "ammo": [
       "30mm_rarden_sap",
       "30mm_rarden_he",
-      "30mm_hs_83i_APDS",
-      "30mm_hs_831_APDS_ammo_pack"
+      "30mm_hs_83i_APDS"
     ]
   },
   {
@@ -7716,9 +6899,7 @@
     "ammo": [
       "155mm_M1_HE",
       "155mm_G6_Smoke",
-      "155mm_G6_Smoke_ammo_pack",
-      "155mm_M1_HE_PF",
-      "155mm_M1_HE_PF_ammo_pack"
+      "155mm_M1_HE_PF"
     ]
   },
   {
@@ -7759,10 +6940,8 @@
     "image": "uk_khalid.png",
     "ammo": [
       "120mm_britain_Smoke",
-      "120mm_britain_Smoke_ammo_pack",
       "120mm_britain_L37A7_HESH",
-      "120mm_britain_L23_APDSFS",
-      "120mm_britain_L23_APDSFS_ammo_pack"
+      "120mm_britain_L23_APDSFS"
     ]
   },
   {
@@ -7775,10 +6954,7 @@
     "ammo": [
       "7_92mm_BESA_universal",
       "7_92mm_BESA_API",
-      "7_92mm_BESA_AP",
-      "7_92mm_BESA_unWversal_ammo_pack",
-      "7_92mm_BESA_API_ammo_pack",
-      "7_92mm_BESA_AP_ammo_pack"
+      "7_92mm_BESA_AP"
     ]
   },
   {
@@ -7811,9 +6987,7 @@
       "40mm_uk_2pdr_HE",
       "40mm_uk_2pdr_APCBC",
       "40mm_uk_2pdr_APHV",
-      "40mm_uk_2pdr_APHE",
-      "40mm_uk_2pdr_APHE_ammo_pack",
-      "40mm_uk_2pdr_APHV_ammo_pack"
+      "40mm_uk_2pdr_APHE"
     ]
   },
   {
@@ -7827,10 +7001,7 @@
       "40mm_uk_2pdr_HE",
       "40mm_uk_2pdr_APCBC",
       "40mm_uk_2pdr_APHV",
-      "40mm_uk_2pdr_APHE",
-      "40mm_uk_2pdr_APHE_ammo_pack",
-      "40mm_uk_2pdr_APHV_ammo_pack",
-      "40mm_uk_2pdr_APCBC_ammo_pack"
+      "40mm_uk_2pdr_APHE"
     ]
   },
   {
@@ -7842,9 +7013,7 @@
     "image": "uk_olifant_mk_1a.png",
     "ammo": [
       "105mm_us_M416_Smoke",
-      "105mm_us_M416_Smoke_ammo_pack",
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
       "105mm_usa_M735_APDS_FS",
       "105mm_usa_M735_APDS_FS_amm"
     ]
@@ -7858,9 +7027,7 @@
     "image": "uk_olifant_mk_2.png",
     "ammo": [
       "105mm_NATO_APDS_FS",
-      "105mm_NATO_APDS_FS_ammo_pack",
-      "105mm_DM33_APDS_FS",
-      "105mm_DM33_APDS_FS_ammo_pack"
+      "105mm_DM33_APDS_FS"
     ]
   },
   {
@@ -7901,9 +7068,7 @@
     "image": "uk_ratel_20.png",
     "ammo": [
       "20mm_Oerikon_HE",
-      "20mm_Oerikon_HE_ammo_pack",
-      "20mm_Oerikon_AP",
-      "20mm_Oerikon_AP_ammo_pack"
+      "20mm_Oerikon_AP"
     ]
   },
   {
@@ -7916,8 +7081,7 @@
     "ammo": [
       "90mm_CN90_HEAT",
       "90mm_CN90_HE",
-      "90mm_CN90_Smoke",
-      "90mm_CN90_Smoke_ammo_pack"
+      "90mm_CN90_Smoke"
     ]
   },
   {
@@ -7929,11 +7093,8 @@
     "image": "uk_rooikat_105_td.png",
     "ammo": [
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
       "105mm_usa_M735_APDS_FS",
-      "105mm_usa_M735_APDS_FS_ammo_pack",
-      "105mm_DM33_APDS_FS",
-      "105mm_DM33_APDS_FS_ammo_pack"
+      "105mm_DM33_APDS_FS"
     ]
   },
   {
@@ -7945,9 +7106,7 @@
     "image": "uk_rooikat_mttd.png",
     "ammo": [
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
-      "105mm_usa_M735_APDS_FS",
-      "105mm_usa_M735_APDS_FS_ammo_pack"
+      "105mm_usa_M735_APDS_FS"
     ]
   },
   {
@@ -7971,10 +7130,7 @@
     "ammo": [
       "40mm_uk_2pdr_APCBC",
       "40mm_uk_2pdr_APHV",
-      "40mm_uk_2pdr_APHE",
-      "40mm_uk_2pdr_APHE_ammo_pack",
-      "40mm_uk_2pdr_APHV_ammo_pack",
-      "40mm_uk_2pdr_APCBC_ammo_pack"
+      "40mm_uk_2pdr_APHE"
     ]
   },
   {
@@ -8014,11 +7170,8 @@
     "ammo": [
       "76mm_britain_17pdr_HE",
       "76mm_britain_17pdr_APC",
-      "76mm_britain_17pdr_APC_ammo_pack",
       "76mm_britain_17pdr_APCBC",
-      "76mm_britain_17pdr_APCBC_ammo_pack",
-      "76mm_britain_Smoke",
-      "76mm_britain_Smoke_ammo_pack"
+      "76mm_britain_Smoke"
     ]
   },
   {
@@ -8031,11 +7184,8 @@
     "ammo": [
       "76mm_britain_17pdr_HE",
       "76mm_britain_17pdr_APC",
-      "76mm_britain_17pdr_APC_ammo_pack",
       "76mm_britain_17pdr_APCBC",
-      "76mm_britain_17pdr_APCBC_ammo_pack",
-      "76mm_britain_Smoke",
-      "76mm_britain_Smoke_ammo_pack"
+      "76mm_britain_Smoke"
     ]
   },
   {
@@ -8056,11 +7206,9 @@
     "image": "uk_centurion_shot_kal_d.png",
     "ammo": [
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
       "105mm_usa_M735_APDS_FS",
       "105mm_usa_M735_APDS_FS_amm",
-      "105mm_us_M416_Smoke",
-      "105mm_us_M416_Smoke_ammo_pack"
+      "105mm_us_M416_Smoke"
     ]
   },
   {
@@ -8072,9 +7220,7 @@
     "image": "uk_skink_aa.png",
     "ammo": [
       "20mm_Oerikon_HE",
-      "20mm_Oerikon_AP",
-      "20mm_Oerikon_HE_ammo_pack",
-      "20mm_Oerikon_AP_ammo_pack"
+      "20mm_Oerikon_AP"
     ]
   },
   {
@@ -8135,10 +7281,8 @@
     "image": "uk_centurion_mk_3_ss11.png",
     "ammo": [
       "84mm_britain_20pdr_APDS",
-      "84mm_britain_20pdr_APDS_ammo_pack",
       "84mm_britain_20pdr_default_HE",
-      "84mm_britain_Smoke",
-      "84mm_britain_Smoke_ammo_pack"
+      "84mm_britain_Smoke"
     ]
   },
   {
@@ -8149,8 +7293,7 @@
     "ammo_amount": 25,
     "image": "uk_m3_stuart.png",
     "ammo": [
-      "37mm_usa_m3_APC",
-      "37mm_usa_m3_APC_ammo_pack"
+      "37mm_usa_m3_APC"
     ]
   },
   {
@@ -8161,8 +7304,7 @@
     "ammo_amount": 25,
     "image": "uk_m3a1_stuart.png",
     "ammo": [
-      "37mm_usa_m3_APC",
-      "37mm_usa_m3_APC_ammo_pack"
+      "37mm_usa_m3_APC"
     ]
   },
   {
@@ -8197,9 +7339,7 @@
     "image": "uk_ttd.png",
     "ammo": [
       "105mm_NATO_APDS_FS",
-      "105mm_NATO_APDS_FS_ammo_pack",
-      "105mm_DM33_APDS_FS",
-      "105mm_DM33_APDS_FS_ammo_pack"
+      "105mm_DM33_APDS_FS"
     ]
   },
   {
@@ -8212,10 +7352,7 @@
     "ammo": [
       "40mm_uk_2pdr_APCBC",
       "40mm_uk_2pdr_APHV",
-      "40mm_uk_2pdr_APHE",
-      "40mm_uk_2pdr_APHE_ammo_pack",
-      "40mm_uk_2pdr_APHV_ammo_pack",
-      "40mm_uk_2pdr_APCBC_ammo_pack"
+      "40mm_uk_2pdr_APHE"
     ]
   },
   {
@@ -8246,8 +7383,6 @@
     "ammo_amount": 25,
     "image": "uk_m109a1.png",
     "ammo": [
-      "155mm_M110_Smoke_ammo_pack",
-      "155mm_M107_HE_PF_ammo_pack",
       "155mm_M107_HE",
       "155mm_M107_HE_PF",
       "155mm_M110_Smoke"
@@ -8262,9 +7397,7 @@
     "image": "uk_vfm_5.png",
     "ammo": [
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
       "105mm_NATO_APDS_FS",
-      "105mm_NATO_APDS_FS_ammo_pack",
       "105mm_usa_M735_APDS_FS",
       "105mm_usa_M735_APDS_FS_amm"
     ]
@@ -8279,10 +7412,7 @@
     "ammo": [
       "40mm_uk_2pdr_APCBC",
       "40mm_uk_2pdr_APHV",
-      "40mm_uk_2pdr_APHE",
-      "40mm_uk_2pdr_APHE_ammo_pack",
-      "40mm_uk_2pdr_APHV_ammo_pack",
-      "40mm_uk_2pdr_APCBC_ammo_pack"
+      "40mm_uk_2pdr_APHE"
     ]
   },
   {
@@ -8296,9 +7426,7 @@
       "57mm_britain_6pdr_AP_HV",
       "57mm_britain_6pdr_AP_HV_ammo",
       "57mm_britain_6pdr_APC",
-      "57mm_britain_6pdr_APC_ammo_pack",
       "57mm_britain_6pdr_APCBC",
-      "57mm_britain_6pdr_APCBC_ammo_pack",
       "57mm_britain_6pdr_HE"
     ]
   },
@@ -8312,9 +7440,7 @@
     "ammo": [
       "75mm_britain_APCBC",
       "75mm_britain_HE",
-      "75mm_britain_APCBC_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -8337,9 +7463,7 @@
     "image": "uk_vickers_mk_11.png",
     "ammo": [
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
-      "105mm_NATO_APDS_FS",
-      "105mm_NATO_APDS_FS_ammo_pack"
+      "105mm_NATO_APDS_FS"
     ]
   },
   {
@@ -8351,8 +7475,7 @@
     "image": "uk_vickers_mbt_mk_3.png",
     "ammo": [
       "105mm_britain_HESH",
-      "105mm_usa_HEAT_FS",
-      "105mm_usa_HEAT_FS_ammo_pack"
+      "105mm_usa_HEAT_FS"
     ]
   },
   {
@@ -8365,9 +7488,7 @@
     "ammo": [
       "120mm_britain_L37A7_HESH",
       "120mm_britain_L23A1_APDSFS",
-      "120mm_britain_L23A1_APDSFS_ammo_pack",
-      "120mm_britain_Smoke",
-      "120mm_britain_Smoke_ammo_pack"
+      "120mm_britain_Smoke"
     ]
   },
   {
@@ -8389,8 +7510,7 @@
     "ammo": [
       "30mm_rarden_sap",
       "30mm_rarden_he",
-      "30mm_hs_831_APDS",
-      "30mm_hs_831_APDS_ammo_pack"
+      "30mm_hs_831_APDS"
     ]
   },
   {
@@ -8402,9 +7522,7 @@
     "image": "uk_ystervark_spaa.png",
     "ammo": [
       "20mm_Oerikon_HE",
-      "20mm_Oerikon_HE_ammo_pack",
       "20mm_Oerikon_AP",
-      "20mm_Oerikon_AP_ammo_pack",
       "USA (Inf Freedom Units)"
     ]
   },
@@ -8417,9 +7535,7 @@
     "image": "uk_rooikat_za_35.png",
     "ammo": [
       "35mm_kda_HE",
-      "35mm_kda_APHEI",
-      "35mm_kda_HE_ammo_pack",
-      "35mm_kda_APHEI_ammo_pack"
+      "35mm_kda_APHEI"
     ]
   },
   {
@@ -8431,8 +7547,7 @@
     "image": "uk_ratel_zt3.png",
     "ammo": [
       "127mm_uk_2t3_swift",
-      "127mm_uk_2t3_ingwe",
-      "127mm_uk_zt3_ingwe_ammo_pack"
+      "127mm_uk_2t3_ingwe"
     ]
   },
   {
@@ -8531,8 +7646,7 @@
     "role": "Medium tank",
     "ammo": [
       "75mm_type94_HE",
-      "75mm_jp_Smoke",
-      "75mm_jp_Smoke_ammo_pack"
+      "75mm_jp_Smoke"
     ]
   },
   {
@@ -8544,7 +7658,6 @@
     "image": "jp_type_3_chi_nu_75cm_type_5.png",
     "role": "Medium tank",
     "ammo": [
-      "75mm_type4_APHE_ammo_pack",
       "75mm_jp_type1_AP",
       "75mm_type4_APHE"
     ]
@@ -8557,7 +7670,6 @@
     "ammo_amount": 25,
     "image": "jp_type_5_chi_ri.png",
     "ammo": [
-      "75mm_type4_APHE_ammo_pack",
       "75mm_jp_type1_AP",
       "75mm_type4_APHE",
       "75mm_type90_HE",
@@ -8573,7 +7685,6 @@
     "image": "jp_type_4_chi_to.png",
     "role": "Medium tank",
     "ammo": [
-      "75mm_type4_APHE_ammo_pack",
       "75mm_jp_type1_AP",
       "75mm_type4_APHE",
       "75mm_type90_HE"
@@ -8588,7 +7699,6 @@
     "image": "jp_type_4_chi_to_late.png",
     "role": "Medium tank",
     "ammo": [
-      "75mm_type4_APHE_ammo_pack",
       "75mm_jp_type1_AP",
       "75mm_type4_APHE",
       "75mm_type90_HE"
@@ -8628,10 +7738,8 @@
     "role": "Medium tank",
     "ammo": [
       "75mm_type94_HE",
-      "75mm_type2_HEAT_ammo_pack",
       "75mm_type2_HEAT",
-      "75mm_jp_Smoke",
-      "75mm_jp_Smoke_ammo_pack"
+      "75mm_jp_Smoke"
     ]
   },
   {
@@ -8734,8 +7842,7 @@
     "image": "jp_type_2_ka_mi.png",
     "role": "Light tank",
     "ammo": [
-      "37mm_type_1_APHE",
-      "37mm_type_1_APHE_ammo_pack"
+      "37mm_type_1_APHE"
     ]
   },
   {
@@ -8760,11 +7867,8 @@
     "ammo": [
       "12mm_usa_M2HB_common",
       "12mm_usa_M2HB_APT",
-      "12mm_usa_M2HB_APLammo_pack",
       "12mm_usa_M2HB_AP",
-      "12mm_usa_M2HB_AP_ammo_pack",
-      "12mm_usa_M2HB_APIT",
-      "12mm_usa_M2HB_APIT_ammo_pack"
+      "12mm_usa_M2HB_APIT"
     ]
   },
   {
@@ -8776,9 +7880,7 @@
     "image": "jp_m19.png",
     "ammo": [
       "40mm_use_M2_HE",
-      "40mm_usa_M2_AP",
-      "40mm_usa_M2_HE_ammo_pack",
-      "40mm_usa_M2_AP_ammo_pack"
+      "40mm_usa_M2_AP"
     ]
   },
   {
@@ -8791,9 +7893,7 @@
     "ammo": [
       "75mm_us_HE",
       "75mm_usa_APCBC",
-      "75mm_usa_APCBC_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -8815,11 +7915,8 @@
     "ammo": [
       "76mm_usa_M32_HE",
       "76mm_usa_M32_APCR",
-      "76mm_usa_M32_APCR_ammo_pack",
       "76mm_usa_M32_APDS",
-      "76mm_usa_M32_APDS_ammo_pack",
-      "76mm_us_M361_Smoke",
-      "76mm_us_M361_Smoke_ammo_pack"
+      "76mm_us_M361_Smoke"
     ]
   },
   {
@@ -8831,9 +7928,7 @@
     "image": "jp_m42_duster.png",
     "ammo": [
       "40mm_use_M2_HE",
-      "40mm_usa_M2_AP",
-      "40mm_usa_M2_HE_ammo_pack",
-      "40mm_usa_M2_AP_ammo_pack"
+      "40mm_usa_M2_AP"
     ]
   },
   {
@@ -8864,11 +7959,8 @@
     "ammo": [
       "76mm_usa_M42A1_HE",
       "76mm_usa_APCBC",
-      "76mm_usa_APCBC_ammo_pack",
       "76mm_usa_M93_APCR",
-      "76mm_usa_M93_APCR_ammo_pack",
-      "76mm_us_M88_Smoke",
-      "76mm_us_M88_Smoke_ammo_pack"
+      "76mm_us_M88_Smoke"
     ]
   },
   {
@@ -8881,7 +7973,6 @@
     "role": "Tank destroyer",
     "ammo": [
       "75mm_type4_APCR",
-      "75mm_type4_APCR_ammo_pack",
       "75mm_type90_HE"
     ]
   },
@@ -8939,17 +8030,12 @@
     "ammo_amount": 25,
     "image": "jp_st_a2.png",
     "ammo": [
-      "90mm_us_M82_APCBC_ammo_pack",
       "90mm_us_M82_APCBC",
-      "90mm_us_M304_APCR_ammo_pack",
       "90mm_us_M304_APCR",
-      "90mm_us_M332_APCR_ammo_pack",
       "90mm_us_M332_APCR",
       "90mm_us_T108_HEAT",
-      "90mm_us_T108_HEAT_ammo_pack",
       "90mm_us_M71_HE",
-      "90mm_us_M313_Smoke",
-      "90mm_us_M313_Smoke_ammo_pack"
+      "90mm_us_M313_Smoke"
     ]
   },
   {
@@ -8960,10 +8046,8 @@
     "ammo_amount": 25,
     "image": "jp_st_a3.png",
     "ammo": [
-      "90mm_jp_M82_APCBC_ammo_pack",
       "90mm_jp_M82_APCBC",
       "90mm_jp_M431_HEAT",
-      "90mm_jp_M431_HEAT_ammo_pack",
       "90mm_jp_M71_HE",
       "90mm_us_M313_Smoke"
     ]
@@ -8978,8 +8062,7 @@
     "role": "Medium tank",
     "ammo": [
       "105mm_britain_HESH",
-      "105mm_us_M416_Smoke",
-      "105mm_us_M416_Smoke_ammo_pack"
+      "105mm_us_M416_Smoke"
     ]
   },
   {
@@ -9001,8 +8084,6 @@
     "image": "jp_type_95_so_ki.png",
     "role": "SPAA",
     "ammo": [
-      "20mm_jp_type100_HE_ammo_pack",
-      "20mm_jp_type100_AP_ammo_pack",
       "20mm_jp_type100_HE",
       "20mm_jp_type100_AP"
     ]
@@ -9018,8 +8099,7 @@
     "ammo": [
       "NATO_APDS_FS",
       "120mm_NATO_HEAT_FS",
-      "120mm_DM_APDS_FS",
-      "120mm_DM_APDS_FS_ammo_pack"
+      "120mm_DM_APDS_FS"
     ]
   },
   {
@@ -9032,8 +8112,7 @@
     "role": "Medium tank",
     "ammo": [
       "120mm_NATO_HEAT_FS",
-      "120mm_NATO_APDS_FS",
-      "120mm_NATO_APDS_FS_ammo_pack"
+      "120mm_NATO_APDS_FS"
     ]
   },
   {
@@ -9045,8 +8124,6 @@
     "image": "jp_type_98_ta_se.png",
     "role": "SPAA",
     "ammo": [
-      "20mm_jp_type100_HE_ammo_pack",
-      "20mm_jp_type100_AP_ammo_pack",
       "20mm_jp_type100_HE"
     ]
   },
@@ -9070,8 +8147,7 @@
     "ammo": [
       "NATO_APDS_FS",
       "120mm_NATO_HEAT_FS",
-      "120mm_DM_APDS_FS",
-      "120mm_DM_APDS_FS_ammo_pack"
+      "120mm_DM_APDS_FS"
     ]
   },
   {
@@ -9085,11 +8161,8 @@
     "ammo": [
       "105mm_NATO_HESH",
       "105mm_NATO_APDS_FS",
-      "105mm_NATO_APDS_FS_ammo_pack",
       "105mm_us_M416_Smoke",
-      "105mm_us_M416_Smoke_ammo_pack",
-      "105mm_jp_Type93_APDS_FS",
-      "105mm_jp_Type93_APDS_FS_ammo_pack"
+      "105mm_jp_Type93_APDS_FS"
     ]
   },
   {
@@ -9103,8 +8176,7 @@
     "ammo": [
       "105mm_NATO_HESH",
       "105mm_NATO_APDS_FS",
-      "105mm_us_M416_Smoke",
-      "105mm_us_M416_Smoke_ammo_pack"
+      "105mm_us_M416_Smoke"
     ]
   },
   {
@@ -9118,7 +8190,6 @@
     "ammo": [
       "105mm_NATO_HESH",
       "105mm_NATO_APDS_FS",
-      "105mm_NATO_APDS_FS_ammo_pack",
       "105mm_us_M416_Smoke"
     ]
   },
@@ -9156,13 +8227,10 @@
     "image": "jp_type_61.png",
     "role": "Medium tank",
     "ammo": [
-      "90mm_jp_M82_APCBC_ammo_pack",
       "90mm_jp_M82_APCBC",
       "90mm_jp_M431_HEAT",
-      "90mm_jp_M431_HEAT_ammo_pack",
       "90mm_jp_M71_HE",
-      "90mm_us_M313_Smoke",
-      "90mm_us_M313_Smoke_ammo_pack"
+      "90mm_us_M313_Smoke"
     ]
   },
   {
@@ -9174,9 +8242,7 @@
     "image": "jp_type_74_c.png",
     "ammo": [
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
-      "105mm_usa_HEAT_FS",
-      "105mm_usa_HEAT_FS_ammo_pack"
+      "105mm_usa_HEAT_FS"
     ]
   },
   {
@@ -9188,11 +8254,8 @@
     "image": "jp_type_74.png",
     "ammo": [
       "105mm_NATO_APDS_FS",
-      "105mm_NATO_APDS_FS_ammo_pack",
       "105mm_us_M416_Smoke",
-      "105mm_us_M416_Smoke_ammo_pack",
-      "105mm_jp_Type93_APDS_FS",
-      "105mm_jp_Type93_APDS_FS_ammo_pack"
+      "105mm_jp_Type93_APDS_FS"
     ]
   },
   {
@@ -9204,11 +8267,8 @@
     "image": "jp_type_74_f.png",
     "ammo": [
       "105mm_us_M416_Smoke",
-      "105mm_us_M416_Smoke_ammo_pack",
       "105mm_NATO_APDS_FS",
-      "105mm_NATO_APDS_FS_ammo_pack",
-      "105mm_jp_Type93_APDS_FS",
-      "105mm_jp_Type93_APDS_FS_ammo_pack"
+      "105mm_jp_Type93_APDS_FS"
     ]
   },
   {
@@ -9220,11 +8280,8 @@
     "image": "jp_type_74_mod_g_kai.png",
     "ammo": [
       "105mm_NATO_APDS_FS",
-      "105mm_NATO_APDS_FS_ammo_pack",
       "105mm_us_M416_Smoke",
-      "105mm_us_M416_Smoke_ammo_pack",
-      "105mm_jp_Type93_APDS_FS",
-      "105mm_jp_Type93_APDS_FS_ammo_pack"
+      "105mm_jp_Type93_APDS_FS"
     ]
   },
   {
@@ -9258,9 +8315,6 @@
     "image": "jp_type_75.png",
     "role": "Tank destroyer",
     "ammo": [
-      "155mm_M110_Smoke_ammo_pack",
-      "155mm_M107_HE_PF_ammo_pack",
-      "155mm_Type_75_HE_ammo_pack",
       "155mm_M107_HE",
       "155mm_M107_HE_PF",
       "155mm_Type_75_HE",
@@ -9290,10 +8344,7 @@
     "ammo": [
       "35mm_kda_HE",
       "35mm_kda_APHEI",
-      "35mm_kda_APDS",
-      "35mm_kda_HE_ammo_pack",
-      "35mm_kda_APHEI_ammo_pack",
-      "35mm_kda_APDS_ammo_pack"
+      "35mm_kda_APDS"
     ]
   },
   {
@@ -9316,9 +8367,7 @@
     "ammo": [
       "20mm_rh202_HE",
       "20mm_rh202_AP",
-      "20mm_rh202_APDS",
-      "20mm_rh202_AP_ammo_pack",
-      "20mm_rh202_APDS_ammo_pack"
+      "20mm_rh202_APDS"
     ]
   },
   {
@@ -9332,8 +8381,7 @@
     "ammo": [
       "35mm_kde_HE",
       "152mm_jp_type_79_ATGM",
-      "152mm_jp_type_79_ASM",
-      "152mm_jp_type_79_ASM_ammo_pack"
+      "152mm_jp_type_79_ASM"
     ]
   },
   {
@@ -9346,8 +8394,7 @@
     "role": "Medium tank",
     "ammo": [
       "120mm_NATO_HEAT_FS",
-      "120mm_NATO_APDS_FS",
-      "120mm_NATO_APDS_FS_ammo_pack"
+      "120mm_NATO_APDS_FS"
     ]
   },
   {
@@ -9359,8 +8406,7 @@
     "image": "jp_type_90b.png",
     "ammo": [
       "120mm_NATO_HEAT_FS",
-      "120mm_NATO_APDS_FS",
-      "120mm_NATO_APDS_FS_ammo_pack"
+      "120mm_NATO_APDS_FS"
     ]
   },
   {
@@ -9372,8 +8418,7 @@
     "image": "jp_type_90b_camo.png",
     "ammo": [
       "120mm_NATO_HEAT_FS",
-      "120mm_NATO_APDS_FS",
-      "120mm_NATO_APDS_FS_ammo_pack"
+      "120mm_NATO_APDS_FS"
     ]
   },
   {
@@ -9397,8 +8442,6 @@
     "image": "jp_type_94.png",
     "role": "SPAA",
     "ammo": [
-      "20mm_jp_type100_HE_ammo_pack",
-      "20mm_jp_type100_AP_ammo_pack",
       "20mm_jp_type100_HE",
       "20mm_jp_type100_AP"
     ]
@@ -9412,9 +8455,6 @@
     "image": "jp_type_99.png",
     "role": "Tank destroyer",
     "ammo": [
-      "155mm_M110_Smoke_ammo_pack",
-      "155mm_M107_HE_PF_ammo_pack",
-      "155mm_Type_75_HE_ammo_pack",
       "155mm_M107_HE",
       "155mm_M107_HE_PF",
       "155mm_Type_75_HE",
@@ -9513,7 +8553,6 @@
     "ammo_amount": 25,
     "image": "cn_bt_5.png",
     "ammo": [
-      "45mm_AP_1942_ammo_pack",
       "45mm_ussr_AP_1942"
     ]
   },
@@ -9528,11 +8567,8 @@
     "ammo": [
       "12mm_usa_M2HB_common",
       "12mm_usa_M2HB_APT",
-      "12mm_usa_M2HB_AP_ammo_pack",
       "12mm_usa_M2HB_AP",
-      "12mm_usa_M2HB_AP_ammo_pack",
-      "12mm_usa_M2HB_APIT",
-      "12mm_usa_M2HB_APIT_ammo_pack"
+      "12mm_usa_M2HB_APIT"
     ]
   },
   {
@@ -9545,13 +8581,9 @@
     "role": "Medium tank",
     "ammo": [
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
       "105mm_NATO_APDS_FS",
-      "105mm_NATO_APDS_FS_ammo_pack",
       "105mm_us_M416_Smoke",
-      "105mm_us_M416_Smoke_ammo_pack",
-      "105mm_DM63_APDS_FS",
-      "105mm_DM63_APDS_FS_ammo_pack"
+      "105mm_DM63_APDS_FS"
     ]
   },
   {
@@ -9564,8 +8596,7 @@
     "role": "Tank destroyer",
     "ammo": [
       "127mm_us_tow",
-      "152mm_us_tow_2",
-      "152mm_us_tow_2_ammo_pack"
+      "152mm_us_tow_2"
     ]
   },
   {
@@ -9622,7 +8653,6 @@
     "image": "cn_is_2_1943.png",
     "ammo": [
       "122mm_ussr_APHE",
-      "122mm_APHE_ammo_pack",
       "122mm_ussr_HE"
     ]
   },
@@ -9636,9 +8666,7 @@
     "ammo": [
       "122mm_ussr_HE",
       "122mm_ussr_APHE",
-      "122mm_APHE_ammo_pack",
-      "122mm_ussr_APCBC",
-      "122mm_APCBC_ammo_pack"
+      "122mm_ussr_APCBC"
     ]
   },
   {
@@ -9651,7 +8679,6 @@
     "role": "Heavy tank",
     "ammo": [
       "12mm_ussr_APHE",
-      "122mm_APHE_ammo_pack",
       "122mm_ussr_HE"
     ]
   },
@@ -9664,7 +8691,6 @@
     "image": "cn_isu_122.png",
     "ammo": [
       "122mm_ussr_APHE",
-      "122mm_APHE_ammo_pack",
       "122mm_ussr_HE"
     ]
   },
@@ -9678,9 +8704,7 @@
     "ammo": [
       "152mm_ussr_HE",
       "152mm_ussr_APHEBC",
-      "152mm_ussr_APHEBC_ammo_pack",
-      "152mm_ussr_HEAT",
-      "152mm_ussr_HEAT_ammo_pack"
+      "152mm_ussr_HEAT"
     ]
   },
   {
@@ -9701,7 +8725,6 @@
     "image": "cn_lvt_4_zis_2.png",
     "role": "Tank destroyer",
     "ammo": [
-      "57mm_AP_ammo_pack",
       "57mm_ussr_AP",
       "57mm_ussr_HE"
     ]
@@ -9715,8 +8738,7 @@
     "image": "cn_m10.png",
     "ammo": [
       "76mm_usa_M42A1_HE",
-      "76mm_usa_APCBC",
-      "76mm_usa_APCBC_ammo_pack"
+      "76mm_usa_APCBC"
     ]
   },
   {
@@ -9740,9 +8762,7 @@
     "ammo": [
       "76mm_usa_M42A1_HE",
       "76mm_usa_APCBC",
-      "76mm_usa_APCBC_ammo_pack",
-      "76mm_us_M88_Smoke",
-      "76mm_us_M88_Smoke_ammo_pack"
+      "76mm_us_M88_Smoke"
     ]
   },
   {
@@ -9755,9 +8775,7 @@
     "ammo": [
       "75mm_us_HE",
       "75mm_usa_APCBC",
-      "75mm_usa_APCBC_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -9768,11 +8786,9 @@
     "ammo_amount": 25,
     "image": "cn_m36.png",
     "ammo": [
-      "90mm_us_M82_APCBC_ammo_pack",
       "90mm_us_M82_APCBC",
       "90mm_us_M71_HE",
-      "90mm_us_M313_Smoke",
-      "90mm_us_M313_Smoke_ammo_pack"
+      "90mm_us_M313_Smoke"
     ]
   },
   {
@@ -9783,8 +8799,7 @@
     "ammo_amount": 25,
     "image": "cn_m3a3_stuart_1st_ptg.png",
     "ammo": [
-      "37mm_usa_m3_APC",
-      "37mm_usa_m3_APC_ammo_pack"
+      "37mm_usa_m3_APC"
     ]
   },
   {
@@ -9795,8 +8810,7 @@
     "ammo_amount": 25,
     "image": "cn_m3a3_stuart.png",
     "ammo": [
-      "37mm_usa_m3_APC",
-      "37mm_usa_m3_APC_ammo_pack"
+      "37mm_usa_m3_APC"
     ]
   },
   {
@@ -9808,8 +8822,7 @@
     "image": "cn_m41_a3_walker_bulldog.png",
     "ammo": [
       "76mm_usa_M32_HE",
-      "76mm_us_M361_Smoke",
-      "76mm_us_M361_Smoke_ammo_pack"
+      "76mm_us_M361_Smoke"
     ]
   },
   {
@@ -9823,9 +8836,7 @@
     "ammo": [
       "76mm_use_M32_HE",
       "76mm_us_M361_Smoke",
-      "76mm_us_M361_Smoke_ammo_pack",
-      "76mm_us_M464_APFSDS",
-      "76mm_us_M464_APFSDS_ammo_pack"
+      "76mm_us_M464_APFSDS"
     ]
   },
   {
@@ -9837,9 +8848,7 @@
     "image": "cn_m42_duster.png",
     "ammo": [
       "40mm_use_M2_HE",
-      "40mm_usa_M2_AP",
-      "40mm_usa_M2_HE_ammo_pack",
-      "40mm_usa_M2_AP_ammo_pack"
+      "40mm_usa_M2_AP"
     ]
   },
   {
@@ -9861,9 +8870,7 @@
     "ammo": [
       "75mm_usa_HE",
       "75mm_usa_APCBC",
-      "75mm_usa_APCBC_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -9876,9 +8883,7 @@
     "ammo": [
       "75mm_usa_HE",
       "75mm_usa_APCBC",
-      "75mm_usa_APCBC_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -9891,9 +8896,7 @@
     "ammo": [
       "75mm_usa_HE",
       "75mm_usa_APCBC",
-      "75mm_usa_APCBC_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -9905,8 +8908,7 @@
     "image": "cn_m5a1_stuart.png",
     "ammo": [
       "37mm_usa_m3_HE",
-      "37mm_usa_m3_APC",
-      "37mm_usa_m3_APC_ammo_pack"
+      "37mm_usa_m3_APC"
     ]
   },
   {
@@ -9919,11 +8921,8 @@
     "ammo": [
       "105mm_usa_M456A2_HEAT_MP_FS",
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
       "105mm_us_M416_Smoke",
-      "105mm_us_M416_Smoke_ammo_pack",
-      "105mm_usa_M735_APDS_FS",
-      "105mm_usa_M735_APDS_FS_ammo_pack"
+      "105mm_usa_M735_APDS_FS"
     ]
   },
   {
@@ -9937,11 +8936,8 @@
     "ammo": [
       "76mm_usa_M42A1_HE",
       "76mm_usa_APCBC",
-      "76mm_usa_APCBC_ammo_pack",
       "76mm_usa_M93_APCR",
-      "76mm_usa_M93_APCR_ammo_pack",
-      "76mm_us_M88_Smoke",
-      "76mm_us_M88_Smoke_ammo_pack"
+      "76mm_us_M88_Smoke"
     ]
   },
   {
@@ -9954,8 +8950,7 @@
     "ammo": [
       "75mm_usa_HE",
       "75mm_usa_M66_HEAT",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -9966,8 +8961,7 @@
     "ammo_amount": 25,
     "image": "cn_m8_greyhound.png",
     "ammo": [
-      "37mm_usa_m3_APC",
-      "37mm_usa_m3_APC_ammo_pack"
+      "37mm_usa_m3_APC"
     ]
   },
   {
@@ -9980,11 +8974,8 @@
     "ammo": [
       "125mm_china_HE",
       "125mm_china_APDS_FS",
-      "125mm_china_APDS_FS_ammo_pack",
       "125mm_china_DTW_APDS_FS",
-      "125mm_china_DTW_APDS_FS_ammo_pack",
-      "125mm_china_HE_VT",
-      "125mm_china_HE_VT_ammo_pack"
+      "125mm_china_HE_VT"
     ]
   },
   {
@@ -9997,9 +8988,7 @@
     "ammo": [
       "120mm_china_HE",
       "120mm_china_APDS_FS",
-      "120mm_china_APDS_FS_ammo_pack",
-      "120mm_china_HEAT_FS",
-      "120mm_china_HEAT_FS_ammo_pack"
+      "120mm_china_HEAT_FS"
     ]
   },
   {
@@ -10012,8 +9001,7 @@
     "role": "Light tank",
     "ammo": [
       "85mm_ussr_HE",
-      "85mm_ussr_APCBC",
-      "85mm_APCBC_ammo_pack"
+      "85mm_ussr_APCBC"
     ]
   },
   {
@@ -10026,9 +9014,7 @@
     "role": "SPAA",
     "ammo": [
       "25mm_cn_HE",
-      "25mm_cn_HE_ammo_pack",
-      "25mm_cn_AP",
-      "25mm_cn_AP_ammo_pack"
+      "25mm_cn_AP"
     ]
   },
   {
@@ -10042,10 +9028,7 @@
     "ammo": [
       "35mm_kda_HE",
       "35mm_kda_APHEI",
-      "35mm_kda_APDS",
-      "35mm_kda_HE_ammo_pack",
-      "35mm_kda_APHEI_ammo_pack",
-      "35mm_kda_APDS_ammo_pack"
+      "35mm_kda_APDS"
     ]
   },
   {
@@ -10067,8 +9050,7 @@
     "image": "cn_plz_83.png",
     "role": "Tank destroyer",
     "ammo": [
-      "152mm_china_HE_VT",
-      "152mm_china_HE_VT_ammo_pack"
+      "152mm_china_HE_VT"
     ]
   },
   {
@@ -10081,9 +9063,7 @@
     "ammo": [
       "130mm_ussr_HE",
       "130mm_ussr_HE_LV",
-      "130mm_ussr_HE_LV_ammo_pack",
-      "130mm_ussr_Smoke",
-      "130mm_ussr_Smoke_ammo_pack"
+      "130mm_ussr_Smoke"
     ]
   },
   {
@@ -10096,8 +9076,6 @@
     "ammo": [
       "76mm_ussr_AP_53",
       "76mm_ussr_HEAT_53",
-      "76mm_ussr_HEAT_53_ammo_pack",
-      "76mm_ussr_AP_53_ammo_pack",
       "76mm_ussr_HE"
     ]
   },
@@ -10133,10 +9111,7 @@
     "ammo": [
       "37mm_ussr_61K_HE",
       "37mm_ussr_61K_AP",
-      "37mm_ussr_61K_APCR",
-      "37mm_ussr_61K_HE_ammo_pack",
-      "37mm_ussr_61K_AP_ammo_pack",
-      "37mm_ussr_61K_APCR_ammo_pack"
+      "37mm_ussr_61K_APCR"
     ]
   },
   {
@@ -10151,9 +9126,7 @@
       "70mm_QN201_ATGM",
       "30mm_2a42_HE",
       "30mm_2a42_APDS",
-      "30mm_2a42_APDS_FS",
-      "30mm_2a42_APDS_ammo_pack",
-      "30mm_2a42_APDS_FS_ammo_pack"
+      "30mm_2a42_APDS_FS"
     ]
   },
   {
@@ -10164,9 +9137,6 @@
     "ammo_amount": 25,
     "image": "cn_su_100_1945.png",
     "ammo": [
-      "100mm_APHE_ammo_pack",
-      "100mm_ussr_Smoke_ammo_pack",
-      "100mm_APCBC_ammo_pack",
       "100mm_ussr_APHE",
       "100mm_ussr_APCBC",
       "100mm_ussr_Smoke",
@@ -10185,14 +9155,9 @@
       "76mm_APCR_1943",
       "76mm_HEAT_1944",
       "76mm_AP_1941",
-      "76mm_AP_1942_ammo_pack",
-      "76mm_APCR_1943_ammo_pack",
-      "76mm_HEAT_1944_ammo_pack",
-      "76mm_AP_1941_ammo_pack",
       "76mm_ussr_HE",
       "76mm_ussr_Shrapnel",
-      "76mm_ussr_Smoke",
-      "76mm_ussr_Smoke_ammo_pack"
+      "76mm_ussr_Smoke"
     ]
   },
   {
@@ -10203,8 +9168,6 @@
     "ammo_amount": 25,
     "image": "cn_sdkfz_222_early.png",
     "ammo": [
-      "20mm_kwk_30_HE_ammo_pack",
-      "20mm_kwk_30_AP_ammo_pack",
       "20mm_ger_kwk30_HE",
       "20mm_ger_kwk30_AP"
     ]
@@ -10218,7 +9181,6 @@
     "image": "cn_t_26_no531.png",
     "role": "Light tank",
     "ammo": [
-      "45mm_AP_1942_ammo_pack",
       "45mm_ussr_AP_1942"
     ]
   },
@@ -10234,14 +9196,9 @@
       "76mm_AP_1942",
       "76mm_APCR_1943",
       "76mm_HEAT_1944",
-      "76mm_AP_1941_ammo_pack",
-      "76mm_AP_1942_ammo_pack",
-      "76mm_APCR_1943_ammo_pack",
-      "76mm_HEAT_1944_ammo_pack",
       "76mm_ussr_HE",
       "76mm_ussr_Shrapnel",
-      "76mm_ussr_Smoke",
-      "76mm_ussr_Smoke_ammo_pack"
+      "76mm_ussr_Smoke"
     ]
   },
   {
@@ -10264,8 +9221,6 @@
     "ammo": [
       "85mm_ussr_APHE",
       "85mm_ussr_APCR",
-      "85mm_APHE_ammo_pack",
-      "85mm_APCR_ammo_pack",
       "85mm_ussr_HE"
     ]
   },
@@ -10280,8 +9235,6 @@
     "ammo": [
       "85mm_ussr_APHE",
       "85mm_ussr_APCR",
-      "85mm_APHE_ammo_pack",
-      "85mm_APCR_ammo_pack",
       "85mm_ussr_HE"
     ]
   },
@@ -10293,8 +9246,6 @@
     "ammo_amount": 25,
     "image": "cn_t_62.png",
     "ammo": [
-      "115mm_APDS_FS_ammo_pack",
-      "115mm_HEAT_FS_ammo_pack",
       "115mm_ussr_APDS_FS",
       "115mm_ussr_HEAT_FS",
       "115mm_ussr_HE"
@@ -10328,7 +9279,6 @@
     "ammo_amount": 25,
     "image": "cn_t_26_1940.png",
     "ammo": [
-      "45mm_AP_1942_ammo_pack",
       "45mm_ussr_AP_1942"
     ]
   },
@@ -10353,11 +9303,6 @@
     "image": "cn_type_59.png",
     "role": "Medium tank",
     "ammo": [
-      "100mm_APHE_ammo_pack",
-      "100mm_APCBC_ammo_pack",
-      "100mm_APCR_ammo_pack",
-      "100mm_APDS_ammo_pack",
-      "100mm_cn_HEAT_ammo_pack",
       "100mm_ussr_APHE",
       "100mm_ussr_APCBC",
       "100mm_ussr_APCR",
@@ -10378,9 +9323,6 @@
       "85mm_ussr_APCBC",
       "85mm_ussr_HVAP",
       "85mm_ussr_HEAT_FS",
-      "85mm_APCBC_ammo_pack",
-      "85mm_HVAP_ammo_pack",
-      "85mm_HEAT_FS_ammo_pack",
       "85mm_ussr_HE"
     ]
   },
@@ -10403,7 +9345,6 @@
     "image": "cn_type_69.png",
     "role": "Medium tank",
     "ammo": [
-      "100mm_cn_HEAT_ammo_pack",
       "100mm_cn_HEAT",
       "100mm_cn_HE"
     ]
@@ -10417,8 +9358,6 @@
     "image": "cn_type_69_2a.png",
     "role": "Medium tank",
     "ammo": [
-      "100mm_BR412D_ammo_pack",
-      "100mm_cn_HEAT_ammo_pack",
       "100mm_ussr_BR412D",
       "100mm_cn_HEAT",
       "100mm_ussr_HE"
@@ -10445,11 +9384,8 @@
       "USSR_APDS_FS",
       "125mm_china_HE",
       "125mm_china_DTW_APDS_FS",
-      "125mm_china_DTW_APDS_FS_ammo_pack",
       "125mm_china_ATGM",
-      "125mm_china_ATGM_ammo_pack",
-      "125mm_chine_HE_VT",
-      "125mm_china_HE_VT_ammo_pack"
+      "125mm_chine_HE_VT"
     ]
   },
   {
@@ -10464,11 +9400,7 @@
       "105mm_china_HE_VT",
       "105mm_TYPE83_HESH",
       "105mm_china_ATGM",
-      "105mm_china_APDS_FS",
-      "105mm_china_HE_VT_ammo_pack",
-      "105mm_TYPE83_HESH_ammo_pack",
-      "105mm_china_ATGM_ammo_pack",
-      "105mm_china_APDS_FS_ammo_pack"
+      "105mm_china_APDS_FS"
     ]
   },
   {
@@ -10482,11 +9414,8 @@
       "USSR_APDS_FS",
       "125mm_china_HE",
       "125mm_china_DTW_APDS_FS",
-      "125mm_china_DTW_APDS_FS_ammo_pack",
       "125mm_china_ATGM",
-      "125mm_china_ATGM_ammo_pack",
-      "125mm_chine_HE_VT",
-      "125mm_china_HE_VT_ammo_pack"
+      "125mm_chine_HE_VT"
     ]
   },
   {
@@ -10498,13 +9427,10 @@
     "image": "cn_wz_305.png",
     "role": "SPAA",
     "ammo": [
-      "57mm_AP_ammo_pack",
-      "57mm_APCBC_ammo_pack",
       "57mm_ussr_AP",
       "57mm_ussr_HE",
       "57mm_ussr_APCBC",
-      "57mm_HE_VT",
-      "57mm_HE_VT_ammo_pack"
+      "57mm_HE_VT"
     ]
   },
   {
@@ -10519,8 +9445,6 @@
       "30mm_2a42_HE",
       "30mm_2a42_APDS",
       "30mm_2a42_APDS_FS",
-      "30mm_2a42_APDS_ammo_pack",
-      "30mm_2a42_APDS_FS_ammo_pack",
       "100mm_3of_32",
       "100mm_3of70",
       "100mm_9m117"
@@ -10549,13 +9473,9 @@
     "role": "Light tank",
     "ammo": [
       "105mm_china_APDS_FS",
-      "105mm_china_APDS_FS_ammo_pack",
       "105mm_china_DTW_APDS_FS",
-      "105mm_china_DTW_APDS_FS_ammo_pack",
       "105mm_china_HE_VT",
-      "105mm_china_HE_VT_ammo_pack",
-      "105mm_china_ATGM",
-      "105mm_china_ATGM_ammo_pack"
+      "105mm_china_ATGM"
     ]
   },
   {
@@ -10588,9 +9508,7 @@
     "ammo": [
       "85mm_ussr_HE",
       "85mm_ussr_APCBC",
-      "85mm_cn_APFSDS",
-      "85mm_APCBC_ammo_pack",
-      "85mm_cn_APFSDS_ammo_pack"
+      "85mm_cn_APFSDS"
     ]
   },
   {
@@ -10602,9 +9520,6 @@
     "image": "cn_ztz_59a.png",
     "role": "Medium tank",
     "ammo": [
-      "100mm_APCBC_ammo_pack",
-      "100mm_APDS_ammo_pack",
-      "100mm_cn_HEAT_ammo_pack",
       "100mm_ussr_APCBC",
       "100mm_ussr_APDS",
       "100mm_cn_HEAT",
@@ -10621,9 +9536,7 @@
     "role": "Medium tank",
     "ammo": [
       "105mm_TYPE83_HESH",
-      "105mm_china_APDS_FS",
-      "105mm_TYPE83_HESH_ammo_pack",
-      "105mm_china_APDS_FS_ammo_pack"
+      "105mm_china_APDS_FS"
     ]
   },
   {
@@ -10637,10 +9550,7 @@
     "ammo": [
       "105mm_china_HE_VT",
       "105mm_TYPE83_HESH",
-      "105mm_china_APDS_FS",
-      "105mm_china_HE_VT_ammo_pack",
-      "105mm_TYPE83_HESH_ammo_pack",
-      "105mm_china_APDS_FS_ammo_pack"
+      "105mm_china_APDS_FS"
     ]
   },
   {
@@ -10652,9 +9562,7 @@
     "image": "cn_ztz_88b.png",
     "role": "Medium tank",
     "ammo": [
-      "105mm_china_APDS_FS",
-      "105mm_TYPE83_HESH_ammo_pack",
-      "105mm_china_APDS_FS_ammo_pack"
+      "105mm_china_APDS_FS"
     ]
   },
   {
@@ -10667,8 +9575,7 @@
     "role": "Medium tank",
     "ammo": [
       "125mm_china_HE",
-      "125mm_china_APDS_FS",
-      "125mm_china_APDS_FS_ammo_pack"
+      "125mm_china_APDS_FS"
     ]
   },
   {
@@ -10681,8 +9588,7 @@
     "role": "Medium tank",
     "ammo": [
       "125mm_china_HE",
-      "125mm_china_APDS_FS",
-      "125mm_china_APDS_FS_ammo_pack"
+      "125mm_china_APDS_FS"
     ]
   },
   {
@@ -10694,8 +9600,7 @@
     "image": "cn_ztz_96a_prot.png",
     "ammo": [
       "125mm_china_HE",
-      "125mm_china_APDS_FS",
-      "125mm_china_APDS_FS_ammo_pack"
+      "125mm_china_APDS_FS"
     ]
   },
   {
@@ -10709,12 +9614,8 @@
     "ammo": [
       "125mm_china_HE",
       "125mm_china_APDS_FS",
-      "125mm_china_APDS_FS_ammo_pack",
-      "125mm_china_DTW_APDS_FS_ammo_pack",
       "125mm_china_ATGM",
-      "125mm_china_ATGM_ammo_pack",
-      "125mm_china_HE_VT",
-      "125mm_china_HE_VT_ammo_pack"
+      "125mm_china_HE_VT"
     ]
   },
   {
@@ -10728,11 +9629,8 @@
     "ammo": [
       "USSR_APDS_FS",
       "125mm_china_HE",
-      "125mm_china_DTW_APDS_FS_ammo_pack",
       "125mm_china_ATGM",
-      "125mm_china_ATGM_ammo_pack",
-      "125mm_chine_HE_VT",
-      "125mm_china_HE_VT_ammo_pack"
+      "125mm_chine_HE_VT"
     ]
   },
   {
@@ -10745,13 +9643,9 @@
     "ammo": [
       "125mm_china_HE",
       "125mm_china_APDS_FS",
-      "125mm_china_APDS_FS_ammo_pack",
       "125mm_china_DTW_APDS_FS",
-      "125mm_china_DTW_APDS_FS_ammo_pack",
       "125mm_china_ATGM",
-      "125mm_china_ATGM_ammo_pack",
-      "125mm_chine_HE_VT",
-      "125mm_china_HE_VT_ammo_pack"
+      "125mm_chine_HE_VT"
     ]
   },
   {
@@ -10764,8 +9658,7 @@
     "role": "Tank destroyer",
     "ammo": [
       "105mm_Perforante_APC",
-      "105mm_ep_m43_HEAT",
-      "105mm_ep_m43_HEAT_ammo_pack"
+      "105mm_ep_m43_HEAT"
     ]
   },
   {
@@ -10778,11 +9671,8 @@
     "ammo": [
       "122mm_ussr_HE",
       "122mm_ussr_HEAT_ZBK",
-      "122mm_HEAT_ZBK_ammo_pack",
       "122mm_ussr_HE_VT",
-      "122mm_ussr_HE_VT_ammo_pack",
-      "122mm_ussr_30F_S6_HE",
-      "122mm_ussr_30F_56_HE_ammo_pack"
+      "122mm_ussr_30F_S6_HE"
     ]
   },
   {
@@ -10806,11 +9696,9 @@
     "ammo": [
       "75mm_75_32_HE",
       "75mm_it_Smoke",
-      "75mm_it_Smoke_ammo_pack",
       "75mm_Gr_Perforante_APCBC",
       "75mm_Gr_Perforante_APCBC_amm",
-      "75mm_M42_EPS_HEAT",
-      "75mm_M42_EPS_HEAT_ammo_pack"
+      "75mm_M42_EPS_HEAT"
     ]
   },
   {
@@ -10824,9 +9712,7 @@
     "ammo": [
       "75mm_75_32_HE",
       "75mm_it_Smoke",
-      "75mm_it_Smoke_ammo_pack",
-      "75mm_M42_EPS_HEAT",
-      "75mm_M42_EPS_HEAT_ammo_pack"
+      "75mm_M42_EPS_HEAT"
     ]
   },
   {
@@ -10840,7 +9726,6 @@
     "ammo": [
       "75mm_75_32_APCBC",
       "75mm_M42_EPS_HEAT",
-      "75mm_M42_EPS_HEAT_ammo_pack",
       "75mm_75_32_HE"
     ]
   },
@@ -10855,7 +9740,6 @@
     "ammo": [
       "75mm_75_32_APCBC",
       "75mm_M42_EPS_HEAT",
-      "75mm_M42_EPS_HEAT_ammo_pack",
       "75mm_75_32_HE"
     ]
   },
@@ -10881,8 +9765,7 @@
     "role": "Tank destroyer",
     "ammo": [
       "90mm_it_HE",
-      "90mm_Gr_Perforante_APCBC",
-      "90mm_Gr_Perforante_APCBC_ammo_pack"
+      "90mm_Gr_Perforante_APCBC"
     ]
   },
   {
@@ -10894,8 +9777,6 @@
     "image": "it_ab_41.png",
     "role": "Light tank",
     "ammo": [
-      "20mm_Breda_APHE_ammo_pack",
-      "20mm_kwk_30_APCR_ammo_pack",
       "20mm_Breda_APHE",
       "20mm_Set_kwk30_APCR"
     ]
@@ -10922,9 +9803,6 @@
     "image": "it_as_42_metropolitana.png",
     "role": "SPAA",
     "ammo": [
-      "20mm_Breda_HE_ammo_pack",
-      "20mm_Breda_APHE_ammo_pack",
-      "20mm_kwk_30_APCR_ammo_pack",
       "20mm_Breda_HE",
       "20mm_Breda_APHE",
       "20mm_gerkwk30_APCR"
@@ -10950,9 +9828,7 @@
     "role": "Light tank",
     "ammo": [
       "90mm_cockerill_HESH",
-      "90mm_cockerill_Smoke",
-      "90mm_cockerill_HESH_ammo_pack",
-      "90mm_cockerill_Smoke_ammo_pack"
+      "90mm_cockerill_Smoke"
     ]
   },
   {
@@ -10978,9 +9854,7 @@
     "role": "Medium tank",
     "ammo": [
       "120mm_NATO_APDS_FS",
-      "120mm_DM_APDS_FS",
-      "120mm_DM_APDS_FS_ammo_pack",
-      "120mm_NATO_APDS_FS_ammo_pack"
+      "120mm_DM_APDS_FS"
     ]
   },
   {
@@ -10993,8 +9867,7 @@
     "role": "Medium tank",
     "ammo": [
       "NATO_APDS_FS",
-      "120mm_DM53_APDS_FS",
-      "120mm_DM53_APDS_FS_ammo_pack"
+      "120mm_DM53_APDS_FS"
     ]
   },
   {
@@ -11006,9 +9879,7 @@
     "image": "it_c1_ariete_preserie.png",
     "ammo": [
       "120mm_NATO_APDS_FS",
-      "120mm_DM_APDS_FS",
-      "120mm_DM_APDS_FS_ammo_pack",
-      "120mm_NATO_APDS_FS_ammo_pack"
+      "120mm_DM_APDS_FS"
     ]
   },
   {
@@ -11021,9 +9892,7 @@
     "role": "Medium tank",
     "ammo": [
       "120mm_NATO_APDS_FS",
-      "120mm_DM_APDS_FS",
-      "120mm_DM_APDS_FS_ammo_pack",
-      "120mm_NATO_APDS_FS_ammo_pack"
+      "120mm_DM_APDS_FS"
     ]
   },
   {
@@ -11036,10 +9905,7 @@
     "ammo": [
       "30mm_2a72_BTR_HE",
       "30mm_2a72_BTR_AP",
-      "30mm_2a42_APDS",
-      "30mm_2a72_BTR_HE_ammo_pack",
-      "30mm_2a72_BTR_AP_ammo_pack",
-      "30mm_2a42_APDS_ammo_pack"
+      "30mm_2a42_APDS"
     ]
   },
   {
@@ -11052,8 +9918,7 @@
     "role": "Tank destroyer",
     "ammo": [
       "90mm_it_HE",
-      "90mm_Gr_Perforante_APCBC",
-      "90mm_Gr_Perforante_APCBC_ammo_pack"
+      "90mm_Gr_Perforante_APCBC"
     ]
   },
   {
@@ -11067,8 +9932,7 @@
     "ammo": [
       "90mm_it_HE",
       "90mm_it_he_time_fuze",
-      "90mm_Gr_Perforante_APCBC",
-      "90mm_Gr_Perforante_APCBC_ammo_pack"
+      "90mm_Gr_Perforante_APCBC"
     ]
   },
   {
@@ -11090,9 +9954,7 @@
     "role": "Light tank",
     "ammo": [
       "90mm_cockerill_HESH",
-      "90mm_cockerill_Smoke",
-      "90mm_cockerill_HESH_ammo_pack",
-      "90mm_cockerill_Smoke_ammo_pack"
+      "90mm_cockerill_Smoke"
     ]
   },
   {
@@ -11106,11 +9968,8 @@
     "ammo": [
       "12mm_usa_M2HB_common",
       "12mm_usa_M2HB_APT",
-      "12mm_usa_M2HB_APLammo_pack",
       "12mm_usa_M2HB_AP",
-      "12mm_usa_M2HB_AP_ammo_pack",
-      "12mm_usa_M2HB_APIT",
-      "12mm_usa_M2HB_APIT_ammo_pack"
+      "12mm_usa_M2HB_APIT"
     ]
   },
   {
@@ -11139,9 +9998,6 @@
       "105mm_usa_HESH",
       "105mm_NATO_APDS_FS",
       "105mm_usa_M735_APDS_FS",
-      "105mm_us_M416_Smoke_ammo_pack",
-      "105mm_usa_HESH_ammo_pack",
-      "105mm_NATO_APDS_FS_ammo_pack",
       "105mm_usa_M735_APDS_FS_amm"
     ]
   },
@@ -11157,10 +10013,7 @@
       "105mm_us_M416_Smoke",
       "105mm_usa_HESH",
       "105mm_NATO_APDS_FS",
-      "105mm_DM33_APDS_FS",
-      "105mm_us_M416_Smoke_ammo_pack",
-      "105mm_usa_HESH_ammo_pack",
-      "105mm_NATO_APDS_FS_ammo_pack"
+      "105mm_DM33_APDS_FS"
     ]
   },
   {
@@ -11173,9 +10026,7 @@
     "role": "Light tank",
     "ammo": [
       "120mm_NATO_APDS_FS",
-      "120mm_DM_APDS_FS",
-      "120mm_DM_APDS_FS_ammo_pack",
-      "120mm_NATO_APDS_FS_ammo_pack"
+      "120mm_DM_APDS_FS"
     ]
   },
   {
@@ -11188,9 +10039,7 @@
     "role": "Light tank",
     "ammo": [
       "120mm_NATO_APDS_FS",
-      "120mm_DM_APDS_FS",
-      "120mm_DM_APDS_FS_ammo_pack",
-      "120mm_NATO_APDS_FS_ammo_pack"
+      "120mm_DM_APDS_FS"
     ]
   },
   {
@@ -11250,9 +10099,6 @@
       "25mm_M242_HE",
       "25mm_M242_APDS",
       "25mm_M242_APDS_FS",
-      "25mm_M242_HE_ammo_pack",
-      "25mm_M242_APDS_ammo_pack",
-      "25mm_M242_APDS_FS_ammo_pack",
       "110mm_spike_ir"
     ]
   },
@@ -11266,11 +10112,8 @@
     "role": "Light tank",
     "ammo": [
       "30mm_173_HEI",
-      "30mm_173_HEL_ammo_pack",
       "30mm_173_AHEAD",
-      "30mm_173_AHEAD_ammo_pack",
       "30mm_173_APDS_FS",
-      "30mm_173_APDS_FS_ammo_pack",
       "110mm_spike_ir"
     ]
   },
@@ -11305,8 +10148,6 @@
     "image": "it_l6.png",
     "role": "Light tank",
     "ammo": [
-      "20mm_Breda_APHE_ammo_pack",
-      "20mm_kwk_30_APCR_ammo_pack",
       "20mm_Breda_APHE",
       "20mm_gerkiik30_APCR"
     ]
@@ -11321,11 +10162,8 @@
     "role": "Tank destroyer",
     "ammo": [
       "100mm_Perforante_APC",
-      "100mm_Perforante_APC_ammo_pack",
       "100mm_ep_HESH",
-      "100mm_ep_HESH_ammo_pack",
-      "100mm_eps_HEAT",
-      "100mm_eps_HEAT_ammo_pack"
+      "100mm_eps_HEAT"
     ]
   },
   {
@@ -11337,11 +10175,8 @@
     "image": "it_leopard_1a5.png",
     "ammo": [
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
       "105mm_NATO_APDS_FS",
-      "105mm_NATO_APDS_FS_ammo_pack",
-      "105mm_DM33_APDS_FS",
-      "105mm_DM33_APDS_FS_ammo_pack"
+      "105mm_DM33_APDS_FS"
     ]
   },
   {
@@ -11354,9 +10189,7 @@
     "ammo": [
       "120mm_NATO_HEAT_FS",
       "120mm_NATO_APDS_FS",
-      "120mm_NATO_APDS_FS_ammo_pack",
-      "120mm_DM_APDS_FS",
-      "120mm_DM_APDS_FS_ammo_pack"
+      "120mm_DM_APDS_FS"
     ]
   },
   {
@@ -11379,9 +10212,7 @@
     "role": "SPAA",
     "ammo": [
       "40mm_L70_HE",
-      "40mm_L70_AP",
-      "40mm_L70_HE_ammo_pack",
-      "40mm_L70_AP_ammo_pack"
+      "40mm_L70_AP"
     ]
   },
   {
@@ -11392,8 +10223,6 @@
     "ammo_amount": 25,
     "image": "it_m109g.png",
     "ammo": [
-      "155mm_M110_Smoke_ammo_pack",
-      "155mm_M107_HE_PF_ammo_pack",
       "155mm_M107_HE",
       "155mm_M107_HE_PF",
       "155mm_M110_Smoke"
@@ -11431,8 +10260,7 @@
     "image": "it_m13_40_serie_1.png",
     "role": "Medium tank",
     "ammo": [
-      "47mm_m39_APBC",
-      "47mm_m39_APBC_ammo_pack"
+      "47mm_m39_APBC"
     ]
   },
   {
@@ -11444,8 +10272,7 @@
     "image": "it_m13_40_serie_2.png",
     "role": "Medium tank",
     "ammo": [
-      "47mm_m39_APBC",
-      "47mm_m39_APBC_ammo_pack"
+      "47mm_m39_APBC"
     ]
   },
   {
@@ -11457,8 +10284,7 @@
     "image": "it_m13_40_serie_3.png",
     "role": "Medium tank",
     "ammo": [
-      "47mm_m39_APBC",
-      "47mm_m39_APBC_ammo_pack"
+      "47mm_m39_APBC"
     ]
   },
   {
@@ -11482,8 +10308,7 @@
     "ammo_amount": 25,
     "image": "it_m14_41.png",
     "ammo": [
-      "47mm_m39_APBC",
-      "47mm_m39_APBC_ammo_pack"
+      "47mm_m39_APBC"
     ]
   },
   {
@@ -11509,9 +10334,7 @@
     "ammo": [
       "76mm_usa_M42A1_HE",
       "76mm_usa_APCBC",
-      "76mm_usa_APCBC_ammo_pack",
-      "76mm_us_M88_Smoke",
-      "76mm_us_M88_Smoke_ammo_pack"
+      "76mm_us_M88_Smoke"
     ]
   },
   {
@@ -11524,9 +10347,7 @@
     "ammo": [
       "75mm_us_HE",
       "75mm_usa_APCBC",
-      "75mm_usa_APCBC_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -11537,13 +10358,10 @@
     "ammo_amount": 25,
     "image": "it_m26_ariete.png",
     "ammo": [
-      "90mm_us_M82_APCBC_ammo_pack",
       "90mm_us_M82_APCBC",
-      "90mm_us_M304_APCR_ammo_pack",
       "90mm_us_M304_APCR",
       "90mm_us_M71_HE",
-      "90mm_us_M313_Smoke",
-      "90mm_us_M313_Smoke_ammo_pack"
+      "90mm_us_M313_Smoke"
     ]
   },
   {
@@ -11555,15 +10373,11 @@
     "image": "it_m26a1_pershing.png",
     "role": "Medium tank",
     "ammo": [
-      "90mm_us_M82_APCBC_ammo_pack",
       "90mm_us_M82_APCBC",
-      "90mm_us_M304_APCR_ammo_pack",
       "90mm_us_M304_APCR",
-      "90mm_us_M332_APCR_ammo_pack",
       "90mm_us_M332_APCR",
       "90mm_us_M71_HE",
-      "90mm_us_M313_Smoke",
-      "90mm_us_M313_Smoke_ammo_pack"
+      "90mm_us_M313_Smoke"
     ]
   },
   {
@@ -11576,15 +10390,12 @@
     "role": "Tank destroyer",
     "ammo": [
       "90mm_us_M82_APCBC",
-      "90mm_us_M82_APCBC_ammo_pack",
       "90mm_us_M304_APCR",
-      "90mm_us_M332_APCR_ammo_pack",
       "90mm_us_M332_APCR",
       "90mm_us_M71_HE",
       "90mm_us_T108_HEAT",
       "90mm_us_T108_HEAT_anmo_pack",
-      "90mm_us_M313_Smoke",
-      "90mm_us_M313_Smoke_ammo_pack"
+      "90mm_us_M313_Smoke"
     ]
   },
   {
@@ -11595,8 +10406,7 @@
     "ammo_amount": 25,
     "image": "it_m3a3_stuart.png",
     "ammo": [
-      "37mm_usa_m3_APC",
-      "37mm_usa_m3_APC_ammo_pack"
+      "37mm_usa_m3_APC"
     ]
   },
   {
@@ -11608,9 +10418,6 @@
     "image": "it_m15_42_contraereo.png",
     "role": "SPAA",
     "ammo": [
-      "20mm_Breda_HE_ammo_pack",
-      "20mm_Breda_APHE_ammo_pack",
-      "20mm_kwk_30_APCR_ammo_pack",
       "20mm_Breda_HE",
       "20mm_Breda_APHE",
       "20mm_ger_kwk30_APCR"
@@ -11625,8 +10432,7 @@
     "image": "it_semovente_m43_105_leoncello.png",
     "ammo": [
       "105mm_Perforante_APC",
-      "105mm_ep_m43_HEAT",
-      "105mm_ep_m43_HEAT_ammo_pack"
+      "105mm_ep_m43_HEAT"
     ]
   },
   {
@@ -11648,9 +10454,7 @@
     "role": "Medium tank",
     "ammo": [
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
-      "105mm_usa_HEAT_FS",
-      "105mm_usa_HEAT_FS_ammo_pack"
+      "105mm_usa_HEAT_FS"
     ]
   },
   {
@@ -11662,11 +10466,8 @@
     "image": "it_m60a1_ariete.png",
     "ammo": [
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
       "105mm_usa_HEAT_FS",
-      "105mm_usa_HEAT_FS_ammo_pack",
-      "105mm_us_M416_Smoke",
-      "105mm_us_M416_Smoke_ammo_pack"
+      "105mm_us_M416_Smoke"
     ]
   },
   {
@@ -11680,9 +10481,7 @@
     "ammo": [
       "105mm_usa_HESH",
       "105mm_usa_HEAT_FS",
-      "105mm_usa_HEAT_FS_ammo_pack",
-      "105mm_us_M416_Smoke",
-      "105mm_us_M416_Smoke_ammo_pack"
+      "105mm_us_M416_Smoke"
     ]
   },
   {
@@ -11695,12 +10494,9 @@
     "role": "Medium tank",
     "ammo": [
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
       "105mm_usa_M456A2_HEAT_MP_FS",
       "105mm_usa_M735_APDS_FS",
-      "105mm_usa_M735_APDS_FS_ammo_pack",
-      "105mm_us_M416_Smoke",
-      "105mm_us_M416_Smoke_ammo_pack"
+      "105mm_us_M416_Smoke"
     ]
   },
   {
@@ -11716,8 +10512,7 @@
       "105mm_usa_M456A2_HEAT_MP_F",
       "105mm_usa_M735_APDS_FS",
       "105mm_usa_M735_APDS_FS_amm",
-      "105mm_us_M416_Smoke",
-      "105mm_us_M416_Smoke_ammo_pack"
+      "105mm_us_M416_Smoke"
     ]
   },
   {
@@ -11731,7 +10526,6 @@
     "ammo": [
       "76mm_oto_SAP",
       "76mm_oto_APDSFS",
-      "76mm_oto_APDSFS_ammo_pack",
       "76mm_oto_HE_VT"
     ]
   },
@@ -11754,7 +10548,6 @@
     "ammo": [
       "75mm_75_32_APCBC",
       "75mm_M42_EPS_HEAT",
-      "75mm_M42_EPS_HEAT_ammo_pack",
       "75mm_75_32_HE"
     ]
   },
@@ -11817,9 +10610,7 @@
     "image": "it_oto_r3_t20_fa.png",
     "ammo": [
       "20mm_Oerikon_HE",
-      "20mm_Oerikon_HE_ammo_pack",
-      "20mm_Oerikon_AP",
-      "20mm_Oerikon_AP_ammo_pack"
+      "20mm_Oerikon_AP"
     ]
   },
   {
@@ -11832,8 +10623,7 @@
     "role": "SPAA",
     "ammo": [
       "25mm_kba_HE",
-      "25mm_kba_APDS",
-      "25mm_kba_APDS_ammo_pack"
+      "25mm_kba_APDS"
     ]
   },
   {
@@ -11845,8 +10635,7 @@
     "image": "it_otobreda_sidam_25_mistral.png",
     "ammo": [
       "25mm_kba_HE",
-      "25mm_kba_APDS",
-      "25mm_kba_APDS_ammo_pack"
+      "25mm_kba_APDS"
     ]
   },
   {
@@ -11858,8 +10647,7 @@
     "image": "it_sherman_75_37.png",
     "ammo": [
       "75mm_usa_HE",
-      "75mm_usa_APCBC",
-      "75mm_usa_APCBC_ammo_pack"
+      "75mm_usa_APCBC"
     ]
   },
   {
@@ -11882,9 +10670,7 @@
     "ammo": [
       "75mm_usa_HE",
       "75mm_usa_APCBC",
-      "75mm_usa_APCBC_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -11897,11 +10683,8 @@
     "ammo": [
       "76mm_britain_17pdr_HE",
       "76mm_britain_17pdr_APC",
-      "76mm_britain_17pdr_APC_ammo_pack",
       "76mm_britain_17pdr_APCBC",
-      "76mm_britain_17pdr_APCBC_ammo_pack",
       "76mm_britain_Smoke",
-      "76mm_britain_Smoke_ammo_pack",
       "76mm_britain_17pdr_APDS",
       "76mm_britain_17pdr_APDS_ammo"
     ]
@@ -11937,7 +10720,6 @@
       "125mm_ussr_APDS_FS",
       "125mm_ussr_38M12_APDS_FS",
       "125mm_ussr_38M15_APDS_FS",
-      "125mm_ussr_APDS_FS_ammo_pack",
       "125mm_ussr_38M12_APDS_FS_am",
       "125mm_ussr_38M15_APDS_FS_am"
     ]
@@ -11971,8 +10753,7 @@
     "role": "Medium tank",
     "ammo": [
       "40mm_hung_HE",
-      "40mm_hung_APBC",
-      "40mm_hung_APBC_ammo_pack"
+      "40mm_hung_APBC"
     ]
   },
   {
@@ -11985,8 +10766,7 @@
     "role": "Medium tank",
     "ammo": [
       "75mm_hung_HE",
-      "75mm_hung_HEAT",
-      "75mm_hung_HEAT_ammo_pack"
+      "75mm_hung_HEAT"
     ]
   },
   {
@@ -11999,8 +10779,7 @@
     "role": "Medium tank",
     "ammo": [
       "75mm_ger_kwk40_37_HE",
-      "75mm_ger_kwk40_HEAT",
-      "75mm_kwk_37_40_HEAT_ammo_pack"
+      "75mm_ger_kwk40_HEAT"
     ]
   },
   {
@@ -12013,10 +10792,7 @@
     "ammo": [
       "25mm_M242_HE",
       "25mm_M242_APDS",
-      "25mm_M242_APDS_FS",
-      "25mm_M242_HE_ammo_pack",
-      "25mm_M242_APDS_ammo_pack",
-      "25mm_M242_APDS_FS_ammo_pack"
+      "25mm_M242_APDS_FS"
     ]
   },
   {
@@ -12028,14 +10804,10 @@
     "image": "it_vcc_80_hitfist_30.png",
     "ammo": [
       "30mm_173_HEI",
-      "30mm_173_HEI_ammo_pack",
       "30mm_173_APDS_FS",
-      "30mm_173_APDS_FS_ammo_pack",
       "127mm_us_tow",
       "152mm_us_tow_2a",
-      "152mm_us_tow_2a_ammo_pack",
-      "152mm_us_tow_2",
-      "152mm_us_tow_2_ammo_pack"
+      "152mm_us_tow_2"
     ]
   },
   {
@@ -12048,8 +10820,7 @@
     "ammo": [
       "60mm_it_OTO_APDSFS",
       "60mm_tt_OTO_HE",
-      "60mm_t_OTO_HE_VT",
-      "60mm_tt_OTO_HE_VT_ammo_pack"
+      "60mm_t_OTO_HE_VT"
     ]
   },
   {
@@ -12064,11 +10835,7 @@
       "105mm_us_M416_Smoke",
       "105mm_usa_HESH",
       "105mm_NATO_APDS_FS",
-      "105mm_DM33_APDS_FS",
-      "105mm_us_M416_Smoke_ammo_pack",
-      "105mm_usa_HESH_ammo_pack",
-      "105mm_NATO_APDS_FS_ammo_pack",
-      "105mm_DM33_APDS_FS_ammo_pack"
+      "105mm_DM33_APDS_FS"
     ]
   },
   {
@@ -12080,9 +10847,7 @@
     "image": "it_zsu_23_4.png",
     "ammo": [
       "23mm_ussr_HEIT",
-      "23mm_ussr_HEIT_ammo_pack",
-      "23mm_ussr_APIT",
-      "23mm_ussr_APIT_ammo_pack"
+      "23mm_ussr_APIT"
     ]
   },
   {
@@ -12093,8 +10858,6 @@
     "ammo_amount": 25,
     "image": "it_zsu_57_2.png",
     "ammo": [
-      "57mm_AP_ammo_pack",
-      "57mm_APCBC_ammo_pack",
       "57mm_ussr_AP",
       "57mm_ussr_HE",
       "57mm_ussr_APCBC",
@@ -12111,8 +10874,7 @@
     "role": "Tank destroyer",
     "ammo": [
       "75mm_ger_kwk40_37_HE",
-      "75mm_ger_kwk40_HEAT",
-      "75mm_kwk_37_40_HEAT_ammo_pack"
+      "75mm_ger_kwk40_HEAT"
     ]
   },
   {
@@ -12124,8 +10886,7 @@
     "image": "it_40_43m_zrinyi_2.png",
     "role": "Tank destroyer",
     "ammo": [
-      "100mm_eps_HEAT",
-      "100mm_eps_HEAT_ammo_pack"
+      "100mm_eps_HEAT"
     ]
   },
   {
@@ -12221,8 +10982,7 @@
     "ammo": [
       "90mm_CN90_HEAT",
       "90mm_CN90_HE",
-      "90mm_CN90_Smoke",
-      "90mm_CN90_Smoke_ammo_pack"
+      "90mm_CN90_Smoke"
     ]
   },
   {
@@ -12272,8 +11032,7 @@
     "role": "SPAA",
     "ammo": [
       "20mm_rh202_HE",
-      "20mm_rh202_AP",
-      "20mm_rh202_AP_ammo_pack"
+      "20mm_rh202_AP"
     ]
   },
   {
@@ -12288,9 +11047,7 @@
       "105mm_fr_F2_HEAT",
       "105mm_fr_F2_HE",
       "105mm_fr_F2_Smoke",
-      "105mm_fr_F2_Smoke_ammo_pack",
-      "105mm_fr_F2_APDSFS",
-      "105mm_fr_F2_APDSFS_ammo_pack"
+      "105mm_fr_F2_APDSFS"
     ]
   },
   {
@@ -12314,8 +11071,7 @@
     "ammo": [
       "75mm_SA90_APC",
       "75mm_SA90_HE",
-      "75mm_SA90_APCBC",
-      "75mm_SA90_APCBC_ammo_pack"
+      "75mm_SA90_APCBC"
     ]
   },
   {
@@ -12338,9 +11094,7 @@
     "role": "SPAA",
     "ammo": [
       "40mm_L70_HE",
-      "40mm_L70_AP",
-      "40mm_L70_HE_ammo_pack",
-      "40mm_L70_AP_ammo_pack"
+      "40mm_L70_AP"
     ]
   },
   {
@@ -12353,8 +11107,7 @@
     "ammo": [
       "75mm_SA90_APC",
       "75mm_SA90_HE",
-      "75mm_SA90_APCBC",
-      "75mm_SA90_APCBC_ammo_pack"
+      "75mm_SA90_APCBC"
     ]
   },
   {
@@ -12382,9 +11135,7 @@
     "ammo": [
       "75mm_usa_HE",
       "75mm_usa_APCBC",
-      "75mm_usa_APCBC_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -12398,8 +11149,7 @@
     "ammo": [
       "105mm_fr_CN105_HEAT",
       "105mm_fr_CN105_HE",
-      "105mm_fr_CN105_Smoke",
-      "105mm_fr_CN105_Smoke_ammo_pack"
+      "105mm_fr_CN105_Smoke"
     ]
   },
   {
@@ -12413,8 +11163,7 @@
     "ammo": [
       "105mm_fr_CN105_HEAT",
       "105mm_fr_CN105_HE",
-      "105mm_fr_CN105_Smoke",
-      "105mm_fr_CN105_Smoke_ammo_pack"
+      "105mm_fr_CN105_Smoke"
     ]
   },
   {
@@ -12449,9 +11198,7 @@
       "105mm_fr_CN105_HEAT",
       "105mm_fr_CN105_HE",
       "105mm_fr_CN105_Smoke",
-      "105mm_fr_CN105_Smoke_ammo_pack",
-      "105mm_fr_CN105_APDSFS",
-      "105mm_fr_CN105_APDSFS_ammo_pack"
+      "105mm_fr_CN105_APDSFS"
     ]
   },
   {
@@ -12466,9 +11213,7 @@
       "105mm_fr_CN105_HEAT",
       "105mm_fr_CN105_HE",
       "105mm_fr_CN105_Smoke",
-      "105mm_fr_CN105_Smoke_ammo_pack",
-      "105mm_fr_CN105_APDSFS",
-      "105mm_fr_CN105_APDSFS_ammo_pack"
+      "105mm_fr_CN105_APDSFS"
     ]
   },
   {
@@ -12483,9 +11228,7 @@
       "105mm_fr_CN105_HEAT",
       "105mm_fr_CN105_HE",
       "105mm_fr_CN105_Smoke",
-      "105mm_fr_CN105_Smoke_ammo_pack",
-      "105mm_fr_CN105_APDSFS",
-      "105mm_fr_CN105_APDSFS_ammo_pack"
+      "105mm_fr_CN105_APDSFS"
     ]
   },
   {
@@ -12498,8 +11241,7 @@
     "role": "Medium tank",
     "ammo": [
       "120mm_NATO_HEAT_FS",
-      "120mm_NATO_APDS_FS",
-      "120mm_NATO_APDS_FS_ammo_pack"
+      "120mm_NATO_APDS_FS"
     ]
   },
   {
@@ -12513,9 +11255,7 @@
       "105mm_fr_CN105_HEAT",
       "105mm_fr_CN105_HE",
       "105mm_fr_CN105_Smoke",
-      "105mm_fr_CN105_Smoke_ammo_pack",
-      "105mm_fr_CN105_APDSFS",
-      "105mm_fr_CN105_APDSFS_ammo_pack"
+      "105mm_fr_CN105_APDSFS"
     ]
   },
   {
@@ -12528,8 +11268,7 @@
     "role": "Medium tank",
     "ammo": [
       "120mm_NATO_HEAT_FS",
-      "120mm_NATO_APDS_FS",
-      "120mm_NATO_APDS_FS_ammo_pack"
+      "120mm_NATO_APDS_FS"
     ]
   },
   {
@@ -12542,8 +11281,7 @@
     "role": "Medium tank",
     "ammo": [
       "90mm_us_M71_HE",
-      "90mm_us_M82_APCBC",
-      "90mm_us_M82_APCBC_ammo_pack"
+      "90mm_us_M82_APCBC"
     ]
   },
   {
@@ -12568,6 +11306,7 @@
     "image": "fr_amx_50_foch.png",
     "role": "Tank destroyer",
     "ammo": [
+      "120mm_us_tow",
       "120mm_usa_M356_HE"
     ]
   },
@@ -12629,9 +11368,7 @@
     "ammo": [
       "155mm_M110_Smoke",
       "155mm_M107_HE",
-      "155mm_M107_HE_PF",
-      "155mm_M110_Smoke_ammo_pack",
-      "155mm_M107_HE_PF_ammo_pack"
+      "155mm_M107_HE_PF"
     ]
   },
   {
@@ -12686,9 +11423,7 @@
     "role": "SPAA",
     "ammo": [
       "40mm_use_M2_HE",
-      "40mm_usa_M2_AP",
-      "40mm_usa_M2_HE_ammo_pack",
-      "40mm_usa_M2_AP_ammo_pack"
+      "40mm_usa_M2_AP"
     ]
   },
   {
@@ -12721,8 +11456,7 @@
     "role": "Light tank",
     "ammo": [
       "90mm_us_M71_HE",
-      "90mm_M82_APCBC",
-      "90mm_M82_APCBC_ammo_pack"
+      "90mm_M82_APCBC"
     ]
   },
   {
@@ -12750,9 +11484,7 @@
       "75mm_usa_AP",
       "75mm_usa_HE",
       "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack",
-      "75mm_usa_APCBC",
-      "75mm_usa_APCBC_ammo_pack"
+      "75mm_usa_APCBC"
     ]
   },
   {
@@ -12779,8 +11511,7 @@
     "ammo": [
       "90mm_CN90_HEAT",
       "90mm_CN90_HE",
-      "90mm_CN90_Smoke",
-      "90mm_CN90_Smoke_ammo_pack"
+      "90mm_CN90_Smoke"
     ]
   },
   {
@@ -12794,8 +11525,7 @@
     "ammo": [
       "90mm_CN90_HEAT",
       "90mm_CN90_HE",
-      "90mm_CN90_Smoke",
-      "90mm_CN90_Smoke_ammo_pack"
+      "90mm_CN90_Smoke"
     ]
   },
   {
@@ -12864,9 +11594,7 @@
     "role": "Light tank",
     "ammo": [
       "40mm_use_M2_HE",
-      "40mm_usa_M2_AP",
-      "40mm_usa_M2_HE_ammo_pack",
-      "40mm_usa_M2_AP_ammo_pack"
+      "40mm_usa_M2_AP"
     ]
   },
   {
@@ -12880,9 +11608,7 @@
     "ammo": [
       "120mm_NATO_HEAT_FS",
       "120mm_DM_APDS_FS",
-      "120mm_DM_APDS_FS_ammo_pack",
-      "120mm_NATO_APDS_FS",
-      "120mm_NATO_APDS_FS_ammo_pack"
+      "120mm_NATO_APDS_FS"
     ]
   },
   {
@@ -12896,8 +11622,7 @@
     "ammo": [
       "NATO_APDS_FS",
       "120mm_NATO_HEAT_FS",
-      "120mm_NATO_APDS_FS",
-      "120mm_NATO_APDS_FS_ammo_pack"
+      "120mm_NATO_APDS_FS"
     ]
   },
   {
@@ -12910,9 +11635,7 @@
     "role": "Medium tank",
     "ammo": [
       "120mm_DM_APDS_FS",
-      "120mm_DM_APDS_FS_ammo_pack",
-      "120mm_NATO_APDS_FS",
-      "120mm_NATO_APDS_FS_ammo_pack"
+      "120mm_NATO_APDS_FS"
     ]
   },
   {
@@ -12925,8 +11648,7 @@
     "role": "Medium tank",
     "ammo": [
       "NATO_APDS_FS",
-      "120mm_NATO_APDS_FS",
-      "120mm_NATO_APDS_FS_ammo_pack"
+      "120mm_NATO_APDS_FS"
     ]
   },
   {
@@ -12967,7 +11689,6 @@
     "ammo_amount": 25,
     "image": "fr_lorraine_155.png",
     "ammo": [
-      "155mm_M110_Smoke_ammo_pack",
       "155mm_M107_HE",
       "155mm_M110_Smoke"
     ]
@@ -13012,13 +11733,10 @@
     "ammo_amount": 25,
     "image": "fr_m26_pershing.png",
     "ammo": [
-      "90mm_us_M82_APCBC_ammo_pack",
       "90mm_us_M82_APCBC",
-      "90mm_us_M304_APCR_ammo_pack",
       "90mm_us_M304_APCR",
       "90mm_us_M71_HE",
-      "90mm_us_M313_Smoke",
-      "90mm_us_M313_Smoke_ammo_pack"
+      "90mm_us_M313_Smoke"
     ]
   },
   {
@@ -13033,11 +11751,7 @@
       "90mm_us_M313_Smoke",
       "90mm_us_M304_APCR",
       "90mm_us_M82_APCBC",
-      "90mm_us_M313_Smoke_ammo_pack",
-      "90mm_us_M304_APCR_ammo_pack",
-      "90mm_us_M82_APCBC_ammo_pack",
-      "90mm_us_T108_HEAT",
-      "90mm_us_1108_HEAT_ammo_pack"
+      "90mm_us_T108_HEAT"
     ]
   },
   {
@@ -13048,8 +11762,7 @@
     "ammo_amount": 25,
     "image": "fr_m3a3_stuart.png",
     "ammo": [
-      "37mm_usa_m3_APC",
-      "37mm_usa_m3_APC_ammo_pack"
+      "37mm_usa_m3_APC"
     ]
   },
   {
@@ -13080,9 +11793,7 @@
     "ammo": [
       "75mm_usa_HE",
       "75mm_usa_APCBC",
-      "75mm_usa_APCBC_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -13107,9 +11818,7 @@
     "image": "fr_m4a3_105_sherman.png",
     "ammo": [
       "105mm_usa_HEAT",
-      "105mm_usa_HEAT_ammo_pack",
-      "105mm_us_M84_Smoke",
-      "105mm_us_M84_Smoke_ammo_pack"
+      "105mm_us_M84_Smoke"
     ]
   },
   {
@@ -13122,11 +11831,8 @@
     "ammo": [
       "75mm_usa_HE",
       "75mm_usa_APCBC",
-      "75mm_usa_APCBC_ammo_pack",
       "75mm_usa_APCR",
-      "75mm_usa_APCR_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -13139,9 +11845,7 @@
     "ammo": [
       "75mm_usa_HE",
       "75mm_usa_APCBC",
-      "75mm_usa_APCBC_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -13154,8 +11858,7 @@
     "ammo": [
       "75mm_SA90_APC",
       "75mm_SA90_HE",
-      "75mm_SA90_APCBC",
-      "75mm_SA90_APCBC_ammo_pack"
+      "75mm_SA90_APCBC"
     ]
   },
   {
@@ -13169,9 +11872,7 @@
     "ammo": [
       "90mm_CN90_Smoke",
       "90mm_CN90_HE",
-      "90mm_CN90_APDS_FS",
-      "90mm_CN90_Smoke_ammo_pack",
-      "90mm_CN90_APDS_FS_ammo_pack"
+      "90mm_CN90_APDS_FS"
     ]
   },
   {
@@ -13184,8 +11885,7 @@
     "role": "Tank destroyer",
     "ammo": [
       "136mm_HOT_ATGM",
-      "150mm_HOT_2_ATGM",
-      "150mm_HOT_2_ATGM_ammo_pack"
+      "150mm_HOT_2_ATGM"
     ]
   },
   {
@@ -13239,8 +11939,7 @@
     "role": "SPAA",
     "ammo": [
       "163mm_roland_1_aam",
-      "163mm_roland_3_aam",
-      "163mm_roland_3_aam_ammo_pack"
+      "163mm_roland_3_aam"
     ]
   },
   {
@@ -13292,9 +11991,7 @@
       "105mm_fr_CN105_HEAT",
       "105mm_fr_CN105_HE",
       "105mm_fr_CN105_Smoke",
-      "105mm_fr_CN105_Smoke_ammo_pack",
-      "105mm_fr_CN105_APDSFS",
-      "105mm_fr_CN105_APDSFS_ammo_pack"
+      "105mm_fr_CN105_APDSFS"
     ]
   },
   {
@@ -13329,9 +12026,7 @@
     "role": "SPAA",
     "ammo": [
       "20mm_Oerikon_HE",
-      "20mm_Oerikon_HE_ammo_pack",
-      "20mm_Oerikon_AP",
-      "20mm_Oerikon_AP_ammo_pack"
+      "20mm_Oerikon_AP"
     ]
   },
   {
@@ -13354,9 +12049,7 @@
     "role": "Light tank",
     "ammo": [
       "30mm_173_HEI",
-      "30mm_173_HEI_ammo_pack",
-      "30mm_173_APDS_FS",
-      "30mm_173_APDS_FS_ammo_pack"
+      "30mm_173_APDS_FS"
     ]
   },
   {
@@ -13370,11 +12063,8 @@
     "ammo": [
       "12mm_usa_M2HB_common",
       "12mm_usa_M2HB_API",
-      "12mm_usa_M2HB_API_ammo_pack",
       "12mm_usa_M2HB_AP",
-      "12mm_usa_M2HB_AP_ammo_pack",
-      "12mm_usa_M2HB_APIT",
-      "12mm_usa_M2HB_APIT_ammo_pack"
+      "12mm_usa_M2HB_APIT"
     ]
   },
   {
@@ -13397,8 +12087,7 @@
     "role": "SPAA",
     "ammo": [
       "105mm_rb_70_aam",
-      "105mm_bolide_aam",
-      "105mm_bolide_aam_ammo_pack"
+      "105mm_bolide_aam"
     ]
   },
   {
@@ -13420,8 +12109,7 @@
     "image": "sw_bt_42.png",
     "role": "Light tank",
     "ammo": [
-      "114mm_fin_HEAT",
-      "114mm_fin_HEAT_ammo_pack"
+      "114mm_fin_HEAT"
     ]
   },
   {
@@ -13434,8 +12122,7 @@
     "role": "Tank destroyer",
     "ammo": [
       "155mm_M107_HE",
-      "155mm_M107_HE_PF",
-      "155mm_M107_HE_PF_ammo_pack"
+      "155mm_M107_HE_PF"
     ]
   },
   {
@@ -13447,14 +12134,9 @@
     "image": "sw_patria_amv_ctcv_105.png",
     "ammo": [
       "105mm_us_M416_Smoke",
-      "105mm_usa_HESH_ammo_pack",
-      "105mm_us_M416_Smoke_ammo_pack",
       "105mm_NATO_APDS_FS",
-      "105mm_NATO_APDS_FS_ammo_pack",
       "105mm_DM33_APDS_FS",
-      "105mm_DM33_APDS_FS_ammo_pack",
-      "105mm_nato_ATGM",
-      "105mm_nato_ATGM_ammo_pack"
+      "105mm_nato_ATGM"
     ]
   },
   {
@@ -13477,11 +12159,8 @@
     "role": "Light tank",
     "ammo": [
       "105mm_NATO_APDS_FS",
-      "105mm_NATO_APDS_FS_ammo_pack",
       "105mm_DM33_APDS_FS",
-      "105mm_DM33_APDS_FS_ammo_pack",
-      "105mm_nato_ATGM",
-      "105mm_nato_ATGM_ammo_pack"
+      "105mm_nato_ATGM"
     ]
   },
   {
@@ -13495,9 +12174,7 @@
     "ammo": [
       "NATO_APDS_FS",
       "120mm_DM_HE_FS",
-      "120mm_DM_HE_FS_ammo_pack",
-      "120mm_DM_APDS_FS",
-      "120mm_DM_APDS_FS_ammo_pack"
+      "120mm_DM_APDS_FS"
     ]
   },
   {
@@ -13510,9 +12187,7 @@
     "role": "Light tank",
     "ammo": [
       "30mm_173_HEI",
-      "30mm_173_HEI_ammo_pack",
-      "30mm_173_APDS_FS",
-      "30mm_173_APDS_FS_ammo_pack"
+      "30mm_173_APDS_FS"
     ]
   },
   {
@@ -13534,10 +12209,8 @@
     "image": "sw_charioteer_mk_7.png",
     "ammo": [
       "84mm_britain_20pdr_APDS",
-      "84mm_britain_20pdr_APDS_ammo_pack",
       "84mm_britain_20pdr_default_HE",
-      "84mm_britain_Smoke",
-      "84mm_britain_Smoke_ammo_pack"
+      "84mm_britain_Smoke"
     ]
   },
   {
@@ -13551,9 +12224,7 @@
     "ammo": [
       "120mm_sw_kan_APDS_FS",
       "120mm_DM_HE_FS",
-      "120mm_DM_HE_FS_ammo_pack",
-      "120mm_DM_APDS_FS",
-      "120mm_DM_APDS_FS_ammo_pack"
+      "120mm_DM_APDS_FS"
     ]
   },
   {
@@ -13566,9 +12237,7 @@
     "ammo": [
       "76mm_britain_17pdr_HE",
       "76mm_britain_17pdr_APC",
-      "76mm_britain_17pdr_APC_ammo_pack",
       "76mm_britain_17pdr_APCBC",
-      "76mm_britain_17pdr_APCBC_ammo_pack",
       "76mm_britain_17pdr_APDS",
       "76mm_britain_17pdr_APDS_ammo"
     ]
@@ -13583,9 +12252,7 @@
     "role": "Tank destroyer",
     "ammo": [
       "105mm_sw_kan_HE",
-      "105mm_sw_kan_Smoke",
-      "105mm_sw_kan_Smoke_ammo_pack",
-      "105mm_sw_kan_HEAT_ammo_pack"
+      "105mm_sw_kan_Smoke"
     ]
   },
   {
@@ -13599,11 +12266,8 @@
     "ammo": [
       "75mm_sw_kan_HE",
       "75mm_sw_kan_Smoke",
-      "75mm_sw_kan_Smoke_ammo_pack",
       "75mm_sw_kan_APBC",
-      "75mm_sw_kan_APBC_ammo_pack",
-      "75mm_sw_kan_APHE",
-      "75mm_sw_kan_APHE_ammo_pack"
+      "75mm_sw_kan_APHE"
     ]
   },
   {
@@ -13617,11 +12281,8 @@
     "ammo": [
       "75mm_sw_kan_HE",
       "75mm_sw_kan_Smoke",
-      "75mm_sw_kan_Smoke_ammo_pack",
       "75mm_sw_kan_APBC",
-      "75mm_sw_kan_APBC_ammo_pack",
-      "75mm_sw_kan_APHE",
-      "75mm_sw_kan_APHE_ammo_pack"
+      "75mm_sw_kan_APHE"
     ]
   },
   {
@@ -13647,9 +12308,7 @@
     "ammo": [
       "105mm_sweden_HE",
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
       "105mm_us_M416_Smoke",
-      "105mm_us_M416_Smoke_ammo_pack",
       "105mm_usa_M735_APDS_FS",
       "105mm_usa_M735_APDS_FS_amm"
     ]
@@ -13677,10 +12336,7 @@
     "ammo": [
       "35mm_kda_HE",
       "35mm_kda_APHEI",
-      "35mm_kda_APDS",
-      "35mm_kda_HE_ammo_pack",
-      "35mm_kda_APHEI_ammo_pack",
-      "35mm_kda_APDS_ammo_pack"
+      "35mm_kda_APDS"
     ]
   },
   {
@@ -13702,8 +12358,7 @@
     "role": "Heavy tank",
     "ammo": [
       "88mm_ger_kwk43_default_HE",
-      "88mm_ger_kwk43_APCR",
-      "88mm_kwk_36_43_APCR_ammo_pack"
+      "88mm_ger_kwk43_APCR"
     ]
   },
   {
@@ -13726,9 +12381,7 @@
     "role": "Medium tank",
     "ammo": [
       "37mm_sw_m39_APHE",
-      "37mm_sw_m39_APHE_ammo_pack",
-      "37mm_sw_kan_APDS",
-      "37mm_sw_kan_APDS_ammo_pack"
+      "37mm_sw_kan_APDS"
     ]
   },
   {
@@ -13741,11 +12394,8 @@
     "role": "Medium tank",
     "ammo": [
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
       "105mm_NATO_APDS_FS",
-      "105mm_NATO_APDS_FS_ammo_pack",
-      "105mm_DM33_APDS_FS",
-      "105mm_DM33_APDS_FS_ammo_pack"
+      "105mm_DM33_APDS_FS"
     ]
   },
   {
@@ -13758,9 +12408,7 @@
     "ammo": [
       "120mm_NATO_HEAT_FS",
       "120mm_NATO_APDS_FS",
-      "120mm_NATO_APDS_FS_ammo_pack",
-      "120mm_DM_APDS_FS",
-      "120mm_DM_APDS_FS_ammo_pack"
+      "120mm_DM_APDS_FS"
     ]
   },
   {
@@ -13772,8 +12420,7 @@
     "image": "sw_leopard_2a6nl.png",
     "ammo": [
       "NATO_APDS_FS",
-      "120mm_DM_APDS_FS",
-      "120mm_DM_APDS_FS_ammo_pack"
+      "120mm_DM_APDS_FS"
     ]
   },
   {
@@ -13786,9 +12433,7 @@
     "role": "SPAA",
     "ammo": [
       "40mm_sw_kan_HE",
-      "40mm_sw_kan_APC",
-      "40mm_sw_kan_HE_ammo_pack",
-      "40mm_sw_kan_APC_ammo_pack"
+      "40mm_sw_kan_APC"
     ]
   },
   {
@@ -13801,8 +12446,7 @@
     "role": "SPAA",
     "ammo": [
       "40mm_sw_kan_90c_HE",
-      "40mm_sw_kan_HE_VT",
-      "40mm_sw_kan_HE_VT_ammo_pack"
+      "40mm_sw_kan_HE_VT"
     ]
   },
   {
@@ -13815,8 +12459,7 @@
     "role": "SPAA",
     "ammo": [
       "105mm_rb_70_aam",
-      "105mm_rb_70_2_aam",
-      "105mm_rb_70_2_aam_ammo_pack"
+      "105mm_rb_70_2_aam"
     ]
   },
   {
@@ -13828,9 +12471,7 @@
     "image": "sw_tgdgb_m40_lv.png",
     "ammo": [
       "40mm_sw_kan_HE",
-      "40mm_sw_kan_APC",
-      "40mm_sw_kan_HE_ammo_pack",
-      "40mm_sw_kan_APC_ammo_pack"
+      "40mm_sw_kan_APC"
     ]
   },
   {
@@ -13843,8 +12484,6 @@
     "ammo": [
       "76mm_ussr_AP_53",
       "76mm_ussr_HEAT_53",
-      "76mm_ussr_HEAT_53_ammo_pack",
-      "76mm_ussr_AP_53_ammo_pack",
       "76mm_ussr_HE"
     ]
   },
@@ -13857,9 +12496,7 @@
     "image": "sw_pbil_m40.png",
     "ammo": [
       "20mm_sw_kan_HE",
-      "20mm_sw_kan_AP",
-      "20mm_sw_kan_HE_ammo_pack",
-      "20mm_sw_kan_AP_ammo_pack"
+      "20mm_sw_kan_AP"
     ]
   },
   {
@@ -13872,9 +12509,7 @@
     "role": "SPAA",
     "ammo": [
       "20mm_sw_kan_HE",
-      "20mm_sw_kan_AP",
-      "20mm_sw_kan_HE_ammo_pack",
-      "20mm_sw_kan_AP_ammo_pack"
+      "20mm_sw_kan_AP"
     ]
   },
   {
@@ -13887,8 +12522,6 @@
     "ammo": [
       "20mm_sw_kan_HE",
       "20mm_sw_kan_AP",
-      "20mm_sw_kan_HE_ammo_pack",
-      "20mm_sw_kan_AP_ammo_pack",
       "150mm_sw_bill"
     ]
   },
@@ -13936,9 +12569,7 @@
     "ammo": [
       "57mm_sw_kan_HE",
       "57mm_sw_kan_APCBC",
-      "57mm_sw_kan_APDS",
-      "57mm_sw_kan_APCBC_ammo_pack",
-      "57mm_sw_kan_APDS_ammo_pack"
+      "57mm_sw_kan_APDS"
     ]
   },
   {
@@ -13950,8 +12581,7 @@
     "image": "sw_pvkv_m43_1946.png",
     "ammo": [
       "75mm_sw_kan_HE",
-      "75mm_sw_kan_APCBC",
-      "75mm_sw_kan_APCBC_ammo_pack"
+      "75mm_sw_kan_APCBC"
     ]
   },
   {
@@ -13963,8 +12593,7 @@
     "image": "sw_pvkv_m43_1963.png",
     "ammo": [
       "75mm_sw_kan_HE",
-      "75mm_sw_kan_APDS",
-      "75mm_sw_kan_APDS_ammo_pack"
+      "75mm_sw_kan_APDS"
     ]
   },
   {
@@ -13986,8 +12615,7 @@
     "role": "Tank destroyer",
     "ammo": [
       "127mm_us_tow",
-      "152mm_us_tow_2",
-      "152mm_us_tow_2_ammo_pack"
+      "152mm_us_tow_2"
     ]
   },
   {
@@ -14022,11 +12650,8 @@
     "ammo": [
       "75mm_sw_kan_HE",
       "75mm_sw_kan_Smoke",
-      "75mm_sw_kan_Smoke_ammo_pack",
       "75mm_sw_kan_APBC",
-      "75mm_sw_kan_APBC_ammo_pack",
-      "75mm_sw_kan_APHE",
-      "75mm_sw_kan_APHE_ammo_pack"
+      "75mm_sw_kan_APHE"
     ]
   },
   {
@@ -14039,8 +12664,7 @@
     "role": "Tank destroyer",
     "ammo": [
       "105mm_sw_kan_HE",
-      "105mm_sw_kan_HEAT",
-      "105mm_sw_kan_HEAT_ammo_pack"
+      "105mm_sw_kan_HEAT"
     ]
   },
   {
@@ -14054,9 +12678,7 @@
     "ammo": [
       "75mm_usa_HE",
       "75mm_usa_APCBC",
-      "75mm_usa_APCBC_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -14082,7 +12704,6 @@
     "ammo": [
       "40mm_sw_kan_90c_HE",
       "40mm_sw_kan_HE_VT",
-      "40mm_sw_kan_HE_VT_ammo_pack",
       "150mm_sw_bill"
     ]
   },
@@ -14096,8 +12717,7 @@
     "role": "Light tank",
     "ammo": [
       "40mm_sw_kan_90c_HE",
-      "40mm_sw_kan_HE_VT",
-      "40mm_sw_kan_HE_VT_ammo_pack"
+      "40mm_sw_kan_HE_VT"
     ]
   },
   {
@@ -14111,9 +12731,7 @@
     "ammo": [
       "40mm_sw_kan_90c_HE",
       "40mm_sw_kan_HE_VT",
-      "40mm_sw_kan_APDSFS",
-      "40mm_sw_kan_HE_VT_ammo_pack",
-      "40mm_sw_kan_APDSFS_ammo_pack"
+      "40mm_sw_kan_APDSFS"
     ]
   },
   {
@@ -14127,9 +12745,7 @@
     "ammo": [
       "105mm_sweden_HE",
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
-      "105mm_us_M416_Smoke",
-      "105mm_us_M416_Smoke_ammo_pack"
+      "105mm_us_M416_Smoke"
     ]
   },
   {
@@ -14144,9 +12760,7 @@
       "105mm_sweden_HE",
       "105mm_us_M416_Smoke",
       "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
-      "105mm_usa_M735_APDS_FS_amm",
-      "105mm_us_M416_Smoke_ammo_pack"
+      "105mm_usa_M735_APDS_FS_amm"
     ]
   },
   {
@@ -14160,10 +12774,7 @@
       "105mm_sweden_APDS",
       "105mm_sweden_HE",
       "105mm_us_M416_Smoke",
-      "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
-      "105mm_sweden_APDS_ammo_pack",
-      "105mm_us_M416_Smoke_ammo_pack"
+      "105mm_usa_HESH"
     ]
   },
   {
@@ -14178,10 +12789,7 @@
       "105mm_sweden_APDS",
       "105mm_sweden_HE",
       "105mm_us_M416_Smoke",
-      "105mm_usa_HESH",
-      "105mm_usa_HESH_ammo_pack",
-      "105mm_sweden_APDS_ammo_pack",
-      "105mm_us_M416_Smoke_ammo_pack"
+      "105mm_usa_HESH"
     ]
   },
   {
@@ -14196,8 +12804,6 @@
       "105mm_us_M416_Smoke",
       "105mm_usa_HESH",
       "105mm_usa_M735_APDS_FS",
-      "105mm_us_M416_Smoke_ammo_pack",
-      "105mm_usa_HESH_ammo_pack",
       "105mm_usa_M735_APDS_FS_amm"
     ]
   },
@@ -14213,8 +12819,6 @@
       "105mm_sweden_HE",
       "105mm_usa_HESH",
       "105mm_usa_M735_APDS_FS",
-      "105mm_us_M416_Smoke_ammo_pack",
-      "105mm_usa_HESH_ammo_pack",
       "105mm_usa_M735_APDS_FS_amm"
     ]
   },
@@ -14229,9 +12833,7 @@
     "ammo": [
       "120mm_sw_kan_APDS_FS",
       "120mm_DM_HE_FS",
-      "120mm_DM_HE_FS_ammo_pack",
-      "120mm_DM_APDS_FS",
-      "120mm_DM_APDS_FS_ammo_pack"
+      "120mm_DM_APDS_FS"
     ]
   },
   {
@@ -14245,10 +12847,7 @@
     "ammo": [
       "120mm_DM_APDS_FS",
       "120mm_DM_HE_FS",
-      "120mm_DM_HE_FS_ammo_pack",
-      "120mm_DM_APDS_FS_ammo_pack",
-      "120mm_NATO_APDS_FS",
-      "120mm_NATO_APDS_FS_ammo_pack"
+      "120mm_NATO_APDS_FS"
     ]
   },
   {
@@ -14262,9 +12861,7 @@
     "ammo": [
       "120mm_DM_APDS_FS",
       "120mm_DM_HE_FS",
-      "120mm_DM_APDS_FS_ammo_pack",
-      "120mm_NATO_APDS_FS",
-      "120mm_NATO_APDS_FS_ammo_pack"
+      "120mm_NATO_APDS_FS"
     ]
   },
   {
@@ -14278,10 +12875,7 @@
     "ammo": [
       "120mm_DM_APDS_FS",
       "120mm_DM_HE_ES",
-      "120mm_DM_HE_FS_ammo_pack",
-      "120mm_DM_APDS_FS_ammo_pack",
-      "120mm_NATO_APDS_FS",
-      "120mm_NATO_APDS_FS_ammo_pack"
+      "120mm_NATO_APDS_FS"
     ]
   },
   {
@@ -14294,8 +12888,7 @@
     "role": "Light tank",
     "ammo": [
       "75mm_sw_kan_HE",
-      "75mm_sw_kan_APDS",
-      "75mm_sw_kan_APDS_ammo_pack"
+      "75mm_sw_kan_APDS"
     ]
   },
   {
@@ -14308,10 +12901,8 @@
     "role": "Medium tank",
     "ammo": [
       "84mm_britain_20pdr_APDS",
-      "84mm_britain_20pdr_APDS_ammo_pack",
       "84mm_britain_20pdr_default_HE",
-      "84mm_britain_Smoke",
-      "84mm_britain_Smoke_ammo_pack"
+      "84mm_britain_Smoke"
     ]
   },
   {
@@ -14324,10 +12915,8 @@
     "role": "Medium tank",
     "ammo": [
       "84mm_britain_20pdr_APDS",
-      "84mm_britain_20pdr_APDS_ammo_pack",
       "84mm_britain_20pdr_default_HE",
-      "84mm_britain_Smoke",
-      "84mm_britain_Smoke_ammo_pack"
+      "84mm_britain_Smoke"
     ]
   },
   {
@@ -14339,9 +12928,7 @@
     "image": "sw_strv_m31.png",
     "ammo": [
       "37mm_sw_m39_APHE",
-      "37mm_sw_m39_APHE_ammo_pack",
-      "37mm_sw_kan_APDS",
-      "37mm_sw_kan_APDS_ammo_pack"
+      "37mm_sw_kan_APDS"
     ]
   },
   {
@@ -14353,9 +12940,7 @@
     "image": "sw_strv_m38.png",
     "ammo": [
       "37mm_sw_m39_APHE",
-      "37mm_sw_m39_APHE_ammo_pack",
-      "37mm_sw_kan_APDS",
-      "37mm_sw_kan_APDS_ammo_pack"
+      "37mm_sw_kan_APDS"
     ]
   },
   {
@@ -14367,9 +12952,7 @@
     "image": "sw_strv_m39.png",
     "ammo": [
       "37mm_sw_m39_APHE",
-      "37mm_sw_m39_APHE_ammo_pack",
-      "37mm_sw_kan_APDS",
-      "37mm_sw_kan_APDS_ammo_pack"
+      "37mm_sw_kan_APDS"
     ]
   },
   {
@@ -14381,9 +12964,7 @@
     "image": "sw_strv_m39_td.png",
     "ammo": [
       "37mm_sw_m39_APHE",
-      "37mm_sw_m39_APHE_ammo_pack",
-      "37mm_sw_kan_APDS",
-      "37mm_sw_kan_APDS_ammo_pack"
+      "37mm_sw_kan_APDS"
     ]
   },
   {
@@ -14395,9 +12976,7 @@
     "image": "sw_strv_m40l.png",
     "ammo": [
       "37mm_sw_m39_APHE",
-      "37mm_sw_m39_APHE_ammo_pack",
-      "37mm_sw_kan_APDS",
-      "37mm_sw_kan_APDS_ammo_pack"
+      "37mm_sw_kan_APDS"
     ]
   },
   {
@@ -14409,9 +12988,7 @@
     "image": "sw_strv_m41_s1.png",
     "ammo": [
       "37mm_sw_m39_APHE",
-      "37mm_sw_m39_APHE_ammo_pack",
-      "37mm_sw_kan_APDS",
-      "37mm_sw_kan_APDS_ammo_pack"
+      "37mm_sw_kan_APDS"
     ]
   },
   {
@@ -14423,9 +13000,7 @@
     "image": "sw_strv_m41_s2.png",
     "ammo": [
       "37mm_sw_m39_APHE",
-      "37mm_sw_m39_APHE_ammo_pack",
-      "37mm_sw_kan_APDS",
-      "37mm_sw_kan_APDS_ammo_pack"
+      "37mm_sw_kan_APDS"
     ]
   },
   {
@@ -14437,8 +13012,7 @@
     "image": "sw_strv_m42_delat_torn.png",
     "ammo": [
       "75mm_sw_kan_HE",
-      "75mm_sw_kan_APCBC",
-      "75mm_sw_kan_APCBC_ammo_pack"
+      "75mm_sw_kan_APCBC"
     ]
   },
   {
@@ -14451,11 +13025,8 @@
     "ammo": [
       "75mm_sw_kan_HE",
       "75mm_sw_kan_Smoke",
-      "75mm_sw_kan_Smoke_ammo_pack",
       "75mm_sw_kan_APBC",
-      "75mm_sw_kan_APBC_ammo_pack",
-      "75mm_sw_kan_APHE",
-      "75mm_sw_kan_APHE_ammo_pack"
+      "75mm_sw_kan_APHE"
     ]
   },
   {
@@ -14466,7 +13037,6 @@
     "ammo_amount": 25,
     "image": "sw_vickers_mk_e_45.png",
     "ammo": [
-      "45mm_AP_1942_ammo_pack",
       "45mm_ussr_AP_1942"
     ]
   },
@@ -14478,7 +13048,6 @@
     "ammo_amount": 25,
     "image": "sw_t_28.png",
     "ammo": [
-      "76mm_AP_1941_ammo_pack",
       "76mm_AP_1941",
       "76mm_ussr_HE"
     ]
@@ -14492,13 +13061,10 @@
     "image": "sw_t_34_1941.png",
     "ammo": [
       "76mm_AP_1942",
-      "76mm_AP_1942_ammo_pack",
       "76mm_AP_1941",
-      "76mm_AP_1941_ammo_pack",
       "76mm_ussr_HE",
       "76mm_ussr_Shrapnel",
-      "76mm_ussr_Smoke",
-      "76mm_ussr_Smoke_ammo_pack"
+      "76mm_ussr_Smoke"
     ]
   },
   {
@@ -14511,8 +13077,6 @@
     "ammo": [
       "85mm_ussr_APHE",
       "85mm_ussr_APCR",
-      "85mm_APHE_ammo_pack",
-      "85mm_APCR_ammo_pack",
       "85mm_ussr_HE"
     ]
   },
@@ -14524,10 +13088,6 @@
     "ammo_amount": 25,
     "image": "sw_t_54_1951.png",
     "ammo": [
-      "100mm_APCR_ammo_pack",
-      "100mm_APDS_ammo_pack",
-      "100mm_HEAT_ammo_pack",
-      "100mm_ussr_Smoke_ammo_pack",
       "100mm_ussr_APHE",
       "100mm_ussr_APCBC",
       "100mm_ussr_APCR",
@@ -14545,10 +13105,6 @@
     "ammo_amount": 25,
     "image": "sw_t_55m.png",
     "ammo": [
-      "100mm_BR412D_ammo_pack",
-      "100mm_ussr_Smoke_ammo_pack",
-      "100mm_M1000_ammo_pack",
-      "100mm_HEAT_ammo_pack",
       "100mm_ussr_Smoke",
       "100mm_ussr_BR412D",
       "100mm_ussr_M1000",
@@ -14568,7 +13124,6 @@
       "125mm_ussr_APDS_FS",
       "125mm_ussr_38M12_APDS_FS",
       "125mm_ussr_38M15_APDS_FS",
-      "125mm_ussr_APDS_FS_ammo_pack",
       "125mm_ussr_38M12_APDS_FS_am",
       "125mm_ussr_38M15_APDS_FS_am"
     ]
@@ -14583,8 +13138,7 @@
     "ammo": [
       "USSR_APDS_FS",
       "125mm_ussr_HE",
-      "125mm_ussr_ATGM",
-      "125mm_ussr_ATGM_ammo_pack"
+      "125mm_ussr_ATGM"
     ]
   },
   {
@@ -14619,8 +13173,7 @@
     "role": "Tank destroyer",
     "ammo": [
       "127mm_us_tow",
-      "152mm_us_tow_2",
-      "152mm_us_tow_2_ammo_pack"
+      "152mm_us_tow_2"
     ]
   },
   {
@@ -14633,9 +13186,7 @@
     "role": "SPAA",
     "ammo": [
       "40mm_sw_kan_HE",
-      "40mm_sw_kan_APC",
-      "40mm_sw_kan_HE_ammo_pack",
-      "40mm_sw_kan_APC_ammo_pack"
+      "40mm_sw_kan_APC"
     ]
   },
   {
@@ -14650,10 +13201,7 @@
       "155mm_M107_HE",
       "155mm_M110_Smoke",
       "155mm_M107_HE_PF",
-      "155mm_NATO_HE",
-      "155mm_M110_Smoke_ammo_pack",
-      "155mm_M107_HE_PF_ammo_pack",
-      "155mm_NATO_HE_ammo_pack"
+      "155mm_NATO_HE"
     ]
   },
   {
@@ -14665,8 +13213,7 @@
     "image": "sw_vickers_mk_e_37.png",
     "role": "Light tank",
     "ammo": [
-      "37mm_sw_m39_APHE",
-      "37mm_sw_m39_APHE_ammo_pack"
+      "37mm_sw_m39_APHE"
     ]
   },
   {
@@ -14677,8 +13224,6 @@
     "ammo_amount": 25,
     "image": "sw_zsu_57_2.png",
     "ammo": [
-      "57mm_AP_ammo_pack",
-      "57mm_APCBC_ammo_pack",
       "57mm_ussr_AP",
       "57mm_ussr_HE",
       "57mm_ussr_APCBC",
@@ -15177,8 +13722,7 @@
     "ammo": [
       "125mm_china_HE",
       "125mm_ussr_Practice",
-      "125mm_china_APDS_FS",
-      "125mm_china_APDS_FS_ammo_pack"
+      "125mm_china_APDS_FS"
     ]
   },
   {
@@ -15190,13 +13734,10 @@
     "image": "default.png",
     "role": "Medium tank",
     "ammo": [
-      "90mm_us_M82_APCBC_ammo_pack",
       "90mm_us_M82_APCBC",
-      "90mm_us_M304_APCR_ammo_pack",
       "90mm_us_M304_APCR",
       "90mm_us_M71_HE",
-      "90mm_us_M313_Smoke",
-      "90mm_us_M313_Smoke_ammo_pack"
+      "90mm_us_M313_Smoke"
     ]
   },
   {
@@ -15209,8 +13750,7 @@
     "role": "Medium tank",
     "ammo": [
       "NATO_APDS_FS",
-      "120mm_DM_APDS_FS",
-      "120mm_DM_APDS_FS_ammo_pack"
+      "120mm_DM_APDS_FS"
     ]
   },
   {
@@ -15234,8 +13774,6 @@
     "image": "default.png",
     "role": "Heavy tank",
     "ammo": [
-      "122mm_APHE_ammo_pack",
-      "122mm_APCBC_ammo_pack",
       "122mm_ussr_APHE",
       "122mm_ussr_APCBC",
       "122mm_ussr_HE"
@@ -15250,8 +13788,6 @@
     "image": "default.png",
     "role": "Light tank",
     "ammo": [
-      "45mm_AP_1942_ammo_pack",
-      "45mm_APCR_ammo_pack",
       "45mm_ussr_AP_1942",
       "45mm_ussr_APCR"
     ]
@@ -15266,9 +13802,6 @@
     "role": "Medium tank",
     "ammo": [
       "125mm_ussr_Practice",
-      "125mm_ussr_APDS_FS_ammo_pack",
-      "125mm_ussr_ATGM_ammo_pack",
-      "125mm_ussr_3BM42_APDS_FS_ammo_pack",
       "125mm_ussr_3BM42_APDS_FS",
       "125mm_ussr_APDS_FS",
       "125mm_ussr_HE",
@@ -15285,8 +13818,6 @@
     "role": "Medium tank",
     "ammo": [
       "125mm_ussr_Practice",
-      "125mm_ussr_APDS_FS_ammo_pack",
-      "125mm_ussr_ATGM_ammo_pack",
       "125mm_ussr_38M42_APDS_FS_am",
       "125mm_ussr_38M42_APDS_FS",
       "125mm_ussr_APDS_FS",
@@ -15306,10 +13837,7 @@
       "125mm_ussr_HE",
       "125mm_ussr_APDS_FS",
       "125mm_ussr_ATGM",
-      "125mm_ussr_38M42_APDS_FS",
-      "125mm_ussr_APDS_FS_ammo_pack",
-      "125mm_ussr_ATGM_ammo_pack",
-      "125mm_ussr_3BM42_APDS_FS_ammo_pack"
+      "125mm_ussr_38M42_APDS_FS"
     ]
   },
   {
@@ -15344,9 +13872,7 @@
     "role": "Medium tank",
     "ammo": [
       "120mm_NATO_APDS_FS",
-      "120mm_NATO_APDS_FS_ammo_pack",
-      "120mm_M829A_APDS_FS",
-      "120mm_M829A_APDS_FS_ammo_pack"
+      "120mm_M829A_APDS_FS"
     ]
   },
   {
@@ -15360,9 +13886,7 @@
     "ammo": [
       "76mm_usa_M42A1_HE",
       "76mm_usa_APCBC",
-      "76mm_usa_APCBC_ammo_pack",
-      "76mm_us_M88_Smoke",
-      "76mm_us_M88_Smoke_ammo_pack"
+      "76mm_us_M88_Smoke"
     ]
   },
   {
@@ -15376,9 +13900,7 @@
     "ammo": [
       "75mm_usa_HE",
       "75mm_usa_APCBC",
-      "75mm_usa_APCBC_ammo_pack",
-      "75mm_us_M89_Smoke",
-      "75mm_us_M89_Smoke_ammo_pack"
+      "75mm_us_M89_Smoke"
     ]
   },
   {
@@ -15391,10 +13913,8 @@
     "role": "Heavy tank",
     "ammo": [
       "90mm_us_142_HE",
-      "90mm_us_M82_APCBC_ammo_pack",
       "90mm_us_M82_APCBC",
-      "90mm_us_T44_APCR",
-      "90mm_us_144_APCR_ammo_pack"
+      "90mm_us_T44_APCR"
     ]
   }
 ]
