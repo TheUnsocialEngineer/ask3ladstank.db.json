@@ -4700,7 +4700,7 @@
     "ID": "ussr_object_292",
     "name": "Object 292 (USSR)",
     "country": "USSR",
-    "weapons_default": "ussr_object_292_default",
+    "weapons_default": "object_292_default",
     "ammo_amount": 25,
     "image": "ussr_object_292.png",
     "role": "Medium tank",

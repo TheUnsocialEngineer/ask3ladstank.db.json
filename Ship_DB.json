@@ -1,0 +1,6669 @@
+[
+    {
+        "ID": "fr_destroyer_bourrasque_class_bourrasque",
+        "name": "Bourrasque",
+        "country": "FRANCE",
+        "weapons_default": [
+            "fr_destroyer_bourrasque_class_bourrasque_torpedoes",
+            "fr_destroyer_bourrasque_class_bourrasque_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_destroyer_hunt_3series",
+        "name": "La Combattante",
+        "country": "FRANCE",
+        "weapons_default": [
+            "torpedoes",
+            "bomb_mortars",
+            "torpedoes_bomb_mortars",
+            "fr_destroyer_hunt_3series_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_destroyer_aigle_class_vautour",
+        "name": "Vautour",
+        "country": "FRANCE",
+        "weapons_default": [
+            "fr_destroyer_aigle_class_vautour_torpedoes",
+            "fr_destroyer_aigle_class_vautour_depth_charges",
+            "fr_destroyer_aigle_class_vautour_torpedoes_depth_charges",
+            "fr_destroyer_aigle_class_vautour_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_destroyer_vauquelin_class_vauquelin",
+        "name": "Vauquelin",
+        "country": "FRANCE",
+        "weapons_default": [
+            "torpedoes",
+            "mines",
+            "bomb_mortar",
+            "torpedoes_mines",
+            "torpedoes_bomb_mortar",
+            "mines_bomb_mortar",
+            "torpedoes_mines_bomb_mortar",
+            "fr_destroyer_aigle_class_aigle_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_cruiser_chateaurenault_class_guichen",
+        "name": "Guichen",
+        "country": "FRANCE",
+        "weapons_default": [
+            "torpedoes",
+            "fr_cruiser_chateaurenault_class_guichen_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_destroyer_le_fantasque_class_le_malin",
+        "name": "Le Malin",
+        "country": "FRANCE",
+        "weapons_default": [
+            "fr_destroyer_le_fantasque_class_le_malin_torpedoes",
+            "fr_destroyer_le_fantasque_class_le_malin_depth_charges",
+            "fr_destroyer_le_fantasque_class_le_malin_torpedoes_depth_charges",
+            "fr_destroyer_le_fantasque_class_le_malin_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_cruiser_dugauy_class_primaguet",
+        "name": "Primauguet",
+        "country": "FRANCE",
+        "weapons_default": [
+            "torpedoes",
+            "fr_cruiser_dugauy_class_primaguet_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_cruiser_suffren_class_colbert",
+        "name": "Colbert",
+        "country": "FRANCE",
+        "weapons_default": [
+            "fr_cruiser_suffren_class_colbert_torpedoes",
+            "fr_cruiser_suffren_class_colbert_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_battleship_courbet_class_paris",
+        "name": "Paris",
+        "country": "FRANCE",
+        "weapons_default": [
+            "fr_battleship_courbet_class_paris_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_battleship_bretagne_class_lorraine",
+        "name": "Lorraine",
+        "country": "FRANCE",
+        "weapons_default": [
+            "fr_battleship_bretagne_class_lorraine_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_destroyer_jaguar_class_leopard",
+        "name": "Leopard",
+        "country": "FRANCE",
+        "weapons_default": [
+            "fr_destroyer_jaguar_class_leopard_torpedoes",
+            "fr_destroyer_jaguar_class_leopard_bomb_mortars",
+            "fr_destroyer_jaguar_class_leopard_torpedoes_bomb_mortars",
+            "fr_destroyer_jaguar_class_leopard_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_destroyer_jaguar_class_chacal",
+        "name": "Chacal",
+        "country": "FRANCE",
+        "weapons_default": [
+            "torpedoes",
+            "fr_destroyer_jaguar_class_chacal_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_destroyer_desaix_class_kleber",
+        "name": "Kleber",
+        "country": "FRANCE",
+        "weapons_default": [
+            "torpedoes",
+            "fr_destroyer_desaix_class_kleber_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_destroyer_aigle_class_milan",
+        "name": "Milan",
+        "country": "FRANCE",
+        "weapons_default": [
+            "fr_destroyer_aigle_class_milan_torpedoes",
+            "fr_destroyer_aigle_class_milan_mines",
+            "fr_destroyer_aigle_class_milan_torpedo_mines",
+            "fr_destroyer_aigle_class_milan_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_destroyer_marceau_class_marceau",
+        "name": "Marceau",
+        "country": "FRANCE",
+        "weapons_default": [
+            "fr_destroyer_marceau_class_marceau_torpedoes",
+            "fr_destroyer_marceau_class_marceau_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_cruiser_jeanne_darc",
+        "name": "Jeanne d'Arc",
+        "country": "FRANCE",
+        "weapons_default": [
+            "fr_cruiser_jeanne_darc_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_cruiser_emile_bertin",
+        "name": "Emile Bertin",
+        "country": "FRANCE",
+        "weapons_default": [
+            "fr_cruiser_emile_bertin_torpedoes",
+            "fr_cruiser_emile_bertin_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_battleship_bretagne_class_bretagne",
+        "name": "Bretagne",
+        "country": "FRANCE",
+        "weapons_default": [
+            "fr_battleship_bretagne_class_bretagne_torpedoes",
+            "fr_battleship_bretagne_class_bretagne_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_destroyer_jaguar_class_panthere",
+        "name": "Panthere",
+        "country": "FRANCE",
+        "weapons_default": [
+            "fr_destroyer_jaguar_class_panthere_torpedoes",
+            "fr_destroyer_jaguar_class_panthere_depth_charges",
+            "fr_destroyer_jaguar_class_panthere_torpedoes_depth_charges",
+            "fr_destroyer_jaguar_class_panthere_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_destroyer_bourrasque_class_tornade",
+        "name": "Tornade",
+        "country": "FRANCE",
+        "weapons_default": [
+            "fr_destroyer_bourrasque_class_tornade_torpedoes",
+            "fr_destroyer_bourrasque_class_tornade_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_destroyer_aigle_class_aigle",
+        "name": "Aigle",
+        "country": "FRANCE",
+        "weapons_default": [
+            "torpedoes",
+            "fr_destroyer_aigle_class_aigle_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_destroyer_le_fantasque_class_le_triomphant",
+        "name": "Le Triomphant",
+        "country": "FRANCE",
+        "weapons_default": [
+            "torpedoes",
+            "bomb_mortars",
+            "torpedoes_bomb_mortars",
+            "fr_destroyer_le_fantasque_class_le_triomphant_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_cruiser_dugauy_class_dugauy_trouin",
+        "name": "Duguay-Trouin",
+        "country": "FRANCE",
+        "weapons_default": [
+            "it_cruiser_zara_class_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_cruiser_suffren_class_dupleix",
+        "name": "Dupleix",
+        "country": "FRANCE",
+        "weapons_default": [
+            "fr_cruiser_suffren_class_dupleix_torpedoes",
+            "fr_cruiser_suffren_class_dupleix_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_battleship_courbet_class_courbet",
+        "name": "Courbet",
+        "country": "FRANCE",
+        "weapons_default": [
+            "fr_battleship_courbet_class_courbet_torpedoes",
+            "fr_battleship_courbet_class_courbet_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_cruiser_leipzig",
+        "name": "Leipzig",
+        "country": "GERMANY",
+        "weapons_default": [
+            "germ_cruiser_leipzig_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_cruiser_nurnberg",
+        "name": "N\u00fcrnberg",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "germ_cruiser_nurnberg_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_cruiser_admiral_hipper",
+        "name": "Admiral Hipper",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "germ_cruiser_admiral_hipper_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_battleship_westfalen",
+        "name": "SMS Westfalen",
+        "country": "GERMANY",
+        "weapons_default": [
+            "germ_battleship_westfalen_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_battleship_helgoland",
+        "name": "SMS Helgoland",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "germ_battleship_helgoland_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_battleship_kaiser",
+        "name": "SMS Kaiser",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "germ_battleship_kaiser_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_battleship_bayern",
+        "name": "SMS Bayern",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "germ_battleship_bayern_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_battleship_sachsen",
+        "name": "SMS Sachsen",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "germ_battleship_sachsen_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_cruiser_elbing",
+        "name": "SMS Elbing",
+        "country": "GERMANY",
+        "weapons_default": [
+            "germ_cruiser_elbing_torpedoes",
+            "germ_cruiser_elbing_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_cruiser_emden_1944",
+        "name": "Emden",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "germ_cruiser_emden_1944_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_cruiser_koln",
+        "name": "K\u00f6ln",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "germ_cruiser_koln_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_cruiser_admiral_graf_spee",
+        "name": "Admiral Graf Spee",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "germ_cruiser_admiral_graf_spee_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_battlecruiser_von_der_tann",
+        "name": "SMS Von der Tann",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "germ_battlecruiser_von_der_tann_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battlecruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_battleship_scharnhorst",
+        "name": "Scharnhorst",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "germ_battleship_scharnhorst_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battlecruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_cruiser_karlsruhe",
+        "name": "Karlsruhe",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "germ_cruiser_karlsruhe_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_cruiser_prinz_eugen",
+        "name": "Prinz Eugen",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "germ_cruiser_prinz_eugen_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_battleship_nassau",
+        "name": "SMS Nassau",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "germ_battleship_nassau_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_battleship_ostfriesland",
+        "name": "SMS Ostfriesland",
+        "country": "GERMANY",
+        "weapons_default": [
+            "germ_battleship_ostfriesland_torpedoes",
+            "germ_battleship_ostfriesland_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_battleship_baden",
+        "name": "SMS Baden",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "germ_battleship_baden_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_destroyer_mogador_class_mogador",
+        "name": "Mogador",
+        "country": "FRANCE",
+        "weapons_default": [
+            "torpedoes",
+            "fr_destroyer_mogador_class_mogador_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_battlecruiser_derfflinger",
+        "name": "SMS Derfflinger",
+        "country": "GERMANY",
+        "weapons_default": [
+            "germ_battlecruiser_derfflinger_torpedoes",
+            "germ_battlecruiser_derfflinger_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battlecruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_battleship_dunkerque",
+        "name": "Dunkerque",
+        "country": "FRANCE",
+        "weapons_default": [
+            "fr_battleship_dunkerque_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_cruiser_la_galissoniere_class_la_galissoniere",
+        "name": "La Galissonni\u00e8re",
+        "country": "FRANCE",
+        "weapons_default": [
+            "torpedoes",
+            "fr_cruiser_la_galissoniere_class_la_galissoniere_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_battlecruiser_ersatz_yorck",
+        "name": "Ersatz Yorck",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "germ_battlecruiser_ersatz_yorck_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battlecruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_battleship_strasbourg",
+        "name": "Strasbourg",
+        "country": "FRANCE",
+        "weapons_default": [
+            "fr_battleship_strasbourg_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_destroyer_class1924_leopard1932",
+        "name": "Leopard",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "germ_destroyer_class1924_leopard1932_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_destroyer_class1934a_1944",
+        "name": "Z15 Erich Steinbrinck",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "bomb_mortar",
+            "bomb_mortar_torpedoes",
+            "germ_destroyer_class1934a_1944_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_destroyer_class1934a_1940",
+        "name": "Z12 Erich Giese",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "wbg_bomb_mortar",
+            "wbg_bomb_mortar_G7e_torpedoes",
+            "germ_destroyer_class1934a_1940_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_destroyer_class1936a_mob_z32",
+        "name": "Z32",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "germ_destroyer_class1936a_mob_z32_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_destroyer_class1936c_z46",
+        "name": "Z46",
+        "country": "GERMANY",
+        "weapons_default": [
+            "germ_destroyer_class1936c_z46_torpedoes",
+            "germ_destroyer_class1936c_z46_mines",
+            "germ_destroyer_class1936c_z46_torpedoes_mines",
+            "germ_destroyer_class1936c_z46_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_destroyer_class1939_t22",
+        "name": "T22",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "wbg_bomb_mortar",
+            "wbg_bomb_mortar_G7a_torpedoes",
+            "germ_destroyer_class1939_t22_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_kanonenboot_k2",
+        "name": "K2",
+        "country": "GERMANY",
+        "weapons_default": [
+            "germ_kanonenboot_k2_default",
+            "wbd_depth_charges",
+            "wbg_mortar",
+            "wbg_mortar_and_depth_charges"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_destroyer_class1936_z20",
+        "name": "Z22 Anton Schmitt",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "germ_destroyer_class1936_z20_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_destroyer_class1936b",
+        "name": "Z43",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "bomb_mortar",
+            "bomb_mortar_torpedoes",
+            "germ_destroyer_class1936b_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_destroyer_class1924_iltis",
+        "name": "Luchs",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "germ_destroyer_class1924_iltis_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_destroyer_class1924_jaguar1941",
+        "name": "Jaguar",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "germ_destroyer_class1924_jaguar1941_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_destroyer_class1936c_z47",
+        "name": "Z47",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "germ_destroyer_class1936c_z47_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_destroyer_class1936_z20_karlgalster",
+        "name": "Z20 Karl Galster",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "germ_destroyer_class1936_z20_karlgalster_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_destroyer_class1939_t31",
+        "name": "T31",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "wbg_bomb_mortar",
+            "wbg_bomb_mortar_G7a_torpedoes",
+            "germ_destroyer_class1939_t31_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_destroyer_class1936a_z25",
+        "name": "Z25",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "bomb_mortar",
+            "bomb_mortar_torpedoes",
+            "germ_destroyer_class1936a_z25_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_destroyer_turbine",
+        "name": "RN Turbine",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "p200_mines_torpedoes",
+            "p125_mines",
+            "it_destroyer_turbine_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_destroyer_dardo",
+        "name": "RN Dardo",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "it_destroyer_dardo_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_destroyer_leone_class",
+        "name": "RN Leone",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "it_destroyer_dardo_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_destroyer_soldati_serie1_camicianera",
+        "name": "RN Corazziere",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "bomb_mortar",
+            "bomb_mortar_torpedoes",
+            "it_destroyer_soldati_serie1_camicianera_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_destroyer_navigatori_class_verazzano",
+        "name": "RN Da Verazzano",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "it_destroyer_navigatori_class_verazzano_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_cruiser_bartolomeocolleoni_1940",
+        "name": "RN Bartolomeo Colleoni",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "it_cruiser_bartolomeocolleoni_1940_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_cruiser_montecuccoli",
+        "name": "RN Raimondo Montecuccoli",
+        "country": "ITALY",
+        "weapons_default": [
+            "it_cruiser_montecuccoli_torpedoes",
+            "it_cruiser_montecuccoli_bomb_mortar",
+            "it_cruiser_montecuccoli_bomb_mortar_torpedoes",
+            "it_cruiser_montecuccoli_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_cruiser_eugenio_di_savoia",
+        "name": "RN Eugenio di Savoia",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "bomb_mortar_torpedoes",
+            "bomb_mortar",
+            "it_cruiser_eugenio_di_savoia_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_cruiser_garibaldi_class_abruzzi",
+        "name": "RN Duca degli Abruzzi",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "bomb_mortar_torpedoes",
+            "bomb_mortar",
+            "it_cruiser_garibaldi_class_abruzzi_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_battleship_dante_alighieri",
+        "name": "RN Dante Alighieri",
+        "country": "ITALY",
+        "weapons_default": [
+            "it_battleship_dante_alighieri_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_battleship_conte_di_cavour",
+        "name": "RN Conte di Cavour",
+        "country": "ITALY",
+        "weapons_default": [
+            "it_battleship_conte_di_cavour_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_destroyer_vifor_class_aquila",
+        "name": "RN Aquila",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "it_destroyer_vifor_class_aquila_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_destroyer_comandanti_medaglie_doro",
+        "name": "RN Comandante Margottini",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "bb1_bomb_mortar",
+            "bb1_bomb_mortar_53_38_torpedoes",
+            "it_destroyer_comandanti_medaglie_doro_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_destroyer_impetuoso_class_impetuoso",
+        "name": "Impetuoso",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "bomb_mortars",
+            "bomb_mortars_torpedoes",
+            "it_destroyer_impetuoso_class_impetuoso_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_cruiser_etna_class",
+        "name": "RN Etna",
+        "country": "ITALY",
+        "weapons_default": [
+            "it_cruiser_etna_class_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_cruiser_capitani_romani_class_attilio_regolo",
+        "name": "RN Attilio Regolo",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "p200_mines",
+            "p200_mines_torpedoes",
+            "it_cruiser_capitani_romani_class_attilio_regolo_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_cruiser_trento",
+        "name": "RN Trento",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "it_cruiser_trento_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_cruiser_bolzano",
+        "name": "RN Bolzano",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "it_cruiser_bolzano_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_cruiser_zara_class",
+        "name": "RN Zara",
+        "country": "ITALY",
+        "weapons_default": [
+            "it_cruiser_zara_class_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_battleship_andrea_doria",
+        "name": "RN Andrea Doria",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "it_battleship_andrea_doria_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_battleship_caio_duilio",
+        "name": "RN Duilio",
+        "country": "ITALY",
+        "weapons_default": [
+            "it_battleship_caio_duilio_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_destroyer_aquilone",
+        "name": "RN Aquilone",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "p200_mines_torpedoes",
+            "p125_mines",
+            "it_destroyer_aquilone_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_destroyer_fletcher_geniere",
+        "name": "Geniere",
+        "country": "ITALY",
+        "weapons_default": [
+            "it_destroyer_fletcher_geniere_torpedoes",
+            "it_destroyer_fletcher_geniere_bomb_mortars",
+            "it_destroyer_fletcher_geniere_bomb_mortars_torpedoes",
+            "it_destroyer_fletcher_geniere_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_destroyer_leone_class_tigre",
+        "name": "RN Tigre",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "it_destroyer_leone_class_tigre_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_destroyer_soldati_serie1_geniere",
+        "name": "RN Geniere",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "bomb_mortar",
+            "bomb_mortar_torpedoes",
+            "it_destroyer_soldati_serie1_geniere_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_cruiser_zara_class_pola",
+        "name": "RN Pola",
+        "country": "ITALY",
+        "weapons_default": [
+            "it_cruiser_zara_class_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_battleship_leonardo_da_vinci",
+        "name": "RN Leonardo da Vinci",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "it_battleship_leonardo_da_vinci_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_destroyer_soldati_serie1",
+        "name": "RN Aviere",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "bomb_mortar",
+            "bomb_mortar_torpedoes",
+            "it_destroyer_soldati_serie1_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_armoredcruiser_ikoma",
+        "name": "IJN Ikoma",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "jp_armoredcruiser_ikoma_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battlecruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_armoredcruiser_kurama",
+        "name": "IJN Kurama",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "jp_armoredcruiser_kurama_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battlecruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_battlecruiser_haruna",
+        "name": "IJN Haruna",
+        "country": "JAPAN",
+        "weapons_default": [
+            "jp_battlecruiser_haruna_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_battlecruiser_amagi",
+        "name": "IJN Amagi",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "jp_battlecruiser_amagi_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battlecruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_battleship_francesco_caracciolo",
+        "name": "RN Francesco Caracciolo",
+        "country": "ITALY",
+        "weapons_default": [
+            "it_battleship_francesco_caracciolo_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_destroyer_fletcher_zerstorer4",
+        "name": "Z4 Zerst\u00f6rer",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "bomb_mortars",
+            "bomb_mortars_torpedoes",
+            "germ_destroyer_fletcher_zerstorer4_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_destroyer_maestrale_class_grecale",
+        "name": "Grecale",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "bomb_mortar",
+            "bomb_mortar_torpedoes",
+            "it_destroyer_maestrale_class_grecale_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_battleship_dreadnought",
+        "name": "HMS Dreadnought",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "uk_battleship_dreadnought_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_battleship_orion",
+        "name": "HMS Orion",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "uk_battleship_orion_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_battleship_marlborough",
+        "name": "HMS Marlborough",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "uk_battlecruiser_marlborough_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_battleship_colossus",
+        "name": "HMS Colossus",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "uk_battleship_colossus_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_battlecruiser_glorious",
+        "name": "HMS Glorious",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "uk_battlecruiser_hood_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battlecruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_battlecruiser_invincible",
+        "name": "HMS Invincible",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "uk_battlecruiser_hood_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battlecruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_battlecruiser_queen_mary",
+        "name": "HMS Queen Mary",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "uk_battlecruiser_queen_mary_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battlecruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_battlecruiser_hood",
+        "name": "HMS Hood",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "uk_battlecruiser_hood_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battlecruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_battleship_iron_duke",
+        "name": "HMS Iron Duke",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "uk_battlecruiser_iron_duke_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_battlecruiser_renown",
+        "name": "HMS Renown",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "uk_battlecruiser_renown_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battlecruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_destroyer_momi",
+        "name": "IJN Momi",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "jp_destroyer_momi_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_destroyer_harukaze",
+        "name": "JDS Harukaze (DD-101)",
+        "country": "JAPAN",
+        "weapons_default": [
+            "hedgehog_mortar",
+            "k_gun_board_mortars",
+            "k_gun_board_mortars_hedgehog_mortar",
+            "jp_destroyer_harukaze_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_destroyer_akizuki",
+        "name": "IJN Akizuki",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "type95_bomb_mortar",
+            "type95_bomb_mortar_type93_model3_torpedoes",
+            "jp_destroyer_akizuki_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_cruiser_kako",
+        "name": "IJN Kako",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "jp_cruiser_kako_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_cruiser_furutaka",
+        "name": "IJN Furutaka",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "jp_cruiser_furutaka_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_cruiser_aoba",
+        "name": "IJN Aoba",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "jp_cruiser_aoba_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_cruiser_haguro",
+        "name": "IJN Haguro",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "jp_cruiser_haguro_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_cruiser_tone",
+        "name": "IJN Tone",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "jp_cruiser_tone_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_battleship_settsu",
+        "name": "IJN Settsu",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "jp_battleship_settsu_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_battleship_fuso",
+        "name": "IJN Fuso",
+        "country": "JAPAN",
+        "weapons_default": [
+            "jp_battleship_fuso_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_destroyer_mutsuki",
+        "name": "IJN Mutsuki",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "type95_bomb_mortar",
+            "type95_bomb_mortar_type90_torpedoes",
+            "mark6_mines",
+            "mark6_mines_torpedoes",
+            "jp_destroyer_mutsuki_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_destroyer_fubuki",
+        "name": "IJN Ayanami",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "type95_bomb_mortar",
+            "type95_bomb_mortar_type90_torpedoes",
+            "jp_destroyer_fubuki_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_destroyer_yugumo",
+        "name": "IJN Yugumo",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "type95_bomb_mortar",
+            "type95_bomb_mortar_type93_model1_mod2_torpedoes",
+            "jp_destroyer_yugumo_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_destroyer_hatsuharu",
+        "name": "IJN Hatsuharu",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "type95_bomb_mortars",
+            "type95_bomb_mortars_type93_torpedoes",
+            "jp_destroyer_hatsuharu_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_cruiser_isuzu",
+        "name": "IJN Isuzu",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "jp_cruiser_isuzu_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_cruiser_kuma",
+        "name": "IJN Tama",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "type95_bomb_mortar",
+            "type95_bomb_mortar_type6_torpedoes",
+            "mark6_mines",
+            "mark6_mines_torpedoes",
+            "jp_cruiser_kuma_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_cruiser_sendai",
+        "name": "IJN Sendai",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "type95_bomb_mortar",
+            "type95_bomb_mortar_type90_torpedoes",
+            "jp_cruiser_sendai_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_cruiser_agano",
+        "name": "IJN Agano",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "jp_cruiser_agano_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_cruiser_mogami_suzuya",
+        "name": "IJN Suzuya",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "jp_cruiser_mogami_suzuya_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_cruiser_mogami",
+        "name": "IJN Mogami",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "jp_cruiser_mogami_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_battleship_hyuga",
+        "name": "IJN Hyuga",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "jp_battleship_hyuga_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_battleship_ise",
+        "name": "IJN Ise",
+        "country": "JAPAN",
+        "weapons_default": [
+            "jp_battleship_ise_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_battlecruiser_kongo",
+        "name": "IJN Kongo",
+        "country": "JAPAN",
+        "weapons_default": [
+            "jp_battlecruiser_kongo_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_battleship_mutsu",
+        "name": "IJN Mutsu",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "jp_battleship_mutsu_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_destroyer_satsuki",
+        "name": "IJN Satsuki",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "type95_bomb_mortar",
+            "type95_bomb_mortar_type90_torpedoes",
+            "mark6_mines",
+            "mark6_mines_torpedoes",
+            "jp_destroyer_satsuki_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_destroyer_nenohi",
+        "name": "IJN Nenohi",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "type95_bomb_mortars",
+            "type95_bomb_mortars_type93_torpedoes",
+            "jp_destroyer_nenohi_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_destroyer_yugure",
+        "name": "JDS Y\u016bgure (DD-184)",
+        "country": "JAPAN",
+        "weapons_default": [
+            "mk6_bomb_mortar",
+            "jp_destroyer_yugure_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_destroyer_kiyoshimo",
+        "name": "IJN Kiyoshimo",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "type95_bomb_mortar",
+            "type95_bomb_mortar_type93_model3_torpedoes",
+            "jp_destroyer_kiyoshimo_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_cruiser_yubari",
+        "name": "IJN Yubari",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "jp_cruiser_yubari_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_destroyer_shimakaze",
+        "name": "IJN Shimakaze",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "type95_bomb_mortar",
+            "type95_bomb_mortar_type93_model1_mod2_torpedoes",
+            "jp_destroyer_shimakaze_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_cruiser_myoko",
+        "name": "IJN Myoko",
+        "country": "JAPAN",
+        "weapons_default": [
+            "jp_cruiser_myoko_default",
+            "jp_cruiser_myoko_torpedoes"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_cruiser_mogami_mikuma",
+        "name": "IJN Mikuma",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "jp_cruiser_mogami_mikuma_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_battleship_yamashiro",
+        "name": "IJN Yamashiro",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "jp_battleship_yamashiro_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_destroyer_hayanami",
+        "name": "IJN Hayanami",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "type95_bomb_mortar",
+            "type95_bomb_mortar_type93_model1_mod2_torpedoes",
+            "jp_destroyer_hayanami_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_destroyer_hatsuzuki",
+        "name": "IJN Hatsuzuki",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "type95_bomb_mortar",
+            "type95_bomb_mortar_type93_model3_torpedoes",
+            "jp_destroyer_hatsuzuki_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_destroyer_yuudachi",
+        "name": "IJN Yuudachi",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "type95_bomb_mortars",
+            "type95_bomb_mortars_type93_torpedoes",
+            "jp_destroyer_yuudachi_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_battlecruiser_repulse",
+        "name": "HMS Repulse",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "uk_battlecruiser_repulse_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battlecruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_destroyer_murasame",
+        "name": "JDS Murasame (DD-107)",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "bomb_mortars",
+            "torpedoes_bomb_mortar",
+            "jp_destroyer_murasame_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_battlecruiser_kirishima",
+        "name": "IJN Kirishima",
+        "country": "JAPAN",
+        "weapons_default": [
+            "jp_battlecruiser_kirishima_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_destroyer_matsu",
+        "name": "IJN Matsu",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "type95_bomb_mortar",
+            "type95_bomb_mortar_type90_torpedoes",
+            "jp_destroyer_matsu_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_destroyer_v_class_vega",
+        "name": "HMS Vega",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "mk_vii_bomb_mortar",
+            "uk_destroyer_v_class_valhalla_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_destroyer_hunt_2series",
+        "name": "HMS Calpe",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "uk_destroyer_hunt_2series_default",
+            "bomb_mortar"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_destroyer_tribal",
+        "name": "HMS Eskimo",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "mk_vii_bomb_mortar",
+            "mk_vii_bomb_mortar_mk_ix_torpedoes",
+            "uk_destroyer_tribal_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_destroyer_n_class",
+        "name": "HMAS Nepal",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "mk_vii_bomb_mortar",
+            "mk_vii_bomb_mortar_mk_ix_torpedoes",
+            "uk_destroyer_n_class_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_destroyer_battle_2series",
+        "name": "HMS Armada",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "uk_destroyer_battle_2series_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_destroyer_battle_tobruk",
+        "name": "HMAS Tobruk",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "uk_destroyer_battle_tobruk_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_cruiser_arethusa",
+        "name": "HMS Arethusa",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "uk_cruiser_arethusa_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_cruiser_leander",
+        "name": "HMNZS Leander",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "uk_cruiser_leander_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_cruiser_southampton",
+        "name": "HMS Southampton",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "uk_cruiser_southampton_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_destroyer_g_grafton",
+        "name": "HMS Grafton",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "mk_vii_bomb_mortar",
+            "mk_vii_bomb_mortar_mk_viii_torpedoes",
+            "uk_destroyer_g_grafton_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_destroyer_hunt_4series",
+        "name": "HMS Brissenden",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "bomb_mortar",
+            "bomb_mortar_torpedoes",
+            "uk_destroyer_hunt_4series_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_destroyer_k_class",
+        "name": "HMS Kelvin",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "bomb_mortar",
+            "bomb_mortar_torpedoes",
+            "uk_destroyer_k_class_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_destroyer_daring_class_diana",
+        "name": "HMS Diana",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "uk_destroyer_daring_class_diana_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_destroyer_daring_class_daring",
+        "name": "HMS Daring",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "uk_destroyer_daring_class_daring_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_cruiser_dido",
+        "name": "HMS Dido",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "uk_cruiser_dido_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_cruiser_york",
+        "name": "HMS York",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "uk_cruiser_york_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_destroyer_clemson_churchill",
+        "name": "HMS Churchill",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "hedgehog_mortar",
+            "hedgehog_mortar_mk_viii_torpedoes",
+            "uk_destroyer_clemson_churchill_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_minelayer_abdiel_class_abdiel",
+        "name": "HMS Abdiel",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "type_a_mk1_mines",
+            "uk_minelayer_abdiel_class_abdiel_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_cruiser_enterprise_d52",
+        "name": "HMS Enterprise",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "uk_cruiser_enterprise_d52_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_cruiser_hawkins",
+        "name": "HMS Hawkins",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "uk_cruiser_hawkins_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_cruiser_kent",
+        "name": "HMS Kent",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "uk_cruiser_kent_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_cruiser_norfolk",
+        "name": "HMS Norfolk",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "uk_cruiser_norfolk_torpedoes",
+            "uk_cruiser_norfolk_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_cruiser_london",
+        "name": "HMS London",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "uk_cruiser_london_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_destroyer_v_class_verdun",
+        "name": "HMS Verdun",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "mk_vii_bomb_mortar",
+            "uk_destroyer_v_class_verdun_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_destroyer_v_class_valhalla",
+        "name": "HMS Valhalla",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "uk_destroyer_v_class_valhalla_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_destroyer_j_class",
+        "name": "HMS Jervis",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "uk_destroyer_j_class_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_destroyer_tribal_mohawk",
+        "name": "HMS Mohawk",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "mk_vii_bomb_mortar",
+            "mk_vii_bomb_mortar_mk_ix_torpedoes",
+            "uk_destroyer_tribal_mohawk_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_destroyer_haida",
+        "name": "HMCS Haida",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "mk_vii_bomb_mortar",
+            "mk_vii_bomb_mortar_mk_viii_torpedoes",
+            "uk_destroyer_haida_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_destroyer_daring_class_diamond",
+        "name": "HMS Diamond",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "uk_destroyer_daring_class_diamond_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_cruiser_liverpool",
+        "name": "HMS Liverpool",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "uk_cruiser_liverpool_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_cruiser_belfast",
+        "name": "HMS Belfast",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "uk_cruiser_belfast_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_destroyer_clemson_montgomery_g95",
+        "name": "HMS Montgomery",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "hedgehog_mortar",
+            "hedgehog_mortar_mk_viii_torpedoes",
+            "uk_destroyer_clemson_montgomery_g95_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_destroyer_g_garland",
+        "name": "ORP Garland",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "mk_vii_bomb_mortar",
+            "mk_vii_bomb_mortar_mk_viii_torpedoes",
+            "uk_destroyer_g_garland_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_destroyer_battle_cadiz",
+        "name": "HMS Cadiz",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "uk_destroyer_battle_cadiz_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_cruiser_tiger",
+        "name": "HMS Tiger",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "uk_cruiser_tiger_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_cruiser_krasnyi_kavkaz",
+        "name": "Krasny Kavkaz",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "ussr_cruiser_krasnyi_kavkaz_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_cruiser_kirov",
+        "name": "Kirov",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "ussr_cruiser_kirov_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_cruiser_chapayev",
+        "name": "Chapayev",
+        "country": "USSR",
+        "weapons_default": [
+            "ussr_cruiser_chapayev_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_battleship_poltava",
+        "name": "Poltava",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "ussr_battleship_poltava_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_battleship_parizhskaya_kommuna",
+        "name": "Parizhskaya Kommuna",
+        "country": "USSR",
+        "weapons_default": [
+            "ussr_battleship_parizhskaya_kommuna_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_battleship_novorossiysk",
+        "name": "Novorossiysk",
+        "country": "USSR",
+        "weapons_default": [
+            "ussr_battleship_novorossiysk_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_battleship_imperatritsa_mariya",
+        "name": "Imperatritsa Mariya",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "ussr_battleship_imperatritsa_mariya_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_battlecruiser_kronshtadt",
+        "name": "Kronshtadt",
+        "country": "USSR",
+        "weapons_default": [
+            "ussr_battlecruiser_kronshtadt_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battlecruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_cruiser_kerch",
+        "name": "Kerch",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "ussr_cruiser_kerch_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_battleship_marat",
+        "name": "Marat",
+        "country": "USSR",
+        "weapons_default": [
+            "ussr_battleship_marat_torpedoes",
+            "ussr_battleship_marat_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_battleship_q_elizabet_class_barham",
+        "name": "HMS Barham",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "uk_battleship_q_elizabet_class_barham_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_battlecruiser_izmail",
+        "name": "Izmail",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "ussr_battlecruiser_izmail_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battlecruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_battleship_rodney",
+        "name": "HMS Rodney",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "uk_battleship_rodney_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_battleship_arhangelsk",
+        "name": "Arkhangelsk",
+        "country": "USSR",
+        "weapons_default": [
+            "ussr_battleship_arhangelsk_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_battleship_q_elizabet_class_warspite",
+        "name": "HMS Warspite",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "uk_battleship_q_elizabet_class_warspite_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_cruiser_atlanta_class_atlanta",
+        "name": "USS Atlanta",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "us_cruiser_atlanta_class_atlanta_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_cruiser_fargo_class",
+        "name": "USS Fargo",
+        "country": "USA",
+        "weapons_default": [
+            "us_fargo_class_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_cruiser_brooklyn_class_brooklyn",
+        "name": "USS Brooklyn",
+        "country": "USA",
+        "weapons_default": [
+            "us_cruiser_brooklyn_class_brooklyn_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_battleship_texas",
+        "name": "USS Texas",
+        "country": "USA",
+        "weapons_default": [
+            "us_battleship_texas_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_battleship_arizona_1931",
+        "name": "USS Arizona",
+        "country": "USA",
+        "weapons_default": [
+            "us_battleship_arizona_1931_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_cruiser_omaha_class_trenton",
+        "name": "USS Trenton",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "us_cruiser_omaha_class_trenton_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_cruiser_omaha_class_raleigh",
+        "name": "USS Raleigh",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "us_cruiser_omaha_class_raleigh_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_cruiser_cleveland_class_cleveland",
+        "name": "USS Cleveland",
+        "country": "USA",
+        "weapons_default": [
+            "us_cruiser_cleveland_class_cleveland_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_battleship_north_dakota",
+        "name": "USS North Dakota",
+        "country": "USA",
+        "weapons_default": [
+            "us_battleship_north_dakota_torpedoes",
+            "us_battleship_north_dakota_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_battleship_wyoming_class",
+        "name": "USS Wyoming",
+        "country": "USA",
+        "weapons_default": [
+            "us_battleship_wyoming_class_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_battleship_nevada",
+        "name": "USS Nevada",
+        "country": "USA",
+        "weapons_default": [
+            "us_battleship_nevada_common"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_cruiser_northampton_class",
+        "name": "USS Northampton",
+        "country": "USA",
+        "weapons_default": [
+            "us_cruiser_northampton_class_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_cruiser_new_orleans_class",
+        "name": "USS New Orleans",
+        "country": "USA",
+        "weapons_default": [
+            "us_cruiser_new_orleans_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_cruiser_baltimore_class_pittsburgh",
+        "name": "USS Pittsburgh",
+        "country": "USA",
+        "weapons_default": [
+            "us_cruiser_baltimore_class_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_battlecruiser_alaska_class",
+        "name": "USS Alaska",
+        "country": "USA",
+        "weapons_default": [
+            "us_battlecruiser_alaska_class_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battlecruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_cruiser_brooklyn_class_helena",
+        "name": "USS Helena",
+        "country": "USA",
+        "weapons_default": [
+            "us_cruiser_brooklyn_class_helena_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_cruiser_baltimore_class",
+        "name": "USS Baltimore",
+        "country": "USA",
+        "weapons_default": [
+            "us_cruiser_baltimore_class_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_battleship_arkansas",
+        "name": "USS Arkansas",
+        "country": "USA",
+        "weapons_default": [
+            "us_battleship_arkansas_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_battleship_mississippi",
+        "name": "USS Mississippi",
+        "country": "USA",
+        "weapons_default": [
+            "us_battleship_mississippi_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_cruiser_omaha_class_detroit",
+        "name": "USS Detroit",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "us_cruiser_omaha_class_detroit_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_cruiser_des_moines_class_newport_news",
+        "name": "USS Newport News",
+        "country": "USA",
+        "weapons_default": [
+            "us_cruiser_des_moines_class_newport_news_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_cruiser_des_moines_class",
+        "name": "USS Des Moines",
+        "country": "USA",
+        "weapons_default": [
+            "us_cruiser_des_moines_class_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_destroyer_frunze",
+        "name": "Frunze",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "ussr_destroyer_frunze_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_destroyer_pr45",
+        "name": "Opytny",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "ussr_destroyer_pr45_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_destroyer_7_besposhchadny",
+        "name": "Besposhchadny",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "ussr_destroyer_7_besposhchadny_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_destroyer_moskva",
+        "name": "Moskva",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "ussr_destroyer_moskva_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_destroyer_7y",
+        "name": "Soobrazitelny",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "bb1_bomb_mortar",
+            "bb1_bomb_mortar_53_38_torpedoes",
+            "ussr_destroyer_7y_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_cruiser_krasnyi_krim",
+        "name": "Krasny Krym",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "ussr_cruiser_krasnyi_krim_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_cruiser_sverdlov",
+        "name": "Sverdlov",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "ussr_cruiser_sverdlov_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_destroyer_regele_ferdinand_class_letuchiy",
+        "name": "Letuchiy",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "ussr_destroyer_regele_ferdinand_class_letuchiy_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_destroyer_pr30_ognevoy",
+        "name": "Ognevoy",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "bb1_mortars",
+            "bb1_mortars_53_39_torpedoes",
+            "ussr_destroyer_pr30_ognevoy_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_destroyer_pr30bis_bezuprechnyi",
+        "name": "Bezuprechny",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "bomb_mortars",
+            "bomb_mortars_torpedoes",
+            "mines",
+            "mines_torpedoes",
+            "ussr_destroyer_pr30bis_bezuprechnyi_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_destroyer_pr20_tashkent",
+        "name": "Tashkent",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "ussr_destroyer_pr20_tashkent_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_destroyer_pr56_spokoinyy",
+        "name": "Spokoinyy",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "depth_charges",
+            "depth_charges_torpedoes",
+            "ussr_destroyer_pr56_spokoinyy_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_destroyer_pr56_bravy",
+        "name": "Bravy",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "bomb_mortar",
+            "bomb_mortar_torpedoes",
+            "ussr_destroyer_pr56_bravy_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_cruiser_mikhail_kutuzov",
+        "name": "Mikhail Kutuzov",
+        "country": "USSR",
+        "weapons_default": [
+            "ussr_cruiser_mikhail_kutuzov_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_destroyer_kerch",
+        "name": "Kerch",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "ussr_destroyer_kerch_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_destroyer_7_ryany",
+        "name": "Ryany",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "ussr_destroyer_7_besposhchadny_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_destroyer_pr30bis_smelyi",
+        "name": "Smelyi",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "bomb_mortars",
+            "bomb_mortars_torpedoes",
+            "mines",
+            "mines_torpedoes",
+            "ussr_destroyer_pr30bis_smelyi_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_destroyer_leningrad",
+        "name": "Leningrad",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "ussr_destroyer_leningrad_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_destroyer_pr56_blagorodny",
+        "name": "Blagorodnyy",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "bomb_mortars",
+            "torpedoes_bomb_mortar",
+            "ussr_destroyer_pr56_blagorodny_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_cruiser_zheleznyakov",
+        "name": "Zheleznyakov",
+        "country": "USSR",
+        "weapons_default": [
+            "ussr_cruiser_zheleznyakov_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_cruiser_shcherbakov",
+        "name": "Shcherbakov",
+        "country": "USSR",
+        "weapons_default": [
+            "ussr_cruiser_shcherbakov_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_destroyer_7y_stroyny",
+        "name": "Stroyny",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "bb1_bomb_mortar",
+            "bb1_bomb_mortar_53_38_torpedoes",
+            "ussr_destroyer_7y_stroyny_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_destroyer_pr41_neustrashimy",
+        "name": "Neustrashimy",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "rbu_2500_rocket_launcher",
+            "rbu_2500_rocket_launcher_set40_torpedoes",
+            "ussr_destroyer_pr41_neustrashimy_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_cruiser_voroshilov",
+        "name": "Voroshilov",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "ussr_cruiser_voroshilov_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_cruiser_maxim_gorky",
+        "name": "Maxim Gorky",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "ussr_cruiser_maxim_gorky_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_battleship_tennessee",
+        "name": "USS Tennessee",
+        "country": "USA",
+        "weapons_default": [
+            "us_battleship_tennessee_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_cruiser_omaha_class_murmansk",
+        "name": "Murmansk",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "ussr_cruiser_omaha_class_murmansk_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_battleship_colorado_class_colorado",
+        "name": "USS Colorado",
+        "country": "USA",
+        "weapons_default": [
+            "us_battleship_colorado_class_colorado_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Battleship",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_destroyer_clemson_litchfield",
+        "name": "USS Litchfield",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "us_destroyer_clemson_litchfield_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_destroyer_farragut_1942",
+        "name": "USS Aylwin",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "mk6_bomb_mortar",
+            "mk6_bomb_mortar_mk15_torpedoes",
+            "us_destroyer_farragut_1942_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_destroyer_sumner",
+        "name": "USS Sumner",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "mk6_bomb_mortar",
+            "mk6_bomb_mortar_mk15_torpedoes",
+            "us_destroyer_sumner_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_destroyer_gearing",
+        "name": "USS Gearing",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "mk6_bomb_mortar",
+            "mk6_bomb_mortar_mk15_torpedoes",
+            "us_destroyer_gearing_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_destroyer_porter_1941",
+        "name": "USS Porter",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "us_destroyer_porter_1941_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_destroyer_somers",
+        "name": "USS Somers",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "us_destroyer_somers_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_cruiser_worcester_class_roanoke",
+        "name": "USS Roanoke",
+        "country": "USA",
+        "weapons_default": [
+            "us_cruiser_worcester_class_roanoke_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Light cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_destroyer_clemson_barker",
+        "name": "USS Barker",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "us_destroyer_clemson_barker_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_destroyer_fletcher",
+        "name": "USS Fletcher",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "mk6_bomb_mortar",
+            "mk6_bomb_mortar_mk15_torpedoes",
+            "us_destroyer_fletcher_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_destroyer_mitscher",
+        "name": "USS Mitscher",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "rocket_launcher",
+            "rocket_launcher_torpedoes",
+            "us_destroyer_mitscher_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_cruiser_portland_class",
+        "name": "USS Portland",
+        "country": "USA",
+        "weapons_default": [
+            "us_cruiser_portland_class_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_cruiser_pensacola_class",
+        "name": "USS Pensacola",
+        "country": "USA",
+        "weapons_default": [
+            "us_cruiser_pensacola_class_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy cruiser",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_destroyer_clemson_welborn_c_wood",
+        "name": "USS Welborn C. Wood",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "us_destroyer_clemson_welborn_c_wood_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_destroyer_mitscher_wilkinson",
+        "name": "USS Wilkinson",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "rocket_launcher",
+            "rocket_launcher_torpedoes",
+            "us_destroyer_mitscher_wilkinson_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_destroyer_gearing_frank_knox",
+        "name": "USS Frank Knox",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "mk6_bomb_mortar",
+            "mk6_bomb_mortar_mk15_torpedoes",
+            "us_destroyer_gearing_frank_knox_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_destroyer_fletcher_cowell",
+        "name": "USS Cowell",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "mk6_bomb_mortar",
+            "mk6_bomb_mortar_mk15_torpedoes",
+            "us_destroyer_fletcher_cowell_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_destroyer_porter_1942",
+        "name": "USS Moffett",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "mk6_bomb_mortar",
+            "mk6_bomb_mortar_mk15_torpedoes",
+            "us_destroyer_porter_1942_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_destroyer_fletcher_bennion",
+        "name": "USS Bennion",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "mk6_bomb_mortar",
+            "mk6_bomb_mortar_mk15_torpedoes",
+            "us_destroyer_fletcher_bennion_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_destroyer_somers_davis",
+        "name": "USS Davis",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "us_destroyer_somers_davis_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_destroyer_porter_1944",
+        "name": "USS Phelps",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "mk6_bomb_mortar",
+            "mk6_bomb_mortar_mk15_torpedoes",
+            "us_destroyer_porter_1944_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_destroyer_bagley_class_bagley",
+        "name": "USS Bagley",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "us_destroyer_bagley_class_bagley_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Destroyer",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_vlt2",
+        "name": "VLT-2",
+        "country": "FRANCE",
+        "weapons_default": [
+            "torpedoes",
+            "fr_vlt2_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_ls_class",
+        "name": "LS 3",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "germ_ls_class_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_s38",
+        "name": "S-38",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "wbd_depth_charges",
+            "wbd_depth_charges_G7a_torpedoes",
+            "germ_s38_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_s38b",
+        "name": "S-38b",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "wbd_depth_charges",
+            "wbd_depth_charges_G7e_torpedoes",
+            "germ_s38b_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_s_100_class",
+        "name": "S-100",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "emf_mines",
+            "emf_mines_torpedoes",
+            "germ_s_100_class_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_s_100_s_174_class",
+        "name": "S-147",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "wbd_depth_charges",
+            "wbd_depth_charges_G7a_torpedoes",
+            "emf_mines",
+            "emf_mines_torpedoes",
+            "germ_s_100_s_174_class_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_pr_131",
+        "name": "V-990",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "mines",
+            "torpedoes_mines",
+            "germ_pr_131_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_mz_1",
+        "name": "MZ1",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "wbd_depth_charges",
+            "wbd_depth_charges_G7a_torpedoes",
+            "germ_mz_1_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_minelayer_drache",
+        "name": "Drache",
+        "country": "GERMANY",
+        "weapons_default": [
+            "bomb_mortar",
+            "mines",
+            "bomb_mortar_mines",
+            "germ_minelayer_drache_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_type143_albatros",
+        "name": "Albatros",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "germ_type143_albatros_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_pr_206",
+        "name": "Pr. 206",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "bb1_depth_charges",
+            "bb1_depth_charges_53_56_torpedoes",
+            "germ_pr_206_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_rboot_r41",
+        "name": "R-41",
+        "country": "GERMANY",
+        "weapons_default": [
+            "germ_rboot_r41_default",
+            "wbd_depth_charges"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_rboot_r130",
+        "name": "R-130",
+        "country": "GERMANY",
+        "weapons_default": [
+            "germ_rboot_r130_default",
+            "wbd_depth_charges",
+            "emc_mines"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_rboot_r301",
+        "name": "R-301",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "emc_mines",
+            "emc_mines_torpedoes",
+            "germ_rboot_r301_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_sf40_schwere_flakkampffaehre",
+        "name": "SF40 Heavy",
+        "country": "GERMANY",
+        "weapons_default": [
+            "germ_sf40_schwere_flakkampffaehre_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Barge",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_sf40_leichte_flakkampffaehre",
+        "name": "SF40 Light",
+        "country": "GERMANY",
+        "weapons_default": [
+            "germ_sf40_leichte_flakkampffaehre_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Barge",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_artilleriefahrprahm_typ_d1",
+        "name": "AF D1",
+        "country": "GERMANY",
+        "weapons_default": [
+            "germ_artilleriefahrprahm_typ_d1_default",
+            "wbd_depth_charges"
+        ],
+        "ammo_amount": 0,
+        "role": "Barge",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_artilleriefahrprahm_typ_d3",
+        "name": "AF D3",
+        "country": "GERMANY",
+        "weapons_default": [
+            "germ_artilleriefahrprahm_typ_d3_default",
+            "wbd_depth_charges"
+        ],
+        "ammo_amount": 0,
+        "role": "Barge",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_escort_typem1935",
+        "name": "M-17",
+        "country": "GERMANY",
+        "weapons_default": [
+            "bomb_mortar",
+            "mines",
+            "bomb_mortar_mines",
+            "germ_escort_typem1935_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_type140_jaguar",
+        "name": "Jaguar",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "germ_type140_jaguar_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_frigate_koln",
+        "name": "K\u00f6ln",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "depth_charges",
+            "depth_charges_torpedoes",
+            "rocket_launcher",
+            "rocket_launcher_depth_charges",
+            "rocket_launcher_torpedoes",
+            "rocket_launcher_depth_charges_torpedoes",
+            "germ_frigate_koln_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Frigate",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_rdm242",
+        "name": "Krischan der Gro\u00dfe",
+        "country": "GERMANY",
+        "weapons_default": [
+            "germ_rdm242_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_kondor2_class",
+        "name": "Bernau",
+        "country": "GERMANY",
+        "weapons_default": [
+            "kondor2_class_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_type152_hugin",
+        "name": "Hugin",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "germ_type152_hugin_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_ls4_class",
+        "name": "LS 4 Esau",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "germ_ls4_class_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_km5",
+        "name": "KM-5",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "germ_ls_class_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_s_100_s204_lang",
+        "name": "S-204 Lang",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "emf_mines",
+            "emf_mines_torpedoes",
+            "germ_s_100_s204_lang_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_escort_typem1943",
+        "name": "M-802",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "wbg_mortar",
+            "wbg_mortar_G7a_torpedoes",
+            "germ_escort_typem1943_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_skr_pr50_karl_marx",
+        "name": "Karl Marx",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "bomb_mortar",
+            "rocket_launcher",
+            "rocket_launcher_torpedoes",
+            "bomb_mortar_torpedoes",
+            "bomb_mortar_rocket_launcher",
+            "bomb_mortar_rocket_launcher_torpedoes",
+            "germ_skr_pr50_karl_marx_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Frigate",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_type143_bussard",
+        "name": "Bussard",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "germ_type143_bussard_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_s_700_s_701",
+        "name": "S-701",
+        "country": "GERMANY",
+        "weapons_default": [
+            "germ_s_700_s_701_torpedoes",
+            "germ_s_700_s_701_depth_charges",
+            "germ_s_700_s_701_torpedoes_depth_charges",
+            "germ_s_700_s_701_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_frigate_koln_lubeck",
+        "name": "L\u00fcbeck",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "depth_charges",
+            "depth_charges_torpedoes",
+            "rocket_launcher",
+            "rocket_launcher_depth_charges",
+            "rocket_launcher_torpedoes",
+            "rocket_launcher_depth_charges_torpedoes",
+            "germ_frigate_koln_lubeck_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Frigate",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_vtb8",
+        "name": "VTB-8",
+        "country": "FRANCE",
+        "weapons_default": [
+            "torpedoes",
+            "fr_vtb8_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_vtb14",
+        "name": "VTB-14",
+        "country": "FRANCE",
+        "weapons_default": [
+            "torpedoes",
+            "fr_vtb14_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_type40k_vedette",
+        "name": "VTB-19",
+        "country": "FRANCE",
+        "weapons_default": [
+            "torpedoes",
+            "default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_arras_class_arras",
+        "name": "Arras",
+        "country": "FRANCE",
+        "weapons_default": [
+            "arras_class_arras_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_vlt1",
+        "name": "VLT-1",
+        "country": "FRANCE",
+        "weapons_default": [
+            "torpedoes",
+            "fr_vlt2_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_p730_combattante",
+        "name": "La Combattante",
+        "country": "FRANCE",
+        "weapons_default": [
+            "p730_combattante_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_vtb11",
+        "name": "VTB-11",
+        "country": "FRANCE",
+        "weapons_default": [
+            "torpedoes",
+            "fr_vtb11_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_vtb13",
+        "name": "VTB-13",
+        "country": "FRANCE",
+        "weapons_default": [
+            "fr_vtb13_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_mtb96_vosper",
+        "name": "MTB-96",
+        "country": "FRANCE",
+        "weapons_default": [
+            "torpedoes",
+            "depth_charges",
+            "depth_charges_torpedoes",
+            "fr_mtb96_vosper_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_lcg_m_l9059",
+        "name": "L9059",
+        "country": "FRANCE",
+        "weapons_default": [
+            "lcg_m_l9059_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_frigate_croix_de_lorraine_class_la_surprise",
+        "name": "La Surprise",
+        "country": "FRANCE",
+        "weapons_default": [
+            "stern_depth_charges",
+            "hedgehog_mortar",
+            "board_mortars",
+            "hedgehog_mortar_stern_and_board_depth_charges",
+            "hedgehog_mortar_mortar_and_stern_depth_charges",
+            "hedgehog_mortar_and_board_depth_charges",
+            "hedgehog_mortar_stern_depth_charges_board_mortars",
+            "fr_frigate_croix_de_lorraine_class_la_surprise_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Frigate",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_vtb9",
+        "name": "VTB-9",
+        "country": "FRANCE",
+        "weapons_default": [
+            "torpedoes",
+            "fr_vtb9_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_vtb12_mod",
+        "name": "VTB-12",
+        "country": "FRANCE",
+        "weapons_default": [
+            "torpedoes",
+            "fr_vtb12_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_vtb18",
+        "name": "VTB-18",
+        "country": "FRANCE",
+        "weapons_default": [
+            "torpedoes",
+            "fr_vtb18_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_flower_class_aconit",
+        "name": "Aconit",
+        "country": "FRANCE",
+        "weapons_default": [
+            "bomb_mortar",
+            "fr_flower_class_aconit_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_marne_class_marne",
+        "name": "Marne",
+        "country": "FRANCE",
+        "weapons_default": [
+            "fr_marne_class_marne_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_schutze_class",
+        "name": "Sch\u00fctze",
+        "country": "GERMANY",
+        "weapons_default": [
+            "schutze_class_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "fr_arras_class_amiens",
+        "name": "Amiens",
+        "country": "FRANCE",
+        "weapons_default": [
+            "arras_class_amiens_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_vs10_hydrofoil",
+        "name": "VS-10",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "germ_vs10_hydrofoil_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_type153_pfeil",
+        "name": "Pfeil",
+        "country": "GERMANY",
+        "weapons_default": [
+            "torpedoes",
+            "germ_type153_pfeil_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "germ_vs8_hydrofoil",
+        "name": "VS-8",
+        "country": "GERMANY",
+        "weapons_default": [
+            "emc_mines",
+            "germ_vs8_hydrofoil_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_mas_classe500_3_1944",
+        "name": "MAS 561",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "depth_charges",
+            "depth_charges_torpedoes",
+            "it_mas_classe500_3_1944_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_vas_baglietto_68t_1serie",
+        "name": "VAS 201",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "depth_charges",
+            "depth_charges_torpedoes",
+            "it_vas_baglietto_68t_1serie_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_ms15_1a",
+        "name": "MS-15",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "depth_charges",
+            "depth_charges_torpedoes",
+            "it_ms15_1a_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_mas_stefano_turr",
+        "name": "Stefano Turr",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "depth_charges",
+            "depth_charges_torpedoes",
+            "it_mas_stefano_turr_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_a1_vosper",
+        "name": "GIS 811",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "it_a1_vosper_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_ms473_2a",
+        "name": "MS-472",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "depth_charges",
+            "depth_charges_torpedoes",
+            "it_ms473_2a_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_mc490_folgore",
+        "name": "MC-490",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "it_mc490_folgore_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_alano_9851",
+        "name": "Alano",
+        "country": "ITALY",
+        "weapons_default": [
+            "it_alano_9851_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_p494_saetta",
+        "name": "Saetta P-494",
+        "country": "ITALY",
+        "weapons_default": [
+            "it_p494_saetta_default",
+            "rocket_launcher"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_mas_classe500_3",
+        "name": "MAS 555",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "depth_charges",
+            "depth_charges_torpedoes",
+            "it_mas_classe500_3_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_ms53_2a",
+        "name": "MS-53",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "depth_charges",
+            "depth_charges_torpedoes",
+            "it_ms53_2a_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_ms471_1a",
+        "name": "MV-611",
+        "country": "ITALY",
+        "weapons_default": [
+            "it_ms471_1a_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_ms473_2a_art",
+        "name": "MS-473",
+        "country": "ITALY",
+        "weapons_default": [
+            "depth_charges",
+            "it_ms473_2a_art_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_gabbiano_class",
+        "name": "RN Gabbiano",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "bomb_mortar",
+            "bomb_mortar_torpedos",
+            "it_gabbiano_class_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_albatros_class_f543",
+        "name": "Albatros",
+        "country": "ITALY",
+        "weapons_default": [
+            "it_albatros_class_f543_bomb_mortars",
+            "it_albatros_class_f543_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Frigate",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_mas_classe500_4",
+        "name": "MAS 569",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "depth_charges",
+            "depth_charges_torpedoes",
+            "it_mas_classe500_4_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_mc_485",
+        "name": "MC 485",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "it_mc_485_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_gabbiano_class_c16",
+        "name": "Folaga",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "bomb_mortar",
+            "bomb_mortar_torpedos",
+            "it_gabbiano_class_c16_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_p420_sparviero",
+        "name": "Sparviero",
+        "country": "ITALY",
+        "weapons_default": [
+            "it_p420_sparviero_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_albatros_class_f544",
+        "name": "Alcione",
+        "country": "ITALY",
+        "weapons_default": [
+            "bomb_mortars",
+            "it_albatros_class_f544_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Frigate",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_p493_freccia",
+        "name": "Freccia P-493",
+        "country": "ITALY",
+        "weapons_default": [
+            "it_p493_freccia_default",
+            "torpedoes"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_t14_class",
+        "name": "Type T-14",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "type95_depth_charges",
+            "type95_depth_charges_type2_torpedoes",
+            "jp_t14_class_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_karotei_type2",
+        "name": "Type 4 (mod. 2)",
+        "country": "JAPAN",
+        "weapons_default": [
+            "jp_karotei_type2_default",
+            "jp_karotei_type2_depth_charges"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_sehatei_mod1",
+        "name": "Ha-Go (mod. 1)",
+        "country": "JAPAN",
+        "weapons_default": [
+            "jp_sehatei_mod1_default",
+            "jp_sehatei_depth_charges"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_kusen_tei_13_1944",
+        "name": "Type K-8 No.13 late",
+        "country": "JAPAN",
+        "weapons_default": [
+            "jp_kusen_tei_13_1944_default",
+            "jp_kusen_tei_13_depth_charges",
+            "jp_kusen_tei_13_bomb_mortar",
+            "jp_kusen_tei_13_bomb_mortar_and_depth_charges"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_t51b",
+        "name": "Type T-51b",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "type95_depth_charges",
+            "type95_depth_charges_type2_torpedoes",
+            "jp_t51b_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_escort_ikazuchi_class",
+        "name": "Ikazuchi",
+        "country": "JAPAN",
+        "weapons_default": [
+            "jp_escort_ikazuchi_class_default",
+            "hedgehog_mortar",
+            "k_gun_board_mortars",
+            "depth_charges",
+            "depth_charges_bomb_mortars"
+        ],
+        "ammo_amount": 0,
+        "role": "Frigate",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_escort_hiburi_class_syonan",
+        "name": "Syonan",
+        "country": "JAPAN",
+        "weapons_default": [
+            "jp_escort_hiburi_class_syonan_default",
+            "type95_depth_charges",
+            "type95_bomb_mortar",
+            "type95_bomb_mortar_and_depth_charges"
+        ],
+        "ammo_amount": 0,
+        "role": "Frigate",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_destroyer_chidori",
+        "name": "Chidori",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "depth_charges",
+            "bomb_mortar",
+            "bomb_mortar_depth_charges",
+            "depth_charges_torpedoes",
+            "bomb_mortar_torpedoes",
+            "bomb_mortar_depth_charges_torpedoes",
+            "jp_destroyer_chidori_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Frigate",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_abtei_pr1",
+        "name": "Soukou-Tei",
+        "country": "JAPAN",
+        "weapons_default": [
+            "jp_abtei_pr1_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_abtei_pr4",
+        "name": "Soukou-Tei No.4",
+        "country": "JAPAN",
+        "weapons_default": [
+            "jp_abtei_pr4_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_no1_ch2",
+        "name": "Type K-3 No.1",
+        "country": "JAPAN",
+        "weapons_default": [
+            "jp_no1_ch2_default",
+            "jp_no1_ch2_depth_charges"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_no4_ch8",
+        "name": "Type K-7 No.4",
+        "country": "JAPAN",
+        "weapons_default": [
+            "jp_no4_ch8_default",
+            "depth_charges",
+            "bomb_mortar",
+            "bomb_mortar_and_depth_charges"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_escort_chikugo_class",
+        "name": "Chikugo",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "jp_escort_chikugo_class_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Frigate",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_destroyer_isuzu",
+        "name": "Isuzu",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "bomb_mortar",
+            "rocket_launcher",
+            "bomb_mortar_torpedoes",
+            "bomb_mortar_rocket_launcher",
+            "rocket_launcher_torpedoes",
+            "bomb_mortar_rocket_launcher_torpedoes",
+            "jp_destroyer_isuzu_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Frigate",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_destroyer_ayanami",
+        "name": "JDS Ayanami (DD-103)",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "hedgehog",
+            "torpedoes_hedgehog",
+            "jp_destroyer_ayanami_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Frigate",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_t14_class_mod01",
+        "name": "Type T-14 (mod. 1)",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "type95_depth_charges",
+            "type95_depth_charges_type2_torpedoes",
+            "jp_t14_class_mod01_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_kusen_tei_13_1942",
+        "name": "Type K-8 No.13",
+        "country": "JAPAN",
+        "weapons_default": [
+            "jp_kusen_tei_13_1942_default",
+            "jp_kusen_tei_13_depth_charges",
+            "jp_kusen_tei_13_bomb_mortar",
+            "jp_kusen_tei_13_bomb_mortar_and_depth_charges"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_karotei_type4",
+        "name": "Type 4 (Mod 4)",
+        "country": "JAPAN",
+        "weapons_default": [
+            "jp_karotei_type4_default",
+            "jp_karotei_type4_depth_charges"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_t51a",
+        "name": "Type T-51a",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "type95_depth_charges",
+            "type95_depth_charges_type2_torpedoes",
+            "jp_t51a_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_escort_akebono_class",
+        "name": "Akebono",
+        "country": "JAPAN",
+        "weapons_default": [
+            "jp_escort_akebono_class_default",
+            "depth_charges",
+            "bomb_mortar",
+            "bomb_mortar_depth_charges"
+        ],
+        "ammo_amount": 0,
+        "role": "Frigate",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_pg02",
+        "name": "PG 02",
+        "country": "JAPAN",
+        "weapons_default": [
+            "jp_pg02_default",
+            "srboc_smoke_grenades_launcher"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_mas441",
+        "name": "MAS 441",
+        "country": "ITALY",
+        "weapons_default": [
+            "depth_charges",
+            "it_mas441_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_type1_pt2",
+        "name": "PT-802",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "bomb_mortar",
+            "bomb_mortar_torpedoes",
+            "jp_type1_pt2_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_ms444",
+        "name": "MS 444",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "it_ms444_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "it_ciclone_class_ghibli",
+        "name": "RN Ghibli",
+        "country": "ITALY",
+        "weapons_default": [
+            "torpedoes",
+            "bomb_mortar",
+            "torpedoes_bomb_mortar",
+            "it_ciclone_class_ghibli_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Frigate",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_t14_class_mod02",
+        "name": "Type T-14 (mod. 2)",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "type95_depth_charges",
+            "type95_depth_charges_type2_torpedoes",
+            "jp_t14_class_mod01_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_mtb_1series",
+        "name": "MTB-1(1)",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "mk_vii_depth_charges",
+            "mk_vii_depth_charges_mk_xii_torpedoes",
+            "uk_mtb_1series_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_fairmile_a_ml100",
+        "name": "Fairmile A (ML100)",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "mk_vii_depth_charges",
+            "type_a_mk1_mines",
+            "uk_fairmile_a_ml100_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_70ft_mgb",
+        "name": "MGB-61",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "uk_70ft_mgb_default",
+            "mk_vii_depth_charges"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_fairmile_b_ml345",
+        "name": "Fairmile B (ML345)",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "mk_vii_depth_charges",
+            "y_gun_bomb_mortar",
+            "y_gun_bomb_mortar_and_depth_charges",
+            "type_a_mk1_mines",
+            "uk_fairmile_b_ml345_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_dark_class",
+        "name": "Dark Adventurer",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "uk_dark_class_default",
+            "mk_vii_depth_charges"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_dark_class_mtb",
+        "name": "Dark Aggressor",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "mk_vii_depth_charges",
+            "mk_vii_depth_charges_mk_viii_torpedoes",
+            "uk_dark_class_mtb_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_fairmile_d_617_632",
+        "name": "Fairmile D (617)",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "mk_vii_depth_charges",
+            "mk_vii_depth_charges_mk_viii_torpedoes",
+            "uk_fairmile_d_617_632_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_fairmile_d_697_800",
+        "name": "Fairmile D (697)",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "mk_vii_depth_charges",
+            "mk_vii_depth_charges_mk_xv_torpedoes",
+            "uk_fairmile_d_697_800_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_sgb_304",
+        "name": "SGB Grey Fox",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "type_m_mk1_mines",
+            "type_m_mk1_mines_torpedoes",
+            "uk_sgb_304_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_brave_borderer",
+        "name": "Brave Borderer",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "mk_vii_depth_charges",
+            "mk_vii_depth_charges_mk_viii_torpedoes",
+            "uk_brave_borderer_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_destroyer_restigouche_class_terranova",
+        "name": "HMCS Terra Nova",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "mk_vii_bomb_mortar",
+            "uk_destroyer_restigouche_class_terranova_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Frigate",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_frigate_leopard",
+        "name": "HMS Leopard",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "uk_frigate_river_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Frigate",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_mtb_vosper_1series",
+        "name": "MTB Vosper",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "uk_mtb_vosper_1series_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_mtb_vosper_2series",
+        "name": "MTB Vosper(2)",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "mk_vii_depth_charges",
+            "mk_vii_depth_charges_mk_viii_torpedoes",
+            "uk_mtb_vosper_2series_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_hdml_ml1383",
+        "name": "ML 1383",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "uk_hdml_ml1383_depth_charges",
+            "uk_hdml_ml1383_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_isles_class_trawler",
+        "name": "HMS Liscomb",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "uk_isles_class_trawler_default",
+            "mk_vii_depth_charges"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_flower_class",
+        "name": "HMCS Brantford",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "uk_flower_class_default",
+            "mk_vii_depth_charges",
+            "mk_vii_bomb_mortar",
+            "depth_charges_and_bomb_mortar"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_fairmile_c",
+        "name": "Fairmile C (312)",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "uk_fairmile_c_default",
+            "mk_vii_depth_charges"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_fairmile_lcs_l_h_mk2",
+        "name": "Fairmile H LCS(L)(2)",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "uk_fairmile_lcs_l_h_mk2_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_fairmile_d_601_616",
+        "name": "Fairmile D (601)",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "uk_fairmile_d_601_616_default",
+            "mk_vii_depth_charges"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_attack_class_arrow",
+        "name": "HMAS Arrow",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "uk_attack_class_arrow_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_fairmile_c_332",
+        "name": "Fairmile C (332)",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "uk_fairmile_c_332_default",
+            "mk_vii_depth_charges"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_corvette_peacock",
+        "name": "HMS Peacock",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "uk_corvette_peacock_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_frigate_whitby_blackpool",
+        "name": "HMS Blackpool",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "bomb_launcher",
+            "bomb_launcher_torpedoes",
+            "uk_frigate_whitby_blackpool_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Frigate",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_mtb_2series",
+        "name": "MTB-1(2)",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "mk_vii_depth_charges",
+            "mk_vii_depth_charges_mk_xii_torpedoes",
+            "uk_mtb_1series_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_71ft_mgb",
+        "name": "MGB-75",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "uk_71ft_mgb_default",
+            "mk_vii_depth_charges"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_gay_class_archer",
+        "name": "HMS Gay Archer",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "depth_charges",
+            "torpedo_depth_charges",
+            "torpedoes",
+            "uk_gay_class_archer_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_fairmile_d_5001_5029",
+        "name": "Fairmile D (5001)",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "mk_vii_depth_charges",
+            "mk_vii_depth_charges_mk_viii_torpedoes",
+            "uk_fairmile_d_5001_5029_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_sgb_309",
+        "name": "SGB Grey Goose",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "type_m_mk1_mines",
+            "type_m_mk1_mines_torpedoes",
+            "uk_sgb_309_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_corvette_orla",
+        "name": "L\u00c9 Orla",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "uk_corvette_orla_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_frigate_whitby",
+        "name": "HMS Whitby",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "bomb_mortar",
+            "uk_frigate_whitby_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Frigate",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_higgins_78ft_mtb422",
+        "name": "MTB-422",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "uk_higgins_78ft_mtb422_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_dark_class_mtb_td",
+        "name": "Dark Aggressor TD",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "mk_vii_depth_charges",
+            "mk_vii_depth_charges_mk_viii_torpedoes",
+            "uk_dark_class_mtb_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_frigate_river",
+        "name": "HMS Spey",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "uk_frigate_river_default",
+            "stern_depth_charges",
+            "board_mortar_depth_charges",
+            "hedgehog_mortar",
+            "hedgehog_mortar_and_board_mortars",
+            "hedgehog_mortar_and_stern_depth_charges",
+            "hedgehog_and_board_mortar_and_stern_depth_charges"
+        ],
+        "ammo_amount": 0,
+        "role": "Frigate",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_type5_escortboat",
+        "name": "Type 5",
+        "country": "JAPAN",
+        "weapons_default": [
+            "jp_type5_escortboat_default",
+            "jp_type5_depth_charges"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_type_11_pt_15",
+        "name": "PT-15",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "jp_type_11_pt_15_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_yuri_class_asagao",
+        "name": "Asagao (YTE-01)",
+        "country": "JAPAN",
+        "weapons_default": [
+            "rocket_launcher",
+            "jp_yuri_class_asagao_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_type_t1_1941",
+        "name": "Type T-1",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "type95_depth_charges",
+            "type95_depth_charges_type44_torpedoes",
+            "jp_type_t1_1941_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_type38_1944",
+        "name": "Type T-38",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "type95_depth_charges",
+            "type95_depth_charges_type2_torpedoes",
+            "jp_type38_1944_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "jp_type7_pt808",
+        "name": "PT-808",
+        "country": "JAPAN",
+        "weapons_default": [
+            "torpedoes",
+            "bomb_mortar",
+            "torpedoes_bomb_mortar",
+            "jp_type7_pt808_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_g5_mtb",
+        "name": "G-5",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "ussr_g5_mtb_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_d3",
+        "name": "D-3",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "bb1_depth_charges",
+            "bb1_depth_charges_53_38_torpedoes",
+            "ussr_d3_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_bmo",
+        "name": "BMO",
+        "country": "USSR",
+        "weapons_default": [
+            "ussr_bmo_default",
+            "depth_charges",
+            "kb3_mines"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_1124_art",
+        "name": "Pr.1124 early",
+        "country": "USSR",
+        "weapons_default": [
+            "ussr_1124_art_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_1124_ack",
+        "name": "Pr.1124 late",
+        "country": "USSR",
+        "weapons_default": [
+            "ussr_1124_ack_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_g5_mtb_shvak",
+        "name": "G-5 (ShVAK)",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "ussr_g5_mtb_shvak_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_g5_rct",
+        "name": "TKA-412",
+        "country": "USSR",
+        "weapons_default": [
+            "rocket_launcher",
+            "ussr_g5_rct_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_1124_rct",
+        "name": "Pr.1124 MLRS",
+        "country": "USSR",
+        "weapons_default": [
+            "ussr_1124_rct_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_fremantle_class",
+        "name": "HMAS Fremantle",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "uk_fremantle_class_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "uk_mtb35_vosper",
+        "name": "MTB-35",
+        "country": "BRITAIN",
+        "weapons_default": [
+            "torpedoes",
+            "mk_vii_depth_charges",
+            "mk_vii_depth_charges_mk_viii_torpedoes",
+            "uk_mtb35_vosper_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_elco_80ft_pt_boat",
+        "name": "PT-103",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "mk6_depth_charges",
+            "mk6_depth_charges_mk8_torpedoes",
+            "us_elco_80ft_pt_boat_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_elco_80ft_pt_boat_mod01",
+        "name": "PT-314",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "us_elco_80ft_pt_boat_mod01_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_elco_80ft_pt_boat_mod02",
+        "name": "PT-565",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "mk50_rocket_launcher",
+            "mk50_rocket_launcher_mk13_torpedoes",
+            "us_elco_80ft_pt_boat_mod02_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_frigate_dealey",
+        "name": "USS Dealey",
+        "country": "USA",
+        "weapons_default": [
+            "depth_chagres",
+            "bomb_mortars",
+            "mortars_depth_chagres",
+            "us_frigate_tacoma_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Frigate",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_elco_77ft_pt20",
+        "name": "PT-20",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "us_elco_77ft_pt20_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_elco_77ft_pt59",
+        "name": "PT-59",
+        "country": "USA",
+        "weapons_default": [
+            "us_elco_77ft_pt59_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_admirable_class",
+        "name": "USS Candid",
+        "country": "USA",
+        "weapons_default": [
+            "depth_charges",
+            "hedgehog_and_board_mortar",
+            "depth_charges_hedgehog_and_board_mortar",
+            "us_admirable_class_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_ashville_class",
+        "name": "USS Asheville",
+        "country": "USA",
+        "weapons_default": [
+            "us_ashville_class_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_frigate_buckley_class_coolbaugh",
+        "name": "USS Coolbaugh",
+        "country": "USA",
+        "weapons_default": [
+            "bomb_mortars",
+            "us_frigate_buckley_class_coolbaugh_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Frigate",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_cyclone_class_cyclone",
+        "name": "USS Cyclone",
+        "country": "USA",
+        "weapons_default": [
+            "us_cyclone_class_cyclone_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_elco_80ft_pt174",
+        "name": "PT-174",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "us_elco_80ft_pt174_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_elco_80ft_pt_boat_thunderbolt",
+        "name": "Thunderbolt (PT-556)",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "us_elco_80ft_pt_boat_thunderbolt_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_ashville_class_douglas",
+        "name": "USS Douglas",
+        "country": "USA",
+        "weapons_default": [
+            "us_ashville_class_douglas_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_elco_80ft_pt109_boat",
+        "name": "PT-109",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "us_elco_80ft_pt109_boat_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_flagstaff_pgh1",
+        "name": "USS Flagstaff",
+        "country": "USA",
+        "weapons_default": [
+            "us_flagstaff_pgh1_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_mpk_163",
+        "name": "MPK-163",
+        "country": "USSR",
+        "weapons_default": [
+            "ussr_mpk_163_default",
+            "bb1_depth_charges",
+            "rbu_mortar",
+            "bb1_depth_charges_and_rbu_mortar"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_pr_123bis",
+        "name": "Pr.123-bis",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "bb1_depth_charges",
+            "bb1_depth_charges_45_36nu_torpedoes",
+            "ussr_pr_123bis_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_pr_123k",
+        "name": "Pr.123K",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "bb_1_depth_charges",
+            "bb_1_depth_charges_45_36nu_torpedoes",
+            "ussr_pr_123k_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_pr_1204_late",
+        "name": "Pr.1204 late",
+        "country": "USSR",
+        "weapons_default": [
+            "bm_14_17_rocket_launcher",
+            "yam43_mines",
+            "bm_14_17_rocket_launcher_yam43_mines",
+            "ussr_pr_1204_late_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_pr_183",
+        "name": "Pr.183",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "bb1_depth_charges",
+            "bb1_depth_charges_53_38_torpedoes",
+            "ussr_pr_183_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_pr_206",
+        "name": "Pr. 206",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "bb1_depth_charges",
+            "bb1_depth_charges_53_56_torpedoes",
+            "ussr_pr_206_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_pr_206m",
+        "name": "Pr.206-M",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "ussr_pr_206m_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_mo_4",
+        "name": "MO-4",
+        "country": "USSR",
+        "weapons_default": [
+            "ussr_mo_4_default",
+            "bb_1_depth_charges",
+            "rs_82_rocket_launcher",
+            "rs_82_rocket_launcher_depth_charges"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_od_200",
+        "name": "OD-200",
+        "country": "USSR",
+        "weapons_default": [
+            "ussr_od_200_default",
+            "bb1_depth_charges"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_mpk_122a",
+        "name": "MPK pr.122A",
+        "country": "USSR",
+        "weapons_default": [
+            "ussr_mpk_122a_default",
+            "bb1_depth_charges",
+            "bb1_bomb_mortar",
+            "bomb_mortar_and_depth_charges"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_skr_groza_1943",
+        "name": "Groza",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "bb1_bomb_mortar",
+            "bb1_bomb_mortar_45_36nu_torpedoes",
+            "ussr_skr_groza_1943_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Frigate",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_mpk_201m",
+        "name": "MPK Pr.201M",
+        "country": "USSR",
+        "weapons_default": [
+            "ussr_mpk_201m_rocket_launcher",
+            "ussr_mpk_201m_mines",
+            "ussr_mpk_201m_rocket_launcher_mines",
+            "ussr_mpk_201m_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_mpk_204",
+        "name": "MPK Pr.204",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "rbu_6000_bomb_mortar",
+            "rbu_6000_bomb_mortar_set40_torpedoes",
+            "ussr_mpk_204_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_skr_pr50_jenot",
+        "name": "Yenot",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "bomb_mortar",
+            "bomb_mortar_torpedoes",
+            "ussr_skr_pr50_jenot_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Frigate",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_mpk_pr1331m",
+        "name": "MPK Pr.1331M",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "rbu_6000_bomb_mortar",
+            "rbu_6000_bomb_mortar_set40_torpedoes",
+            "rbu_6000_bomb_mortar_bb1_depth_charges",
+            "bb1_depth_charges",
+            "bb1_depth_charges_torpedoes",
+            "rbu_6000_bomb_mortar_bb1_depth_charges_torpedoes",
+            "ussr_mpk_pr1331m_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Frigate",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_skr_pr159",
+        "name": "SKR-1",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "rbu_2500_rocket_launcher",
+            "rbu_2500_rocket_launcher_set40_torpedoes",
+            "ussr_skr_pr159_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Frigate",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_pr_191",
+        "name": "Pr.191",
+        "country": "USSR",
+        "weapons_default": [
+            "ussr_pr_191_default",
+            "mirab_mines"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_pr_191m",
+        "name": "Pr.191M",
+        "country": "USSR",
+        "weapons_default": [
+            "ussr_pr_191m_default",
+            "mirab_mines"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_mkl_186",
+        "name": "MBK pr.186",
+        "country": "USSR",
+        "weapons_default": [
+            "ussr_mkl_186_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_mbk_161_1944",
+        "name": "MBK-161 late",
+        "country": "USSR",
+        "weapons_default": [
+            "ussr_mbk_161_1944_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_mpk_pr12412",
+        "name": "MPK Pr.12412",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "rbu_1200_mortar",
+            "rbu_1200_mortar_set40_torpedoes",
+            "rbu_1200_mortar_bb1_depth_charges",
+            "bb1_depth_charges",
+            "bb1_depth_charges_torpedoes",
+            "rbu_1200_mortar_bb1_depth_charges_torpedoes",
+            "ussr_mpk_pr12412_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_mpk_pr11451",
+        "name": "MPK Pr.11451",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "ussr_mpk_pr11451_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_ya_5m",
+        "name": "Ya-5M",
+        "country": "USSR",
+        "weapons_default": [
+            "ussr_ya_5m_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_pr_123k_hydrofoils",
+        "name": "Pr.123K (A-10bis)",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "bb1_depth_charges",
+            "bb1_depth_charges_45_36nu_torpedoes",
+            "ussr_pr_123k_hydrofoils_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_pr_1204",
+        "name": "Pr.1204",
+        "country": "USSR",
+        "weapons_default": [
+            "ussr_pr_1204_default",
+            "yam43_mines"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_pr_183_egypt_bm_21",
+        "name": "Pr.183 BM-21",
+        "country": "USSR",
+        "weapons_default": [
+            "ussr_pr_183_egypt_bm_21_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_mbk_161_1943",
+        "name": "MBK-161 early",
+        "country": "USSR",
+        "weapons_default": [
+            "ussr_mbk_161_1943_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_mkl_186_mk85",
+        "name": "MBK pr.186 (MK 85)",
+        "country": "USSR",
+        "weapons_default": [
+            "ussr_mkl_186_mk85_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_skr_pr50plo_rosomacha",
+        "name": "Rosomacha",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "rocket_launcher",
+            "rocket_launcher_torpedoes",
+            "ussr_skr_pr50plo_rosomacha_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Frigate",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_skr_pr35",
+        "name": "SKR-7",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "rbu_6000_bomb_mortar",
+            "rbu_6000_bomb_mortar_set40_torpedoes",
+            "ussr_skr_pr35_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Frigate",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_mpk_122bis",
+        "name": "MPK Pr.122bis",
+        "country": "USSR",
+        "weapons_default": [
+            "ussr_mpk_122bis_default",
+            "bb1_depth_charges",
+            "bb1_bomb_mortar",
+            "bomb_mortar_and_depth_charges"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_mpk_201k",
+        "name": "MPK Pr.201K",
+        "country": "USSR",
+        "weapons_default": [
+            "ussr_mpk_201m_rocket_launcher",
+            "ussr_mpk_201m_mines",
+            "ussr_mpk_201m_rocket_launcher_mines",
+            "ussr_mpk_201k_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_mpk_pr12412p",
+        "name": "MPK Pr.12412P",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "rbu_1200_mortar",
+            "rbu_1200_mortar_set40_torpedoes",
+            "rbu_1200_mortar_bb1_depth_charges",
+            "bb1_depth_charges",
+            "bb1_depth_charges_torpedoes",
+            "rbu_1200_mortar_bb1_depth_charges_torpedoes",
+            "ussr_mpk_pr12412p_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_pr253l",
+        "name": "Pr.253L",
+        "country": "USSR",
+        "weapons_default": [
+            "ussr_pr253l_default",
+            "depth_charges",
+            "kb1_mines"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "ussr_pr_103_sm4",
+        "name": "SM-4",
+        "country": "USSR",
+        "weapons_default": [
+            "torpedoes",
+            "depth_charges",
+            "torpedoes_depth_charges",
+            "ussr_pr_103_sm4_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_pt6",
+        "name": "PT-6",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "mk6_depth_charges",
+            "mk6_depth_charges_mk18_1_torpedoes",
+            "us_pt6_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_nasty_ptf",
+        "name": "PTF-7",
+        "country": "USA",
+        "weapons_default": [
+            "us_nasty_ptf_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_higgins_78ft_pt71",
+        "name": "PT-71",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "us_higgins_78ft_pt71_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_tucumcari_pgh2",
+        "name": "USS Tucumcari",
+        "country": "USA",
+        "weapons_default": [
+            "us_tucumcari_pgh2_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_pt812",
+        "name": "PT-812",
+        "country": "USA",
+        "weapons_default": [
+            "us_pt812_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_pt810",
+        "name": "PT-810",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "mk6_depth_charges",
+            "mk6_depth_charges_mk16_torpedoes",
+            "us_pt810_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_frigate_tacoma",
+        "name": "USS Hoquiam",
+        "country": "USA",
+        "weapons_default": [
+            "depth_charges",
+            "bomb_mortars",
+            "depth_charges_bomb_mortars",
+            "us_frigate_tacoma_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Frigate",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_pc_451",
+        "name": "PC-451",
+        "country": "USA",
+        "weapons_default": [
+            "us_pc_451_default",
+            "mk6_depth_charges",
+            "mk20_mousetrap_and_k_gun_mortar",
+            "mk20_mousetrap_and_k_gun_mortar_depth_charges"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_sc_497",
+        "name": "SC-497",
+        "country": "USA",
+        "weapons_default": [
+            "us_sc_497_default",
+            "mk6_depth_charges",
+            "mk20_mousetrap_and_k_gun_mortar",
+            "mk20_mousetrap_and_k_gun_mortar_mk6_depth_charge"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_higgins_78ft_pt625",
+        "name": "PT-200",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "m8_rocket_launcher",
+            "m8_rocket_launcher_mk13_torpedoes",
+            "us_higgins_78ft_pt625_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_lcs_l_3",
+        "name": "LCS(L)(3)",
+        "country": "USA",
+        "weapons_default": [
+            "us_lcs_l_3_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_pgm_59_class",
+        "name": "Kim Qui",
+        "country": "USA",
+        "weapons_default": [
+            "us_pgm_59_class_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_pt3",
+        "name": "PT-3",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "mk3_depth_charges",
+            "mk3_depth_charges_mk7_torpedoes",
+            "us_pt3_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_pc_466_carmi",
+        "name": "Carmi (PC-466)",
+        "country": "USA",
+        "weapons_default": [
+            "us_pc_466_carmi_default",
+            "mk6_k_gun_depth_charges",
+            "mk6_stern_depth_charges",
+            "mk6_all_depth_charges"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_lcm_zippo",
+        "name": "LCM(6) Zippo",
+        "country": "USA",
+        "weapons_default": [
+            "lcm_zippo_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Heavy boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_pt811",
+        "name": "PT-811",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "us_pt811_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    },
+    {
+        "ID": "us_higgins_78ft_pt658",
+        "name": "PT-658",
+        "country": "USA",
+        "weapons_default": [
+            "torpedoes",
+            "depth_charges",
+            "depth_charges_torpedoes",
+            "m8_rocket_launcher",
+            "m8_rocket_launcher_mk13_torpedoes",
+            "depth_charges_rockets_torpedoes",
+            "us_higgins_78ft_pt658_default"
+        ],
+        "ammo_amount": 0,
+        "role": "Boat",
+        "image": "",
+        "ammo": []
+    }
+]
